@@ -1,0 +1,994 @@
+### Title: Privacy-first Collaboration & Remote Access | Diode™
+
+**Overview:**
+Diode is designed for secure messaging and remote access, particularly aimed at sensitive environments such as corporate settings. The service emphasizes privacy and protection against cyber threats, stating that it is suitable for executives, expats, and operations teams.
+
+---
+
+**Main Features:**
+
+1. **Privacy-focused Collaboration:**
+   - Diode allows secure communication between team members and external trusted advisors.
+   - All messages are only accessible to included participants, similar to a VPN tunnel for enhanced privacy.
+
+2. **Global Access:**
+   - Users maintain access to the Internet and corporate assets seamlessly while traveling abroad.
+
+3. **Regulated Data Compliance:**
+   - Adheres to privacy laws like GDPR and HIPAA to avoid breaches of protected data.
+
+4. **Secure File Sharing:**
+   - Files can be shared directly between team members without using cloud storage, preventing unauthorized access.
+
+5. **Secure Application Access:**
+   - Offers safer access to applications with end-to-end encryption, more secure than traditional options like GMail or Dropbox.
+
+6. **No Cloud Storage:**
+   - Diode does not utilize cloud storage to prevent data breaches, making it a decentralized system.
+
+7. **End-to-End Encryption:**
+   - Communications and file sharing are protected using 256-bit end-to-end encryption (E2EE).
+
+---
+
+**Command Line Interface (CLI) and Network Node:**
+For developers and technical users, Diode provides a CLI and network node:
+
+- **Download Link for CLI and Node Configuration:**
+  - Users are encouraged to visit the Download Hub to acquire these tools.
+
+---
+
+**Installation Instructions:**
+Users can download Diode for various platforms:
+
+- **MacOS X**
+- **Windows (64-bit)**
+- **Linux (64-bit)**
+- **Raspberry Pi**
+  - ARM 32bit
+  - ARM 64bit
+- **Mobile Platforms:**
+  - iOS
+  - Android
+
+After downloading, it's recommended to verify the installations by comparing SHA-1 checksums for integrity.
+
+---
+
+**Conclusion:**
+Diode offers a comprehensive solution focusing on privacy, secure communication, and regulatory compliance. The lack of reliance on cloud storage and the use of advanced encryption techniques set it apart from other tools in the market, making it a preferred choice for organizations that prioritize security in their operations.### Solutions | Diode™
+
+The webpage describes various products offered by Diode aimed at enhancing team collaboration and security through advanced connectivity solutions. Here are the main technical details:
+
+#### 1. **Diode Collab**
+- **Description**: A secure application for teams, allowing collaboration on chat, files, notes, and secure web access.
+- **Security**: Uses 256-bit end-to-end encryption (E2EE).
+- **Platforms**:
+  - **MacOS X**
+  - **Windows (64-bit)**
+  - **Linux (64-bit)**
+  - **Raspberry Pi (ARM 32-bit and 64-bit)**
+  - **iOS**
+  - **Android**
+
+#### 2. **Diode CLI**
+- **Description**: A command line interface allowing for secure edge device connectivity without data leakage.
+- **Usage**: Suitable for IoT/OT data, SSH, website operations, and server administration.
+- **Installation**: Can be installed from binaries or custom compiled for specific platforms.
+- **Compliance**: Helps ensure compliance with GDPR, HIPAA, and other data regulations.
+
+#### 3. **Diode Vault**
+- **Description**: An “always-on” team member for chat, files, and asset management, making data available regardless of user online status.
+- **Usage**: Ideal for backups, time zone bridging, and functioning as a network exit node.
+
+#### 4. **Diode Network**
+- **Description**: The Smart Network infrastructure of Diode, using zero-trust principles and blockchain technology.
+- **Functionality**: Facilitates the creation, provisioning, and use of E2EE perimeters.
+- **Deployment**: Users can host their own server node or deploy a standalone private network for custom applications.
+
+#### **Installation and Download Links**
+- For the **Diode Collab** application:
+  - [Download for MacOS X](#)
+  - [Download for Windows (64-bit)](#)
+  - [Download for Linux (64-bit)](#)
+  - [Download for Raspberry Pi / ARM 32-bit](#)
+  - [Download for Raspberry Pi / ARM 64-bit](#)
+  - [Get for iOS](#)
+  - [Get for Android](#)
+- **Validation**: SHA-1 checksum provided for Linux builds to ensure file integrity.
+
+#### **Additional Resources**
+- **Documentation**: Available for further technical details.
+- **Community and Support**: Offers avenues for users to engage and seek assistance.
+
+This page emphasizes Diode’s commitment to secure collaboration and operational integrity across various platforms and applications.### Diode Collab™ | Diode™
+
+**Overview:**
+Diode Collab is a secure collaboration tool designed to create "security perimeters" for teams. It enables secure chat, file sharing, and web browsing without relying on third-party servers, ensuring that communications remain private and protected even from the provider itself.
+
+---
+
+**Key Features:**
+
+1. **Secure Chat and File Sharing:**
+   - Direct messaging and group chat capabilities.
+   - Fully end-to-end encrypted communications.
+   - Built-in file syncing functionalities.
+
+2. **Decentralized Network:**
+   - Operates without third-party dependencies, providing enhanced security.
+   - Users can sign up using only a pseudo-anonymous username, avoiding the need for personal identifiable information.
+
+3. **Protected Identities:**
+   - Self-custody credentials that are not stored on any server.
+   - Designed for maximum privacy with zero leakage of data.
+
+4. **Collaborative Tools:**
+   - Functions similarly to a VPN but integrates collaboration tools.
+   - Users can connect from anywhere globally, with options for local direct connections.
+
+5. **Secure Upload Sites:**
+   - Users can create secure upload locations accessible via share links for external parties without Diode Collab.
+
+---
+
+**Technical Specifications:**
+
+- **CLI (Command Line Interface):** 
+  - Designed for OT, IT, and IoT devices. 
+  - Can be operated alone for securing autonomous systems or in conjunction with other users on Diode Collab.
+
+- **Diode Vault:**
+  - Combines app and CLI functionalities into a compact appliance or cloud service.
+  - Provides continuous availability, backup, and geo-access for connected teams and assets.
+
+- **Diode Network:**
+  - A zero trust software-defined network using hardened blockchain technology for enhanced security.
+
+---
+
+**Download Links:**
+Diode Collab is available for multiple platforms:
+- **MacOS X**
+- **Windows (64-bit)**
+- **Linux (64-bit)**
+- **Raspberry Pi / ARM 32-bit**
+- **Raspberry Pi / ARM 64-bit**
+- **iOS**
+- **Android**
+
+Additional resources include checksums for validating Linux downloads, ensuring file integrity.
+
+**Instructions for Installation:**
+- Download the appropriate version for your operating system.
+- For Linux users, compare the SHA-1 checksum with the downloaded file to validate it.
+
+---
+
+For further information, you can explore [Diode’s Download Hub](https://diode.io/products/collab/docs) for specific installation instructions and developer resources.### Page Title: Diode CLI | Diode™
+
+The page provides comprehensive information regarding the Diode CLI (Command Line Interface), emphasizing its functionality in managing IT, OT (Operational Technology), and IoT (Internet of Things) assets securely and efficiently. Here are the important technical details:
+
+#### Overview of Diode CLI
+- **Global Accessibility**: Every Diode client is assigned a globally unique identifier for security and routing, allowing devices to be accessible from anywhere while maintaining strict access control.
+- **Security**: Diode CLI provides 256-bit end-to-end encryption (E2EE), ensuring that communications and data management of assets remain secure.
+
+#### Key Features
+- **Lightweight Solution**: The CLI operates with less resource consumption than traditional VPNs and avoids the need for managed server infrastructures.
+- **Resource Management**: It allows publishing various types of resources, including SSH ports, APIs, and websites, while isolating them to enhance system security and reduce maintenance efforts.
+- **Access Management**: Supports three access modes: private, protected, and public. Using protected mode allows for the creation of a zero trust perimeter around the asset, facilitating group-level access management.
+
+#### Command Line Commands
+The specific commands are not detailed on the page, but typical operations might include commands for:
+- Publishing resources (SSH, API, etc.)
+- Managing access permissions
+- Changing operational modes (private, protected, public)
+
+#### Installation
+- **Download Links**: 
+  - [MacOS X](#)
+  - [Windows (64-bit)](#)
+  - [Linux (64-bit)](#)
+  - [Raspberry Pi / ARM 32bit](#)
+  - [Raspberry Pi / ARM 64bit](#)
+  - [iOS](#)
+  - [Android](#)
+
+- **Checksum Validation**: Users are advised to compare the SHA-1 checksum of their downloaded files with the provided values to ensure integrity.
+- **Signing**: Builds for MacOS and Windows are signed and notarized while Linux builds require a checksum comparison.
+
+#### Additional Offerings
+- **Diode Collab™**: A team collaboration tool that ensures secure file sharing and communication.
+- **Diode Vault**: Combines the features of the app and CLI in a compact installation or cloud appliance, providing backup and geo-access.
+- **Diode Network**: A zero trust network infrastructure based on blockchain technology, ensuring secure, resilient, and scalable connectivity.
+
+In summary, the Diode CLI aims to make IT and OT assets globally accessible while adhering to high-security standards, making it a valuable tool for modern infrastructure management.### Diode Vault | Diode™
+
+**Overview:**
+Diode Vault is a tool designed to enhance connectivity for remote teams. It can be deployed in the cloud or as a physical device that connects to power and Ethernet, effectively extending the reach of end-to-end encrypted (E2EE) collaboration zones.
+
+**Key Features:**
+- **Always On:** Diode Vault is continuously operational, allowing for uninterrupted team communication.
+- **Encrypted Messaging Relay:** It facilitates message relaying for offline team members, ensuring secure communications.
+- **File Backup:** Offers file backup capabilities to keep team data safe.
+- **Private Exit Node:** Provides a secure means for team members to access the internet from regions with restrictions.
+
+**Related Products:**
+1. **Diode Collab™**: A collaborative app for secure communication and file sharing among team members. 
+2. **Diode CLI**: A command-line interface tool meant for operational technology (OT), IT, and IoT devices. It can function independently or alongside Diode Collab.
+3. **Diode Network™**: A zero trust network infrastructure that utilizes hardened blockchain technology to establish E2EE perimeters dynamically.
+
+**Download Options:**
+Diode Vault is compatible with multiple platforms, including:
+- MacOS X
+- Windows (64-bit)
+- Linux (64-bit)
+- Raspberry Pi (ARM 32-bit and ARM 64-bit)
+- iOS
+- Android
+
+**SHA-1 Checksums for Downloads:**
+- Linux builds require validation using SHA-1 checksums:
+  - MacOS X: `dece9792b37eb1519744515147f3c0f0d5903e54`
+  - Raspberry Pi ARM 32-bit: `f38733f0eca53c2282c7db8421a0e5c3ec57dbf8`
+  - Raspberry Pi ARM 64-bit: `92b780bace268a9296ca603c49c3a00a9bb5ea30`
+
+**Developer Resources:**
+Developers can access additional tools from the Download Hub which includes the CLI and Network Node.
+
+**Important Notes:**
+- When downloading, users must accept the terms and privacy policy of Diode.
+- Builds for MacOS and Windows are signed and notarized for security assurance.
+
+This comprehensive overview captures the core functionalities, technical details, and vital information related to the Diode Vault product.### Page Title: Diode Network | Diode™
+
+The Diode Network page provides a comprehensive overview of the capabilities and products offered by Diode, specifically focusing on its secure communications network. Below is a detailed summary of the main information, technical specifics regarding links, command line commands, system installation options, and relevant code.
+
+#### Main Information:
+- **Diode Network Functionality**: The Diode Network is described as an open-source web3 communications network that emphasizes high security and accessibility, operating similarly to a Software as a Service (SaaS) product.
+- **Zero Trust Data Fabric**: The network employs a zero-trust architecture, ensuring that no third parties can access data, termed as “Zero Leakage™.”
+- **Node Hosting**: Users have the option to run their own relay nodes (PoP Nodes) which allow them to route traffic through their own systems for enhanced security and reduced costs.
+
+#### Key Products:
+1. **Diode Collab™**: Collaboration tool for teams focused on secure communications, end-to-end encryption (E2EE), file sharing, and securing operational technology (OT) assets.
+2. **Diode CLI**: A command-line interface tool designed for operational technology, IT, and IoT devices for securing autonomous systems.
+3. **Diode Vault**: Combines features of both Diode Collab and CLI in a robust appliance with 24/7 availability and backup features.
+
+#### Installation Options:
+Multiple platforms are supported for the Diode applications, with downloads available for:
+- **MacOS X**
+- **Windows (64-bit)**
+- **Linux (64-bit)**
+- **Raspberry Pi (ARM 32-bit and 64-bit)**
+- **iOS**
+- **Android**
+
+Link descriptions for downloading:
+- **[MacOS X Download](#)**
+- **[Windows (64-bit) Download](#)**
+- **[Linux (64-bit) Download](#)**
+- **[Raspberry Pi / ARM 32-bit Download](#)**
+- **[Raspberry Pi / ARM 64-bit Download](#)**
+- **[iOS App Download](#)**
+- **[Android App Download](#)**
+
+#### Command Line Information:
+The page mentions that the Diode CLI can operate independently to secure devices and can also be used alongside Diode Collab. Specific command line commands are not detailed on the page.
+
+### Summary
+The Diode Network is positioned as a highly secure, user-friendly communications solution designed for businesses and teams seeking robust data protection without third-party vulnerabilities. It provides various deployment options to cater to different systems and devices while offering a suite of tools to facilitate collaboration and security in digital operations. If you need further details or access additional specific content, feel free to ask!**Page Title: For Teams | Diode™**
+
+The page discusses various use cases for Diode's products, focusing on secure communication and access solutions, primarily aimed at organizations that need secure methods to manage sensitive data and remote equipment. Here’s a detailed breakdown of the important technical details provided on the page regarding links, commands, system installations, and code:
+
+### Use Cases
+
+1. **Remote OT / IoT Access**
+   - **Description**: Facilitates access and maintenance of remote equipment via encrypted connections (256-bit end-to-end encryption).
+   - **Link**: Case studies available for detailed analysis.
+
+2. **Sensitive Regions**
+   - **Description**: Diode Collab serves as a secure messaging alternative to traditional platforms (like Slack and Discord), minimizing data retention risks as it does not store any data on servers.
+   - **Link**: Case studies available for detailed analysis.
+
+3. **Regulated Data (PII, HIPAA)**
+   - **Description**: Provides a way to retain control over regulated environments while allowing remote access for suppliers and extended teams.
+   - **Link**: Case studies available for detailed analysis.
+
+4. **License Management**
+   - **Description**: Each software installation comes equipped with self-custody encryption keys for managing software licenses.
+   - **Link**: Case studies available for detailed analysis.
+
+5. **Isolated Server Systems**
+   - **Description**: Offers methods to isolate sensitive server systems (like WordPress sites) from the internet, reducing data breach risks while maintaining necessary access.
+   - **Link**: Case studies available for detailed analysis.
+
+6. **Due Diligence**
+   - **Description**: Diode Collab is positioned as a tool for performing due diligence on financial applications without risking exposure to potentially insecure server environments.
+   - **Link**: Case studies available for detailed analysis.
+
+### Installation and Download Links
+
+The page includes options for multiple platforms, indicating that Diode is versatile in its deployment:
+
+- **Download Links**:
+  - **MacOS X**
+  - **Windows (64-bit)**
+  - **Linux (64-bit)**
+  - **Raspberry Pi / ARM (32-bit and 64-bit)**
+  - **iOS**
+  - **Android**
+
+Each link will direct users to a download page for their platform.
+
+### Additional Technical Information
+
+- **Command Line Tool**: The page briefly mentions that developers can go to the Download Hub for the CLI (Command Line Interface) or the Network Node, although specific commands or examples aren't provided directly on the page.
+
+- **Verification Details**:
+  - Users are advised to verify downloaded Linux builds using the SHA-1 checksum provided on the website to ensure integrity and security.
+
+The page emphasizes secure handling of data and provides solutions specifically tailored for teams operating in regulated environments or needing secure access to remote systems.### Title: Welcome 👋 | Diode Docs
+
+The page introduces Diode and its four primary components that facilitate secure communications without relying on third-party servers. The main aspects covered include:
+
+1. **Overview of Diode**:
+   - Diode provides next-generation solutions for secure communications, targeting the elimination of third-party involvement in communication processes.
+
+2. **Core Components**:
+   - **Network**: 
+     - An open, permissionless secure communication network utilizing blockchain for enhanced security and scalability.
+   - **Collab**: 
+     - A cross-platform messaging application offering a secure alternative to platforms like Discord and Slack.
+   - **CLI (Command-Line Interface)**: 
+     - A tool designed for building applications on top of the Diode Network, enabling interactions with Collab users through command-line commands.
+   - **Vault**: 
+     - A hardware device that supports the Collab and CLI, capable of performing backups and hosting decentralized websites.
+
+3. **Vision and Commitment**:
+   - Diode's vision is to revolutionize internet communication by transforming it into a private network for everyone, with ongoing enhancements to its capabilities.
+
+### Important Technical Information:
+
+1. **Links**:
+   - There are no specific URLs embedded within the content that require further scraping or analysis.
+
+2. **Command-Line Commands**:
+   - The CLI section likely contains detailed commands and usage instructions for interacting with the Diode network, but specific commands and examples were not provided in the scraped content.
+
+3. **Systems Installation**:
+   - The installation instructions for each component, particularly for the Collab app and CLI, may be detailed in their respective sections, though specifics were not visible in the initial scrape.
+
+4. **Code**:
+   - No code snippets or programming examples were extracted in the scraped content. However, the CLI component would usually include examples of scripts or commands that interact with the system.
+
+If you need further details or specific sections extracted, please let me know!### Download Hub | Diode™
+
+The page is primarily focused on providing downloads for various Diode security solutions, including the Diode Collab application, the Diode Command Line Interface (CLI), and information about running a network node. Here are the main details and technical information highlighted on the page:
+
+#### Key Offerings:
+1. **Diode Collab**: A secure collaboration app to replace less secure team collaboration tools.
+   - **Download Options**:
+     - macOS
+     - Windows (64-bit)
+     - Linux (64-bit)
+     - Raspberry Pi (ARM 32bit and ARM 64bit)
+     - iOS and Android versions are also available.
+
+2. **Diode CLI**: A powerful tool for developers and IT administrators to enable zero trust remote access for devices and servers.
+   - **Installation Instructions**:
+     1. **Using Command Line**:
+        - Copy and paste the following command into your terminal:
+          ```bash
+          curl -Ssf https://diode.io/install.sh | bash
+          ```
+        - This method supports macOS, Linux, Raspberry Pi, and Windows (with curl installed).
+    
+     2. **Manual Installation**:
+        - **Step 1**: Download the appropriate binary for your operating system:
+          - MacOS
+          - Linux (64-bit)
+          - Windows (64-bit)
+          - Raspberry Pi (ARM and ARM64)
+
+        - **Step 2**: Unzip the downloaded file. For example, on macOS:
+          ```bash
+          $ unzip Downloads/diode_darwin_amd64.zip
+          ```
+          It is recommended to move the unzipped binary to a `$PATH` directory such as `/home/[user]/.local/bin`.
+
+        - **Step 3**: To publish local HTTP ports to the Diode Network, use the following command:
+          ```bash
+          $ diode publish -public 80:80
+          ```
+
+3. **Node Hosting**: Information about running a node for enhanced security, aiming at enterprises that want to deepen their zero trust perimeter.
+
+#### Download Links:
+- Specific download links are provided for different platforms:
+  - **MacOS**: [Download for MacOS X]
+  - **Windows (64-bit)**: [Download for Windows]
+  - **Linux (64-bit)**: [Download for Linux]
+  - **Raspberry Pi (ARM)**: [Download for Raspberry Pi ARM]
+  - **Raspberry Pi (ARM 64)**: [Download for Raspberry Pi ARM 64]
+
+#### Verification:
+- MacOS and Windows builds are signed/notarized.
+- For Linux builds, users are advised to verify the SHA-1 checksum to ensure the file's integrity.
+
+This page essentially acts as a central hub for users to access and install Diode's secure collaboration and CLI tools, ensuring that the necessary instructions and resources are readily available for various operating systems.### How Diode works | Diode™
+
+The page provides an overview of how Diode operates, emphasizing its unique architecture and security features. Here are the main points and important technical information extracted from the content:
+
+#### Key Features:
+1. **No Third Parties / Zero Leakage**: 
+   - Diode uses the Blockquick™ algorithm to allow secure connections between people and devices without relying on managed server environments. This creates a fully autonomous end-to-end encrypted (E2EE) setup, minimizing security vulnerabilities.
+
+2. **Clients**: 
+   - All users and devices in the Diode ecosystem are termed as “Clients.” Each Client has a secure identity managed through public/private key self-custody, with their public key serving as the routing address.
+
+3. **Points of Presence (PoPs)**: 
+   - The Diode Network is decentralized with self-scaling PoPs that can join or leave the network at any time. This flexibility allows for a robust and dynamic architecture.
+
+4. **Communications**: 
+   - Diode supports any type of protocol via a lightweight communication interface, providing a Zero Trust backplane which allows secure and validated communications. Clients can negotiate direct connections once they are bridged.
+
+5. **Visibility and Resource Publishing**:
+   - Clients can publish resources on the Diode Network either publicly, privately (using allow lists), or through protected environments (Zones/Fleets). The Blockchain Name System enhances the user experience by providing user-friendly names, while Kademlia routing optimizes the routing paths.
+
+6. **Zones and Fleet Contracts**:
+   - Fleet Contracts serve as the essential security perimeter for every Client, and every Client must belong to at least one such contract to communicate on the network. Zones, which are a special type of Fleet Contract, help in compartmentalizing operations and securing various Fleet Contracts.
+
+#### Installation and Download:
+The page provides options to download Diode for various operating systems, indicating that the builds for MacOS and Windows are signed/notarized. For Linux users, verification of the downloaded file with provided SHA-1 checksums is encouraged. The downloads available include:
+- **MacOS X**
+- **Windows (64-bit)**
+- **Linux (64-bit)**
+- **Raspberry Pi (ARM 32bit and ARM 64bit)**
+- **iOS**
+- **Android**
+
+For developers, there’s a mention of a "Download Hub" for acquiring the CLI or the Network Node.
+
+#### Conclusion:
+Diode's architecture is engineered to ensure secure, trustless connections among Clients, leveraging advanced strategies to uphold privacy and minimize potential attack surfaces. The use of public/private key mechanisms, adaptable network nodes, and sophisticated routing ensures reliable and secure communications.
+
+If you need more specific technical details or any further exploration of Diode’s offerings, feel free to ask!None### Blog | Diode™
+
+The Diode blog covers various topics related to their products and advancements in blockchain technology and secure communication networks. Here are the main themes and technical information highlighted in recent posts:
+
+1. **Diode Collab: Secure Collaboration, Redefined**
+   - Diode Collab v1.15.0 update:
+     - Always-on presence using the Internet Computer.
+     - Push notifications for iOS and Android.
+     - Advanced file policy permissions.
+
+2. **100+ Diode Nodes!**
+   - The Diode Network has surpassed 100 global points of presence.
+   - Relay Nodes (DePIN nodes) are crucial for providing regional access for secure communications.
+   - Clients (devices/users/systems) benefit from these nodes for enhanced security.
+
+3. **Web3 Zero Trust Networks**
+   - Diode Network is described as a Web3 Zero Trust Network (ZTNA), promoting secure, trustless communication.
+   - Advantages over traditional VPNs, emphasizing continuous validation of network connections.
+
+4. **Diode Collab Updates**
+   - A series of updates (v1.13.1 - 1.14.1) that introduce features like HTML file preview, member count on team pages, and bookmark settings.
+
+5. **Blockchain DePINs and RWAs**
+   - DePIN (Decentralized Physical Infrastructure Networks) and RWA (Real World Assets) as emerging sectors in Web3.
+   - Focus on how these technologies streamline integration into traditional business models.
+
+6. **Does VPN Protect Me?**
+   - Discusses shortcomings of traditional VPNs, highlighting Diode as a more secure alternative that protects user data against potential exposure.
+
+### Technical Links and Commands
+- **Download Links:**
+  - Diode applications are available for various platforms:
+    - **MacOS X**
+    - **Windows (64-bit)**
+    - **Linux (64-bit)**
+    - **Raspberry Pi / ARM (32bit & 64bit)**
+    - **iOS**
+    - **Android**
+  - SHA-1 checksum validation provided for Linux builds to ensure integrity.
+
+- **Node Running:**
+  - Developers can access the CLI (Command Line Interface) or the Network Node from the Download Hub, indicating a focus on developer engagement.
+
+- **Other Important Commands:**
+   (The blog does not specify exact command-line commands directly but indicates CLI use for developers, likely implying commands relevant to setting up and managing their software products.)
+
+This summary encapsulates the main topics and technical details from the Diode blog, providing insight into their focus on secure data management and innovative network infrastructure.### Pricing | Diode™
+
+The pricing page for Diode presents various subscription plans for their collaboration and remote access services. Here are the main details and technical information necessary for users evaluating the offerings:
+
+#### Plans Overview
+1. **Free Plan**:
+   - Basic features available for users to start without any cost.
+   
+2. **Team Plan**:
+   - **Price**: $8.5/month billed yearly as $100.
+   - Features:
+     - Invitation codes
+     - Up to 10 chat channels
+     - Up to 20 web links
+     - File backup and synchronization policy
+     - Admin role
+     - Standard support
+   
+3. **Business Plan**:
+   - **Price**: $12.5/month billed yearly as $150.
+   - Includes all features of the Team Plan, plus:
+     - Up to 100 chat channels
+     - Up to 100 web links
+     - Secure server access
+     - Regional access tunnels
+     - Custom endpoints
+     - Standard support
+   
+4. **Enterprise Plan**:
+   - Custom pricing available.
+   - Includes all features of the Business Plan, plus:
+     - OT/IT asset management
+     - Application and fleet management
+     - Whitelabeling
+     - Enterprise integrations
+     - Premium support SLA
+
+#### Technical Information
+- Diode offers downloads for various platforms:
+  - **MacOS X**
+  - **Windows (64-bit)**
+  - **Linux (64-bit)**
+  - **Raspberry Pi**
+    - ARM 32-bit
+    - ARM 64-bit
+  - **Mobile**
+    - iOS
+    - Android
+
+##### Download Checks
+- Windows and MacOS builds are signed/notarized.
+- For Linux builds, users are encouraged to check the SHA-1 checksum for validation against the downloaded files.
+
+#### Command Line Interface (CLI) and Node Running
+- For developers, they can go to the **Download Hub** to access CLI tools or the Network Node.
+
+#### Additional Resources
+- There is a video available to explain how the plans work.
+- Users are encouraged to get in touch for more information or to set up a custom Enterprise plan.
+
+This pricing model focuses on providing a scalable solution for teams varying in size and needs, alongside options for comprehensive enterprise-level integrations.### About | Diode™
+
+**Main Information:**
+The "About" page of Diode embodies the company's vision, mission, and founding story, focusing on enhancing security and privacy in an increasingly interconnected world. Diode seeks to transform the Internet into a private network for everyone, enabling secure and confidential operations.
+
+**Technical Information:**
+
+1. **Company Vision:**
+   - Diode emphasizes the importance of technology in fostering human creativity and innovation while safeguarding privacy and sustainability.
+
+2. **Founding Story:**
+   - Diode originated from a necessity to address a security flaw in Web2 technology, specifically a Man in the Middle (MITM) attack.
+   - Co-founder Dominic Letz developed a solution utilizing decentralized consensus, addressing a legacy Public Key Infrastructure (PKI) security issue.
+
+3. **Team:**
+   - Comprised of experienced professionals in software development and business, the core team includes:
+     - Hans (CEO and Co-Founder)
+     - Dominic (CTO and Co-Founder)
+     - Zach (Developer)
+     - Eric (Business Development)
+     - Spiros (Developer)
+     - Jon (Brand and Market)
+
+4. **Products Offered:**
+   - **Diode Collab:** A tool for collaboration.
+   - **CLI:** Command-line interface for developers.
+   - **Vault:** A secure storage solution.
+   - **Network:** Infrastructure for secure operations.
+
+5. **Download Information:**
+   - Diode offers various downloads for different platforms, ensuring easy access to their products:
+     - **Diode Collab for:** 
+       - macOS X
+       - Windows (64-bit)
+       - Linux (64-bit)
+       - Raspberry Pi (ARM 32bit and ARM 64bit)
+       - iOS
+       - Android
+   - Downloads have corresponding SHA-1 checksums for verification.
+
+6. **Developer Resources:**
+   - Developers can access a **Download Hub** to obtain the CLI or Network Node, suggesting tools available for integrating or utilizing Diode’s technology in custom setups.
+
+7. **Links and Cookies:**
+   - Users are informed about the use of cookies for marketing insights and can choose to accept or reject them while understanding the importance of privacy compliance.
+  
+This overview captures the essence of what Diode aims to achieve and provides insights into their product offerings and foundational principles.NoneNoneNone### Diode · GitHub
+
+The GitHub page for Diode (username: diodechain) consists of a collection of repositories related to the Diode project. Below is a detailed breakdown of the important technical information found on the page:
+
+#### Overview of Repositories
+1. **diode_feedback**: A public repository for users to give their feedback on Diode Drive.
+2. **diode_client**: A Diode client written in Go that implements the Blockquick™ algorithm and includes a socks server for transmitting data over the Diode ZTNA (Zero Trust Network Access) network.
+   - **Main Language**: Go
+   - **Star Count**: 68
+   - **Fork Count**: 23
+3. **diode_server**: A server implementation for the Diode project, developed in Elixir.
+   - **Main Language**: Elixir
+   - **Star Count**: 42
+   - **Fork Count**: 9
+4. **diode_node**: Represents a Relay Node in the Diode network, also built in Elixir.
+   - **Main Language**: Elixir
+   - **Star Count**: 2
+
+#### Important Technical Information
+
+**Installation & Usage (General Guidance)**:
+- Each repository typically contains a `README.md` or equivalent documentation file which includes information on how to install and use the code or libraries provided.
+- For specific command line commands and setup instructions, it is essential to access each individual repository's page.
+
+**Command Line Commands**: Specific command line commands are not provided in the scraped content. However, you can usually expect the following in Go and Elixir projects:
+- **Go Client**:
+  ```bash
+  go get github.com/diodechain/diode_client
+  ```
+
+- **Elixir Server**:
+  ```elixir
+  mix deps.get
+  mix run --no-halt
+  ```
+
+**Links**:
+- The main repository link: [Diode GitHub Page](https://github.com/diodechain)
+- Individual repository links can be derived from the repository names:
+  - [diode_feedback](https://github.com/diodechain/diode_feedback)
+  - [diode_client](https://github.com/diodechain/diode_client)
+  - [diode_server](https://github.com/diodechain/diode_server)
+  - [diode_node](https://github.com/diodechain/diode_node)
+
+#### Summary
+The Diode GitHub page encompasses various repositories primarily focused on the Diode technology stack, including clients, servers, and network nodes built with GO and Elixir. Each repository is designed to provide modular components for building applications leveraging the Diode ZTNA framework. More detailed installation procedures, command usage, and technical configuration can be found by exploring the documentation in each specific repository.**Page Title: Master Services Agreement | Diode™**
+
+The page serves as the Master Services Agreement (MSA) for Diode services, detailing the terms and conditions under which users agree to use Diode's services and software products. The agreement is effective as of March 10, 2021, and has been updated as of February 22, 2024. Below are the key sections of the agreement along with relevant technical and operational details:
+
+### Key Sections and Important Information:
+
+1. **Confidentiality**:
+   - Definitions and obligations regarding 'Confidential Information'.
+   - Protection mechanisms to safeguard confidential data.
+   - Protocol for compelled disclosure (legal requirements).
+
+2. **Professional Services**:
+   - Outlines responsibilities for professional services, including the need for a Statement of Work (SOW) for specific projects.
+   - Conditions for changes in the scope of services and additional work, including pricing and notification requirements.
+
+3. **User Responsibilities**:
+   - Restrictions on using Diode Software, including prohibition on reverse engineering, unauthorized access, and using the software for competitive purposes.
+   - User obligations to ensure compliance with laws and protection of proprietary information.
+
+4. **Ownership and Licenses**:
+   - Clarifies the ownership of software and data; proprietary rights retained by Diode.
+   - Grants a license to users for specific use of services, including the right to modify products for internal use but not distribute.
+
+5. **Warranties and Limitations of Liability**:
+   - Services are provided "as is" with disclaimers on implied warranties.
+   - Limits liability to fees received in the past six months with no liability for consequential damages.
+
+6. **Fees**:
+   - Fees for services and products, subscription terms, and refund policies.
+   - Structure for payment terms, including required down payments for projects.
+
+7. **General Provisions**:
+   - Terms regarding notice delivery, the entire agreement clause, governing law (Wyoming), and other legal stipulations.
+
+### Technical Information for Links and Systems Installation:
+
+- **Download Links for Client Applications**:
+  - **MacOS X**: [Download for MacOS X]
+  - **Windows (64-bit)**: [Download for Windows (64-bit)]
+  - **Linux (64-bit)**: [Download for Linux (64-bit)]
+  - **Raspberry Pi / ARM**: 
+    - [ARM 32bit](https://diode.io/download) 
+    - [ARM 64bit](https://diode.io/download)
+  - **iOS and Android Apps**: Available through respective app stores.
+
+- **Command Line Interface (CLI)**: 
+  - The CLI can be downloaded from the Diode Docs or specific developer resources (check [Download Hub](https://diode.io/docs)).
+
+- **Node Operation**: 
+  - Users can run their own nodes on Diode Network. Detailed instructions for deployment would typically be found within the [Docs](https://diode.io/docs).
+
+### Code and Development:
+The agreement suggests a framework for collaboration and development within its ecosystem by encouraging feedback for continual improvement of services. However, specific code samples or development tools would typically be outlined in the documentation provided by Diode on their official website.
+
+In conclusion, the Master Services Agreement sets a clear legal framework for engagement with Diode's services, emphasizing confidentiality, responsibilities, and the scope of services while also providing practical download and installation options for users. For developers and users needing specific code or command line utilities, further exploration into Diode's documentation and developer resources is recommended.### Privacy Policy | Diode™
+
+The page outlines Diode's Privacy Policy effective from March 1, 2021, detailing how the company collects, uses, and protects personal data from users of its website and software products. Here are the key points from the page:
+
+1. **Diode's Commitment to Privacy**:
+   - Diode pledges to keep personal information private and not to sell or rent it. They will only disclose it as necessary to provide their services or if notified in advance.
+
+2. **Data Collection**:
+   - Diode collects various types of data based on user interaction, which typically includes:
+     - **Contact Details**: Names, email addresses, etc.
+     - **Company Information**: Details about the user's organization.
+     - **Financial Information**: Payment details and billing info.
+     - **Usage Information**: Data related to how users interact with their services.
+
+3. **Methods of Data Collection**:
+   - Data can be provided directly by users through support questions, forms, surveys, or communications. Some data is collected automatically through website interactions and service performance monitoring tools.
+
+4. **Data Usage**:
+   - The collected data is used for purposes such as:
+     - Personalized customer support.
+     - Product improvement.
+     - Sending product alerts and notifications.
+     - Ensuring accurate billing.
+
+5. **Third-Party Services**:
+   - Diode utilizes third-party services for various processes:
+     - **Documentation**: Helpdocs
+     - **Analytics**: Google
+     - **Communications**: Telegram
+     - **Invoicing & Payments**: Stripe
+
+6. **User Rights**:
+   - Users can request deletion of their data or request it in a portable format at any time. Diode commits to notifying users within 72 hours of any data breach.
+
+7. **Contact for Privacy Concerns**:
+   - For further questions, users are encouraged to contact at privacy@diode.io.
+
+### Technical Links and Commands for Installation
+
+The page includes download links and some relevant installation information for Diode products:
+
+- **Download Diode Applications**:
+  - [Download for macOS X](#)
+  - [Download for Windows (64-bit)](#)
+  - [Download for Linux (64-bit)](#)
+  - [Download for Raspberry Pi / ARM 32bit](#)
+  - [Download for Raspberry Pi / ARM 64bit](#)
+  - [Get for iOS](#)
+  - [Get for Android](#)
+
+- **Checksum for Validation**:
+  - Linux builds should be validated using SHA-1 checksums provided on the page:
+    - macOS: `dece9792b37eb1519744515147f3c0f0d5903e54`
+    - Raspberry Pi ARM 32bit: `f38733f0eca53c2282c7db8421a0e5c3ec57dbf8`
+    - Raspberry Pi ARM 64bit: `92b780bace268a9296ca603c49c3a00a9bb5ea30`
+
+- **Developer Resources**:
+  - Developers can access CLI or Network Node downloads via the Download Hub.
+
+This provides a concise overview of the technical details related to the installation and usage of Diode’s products highlighted in their Privacy Policy page.**Page Title: Privacy-first Collaboration & Remote Access | Diode™**
+
+The Diode website is centered around a secure collaboration and remote access platform aimed primarily at organizations needing enhanced privacy and security measures. Here are the key details highlighted on the page, categorized into relevant sections:
+
+### 1. Product Overview
+Diode offers privacy-first messaging and remote access features tailored for executives, expats, and operational teams that prioritize security.
+
+### 2. Key Features
+- **Privacy Guarantee**: Provides a secure environment for confidential discussions and document sharing, protecting against cyber threats.
+- **Global Access**: Ensures seamless internet access and collaboration with team members no matter the user's physical location.
+- **Regulated Data Protection**: Complies with privacy laws like GDPR and HIPAA, supporting organizations in maintaining compliance and avoiding data breaches.
+- **Decentralized Architecture**: Diode allows for direct file sharing within the team without the need for cloud storage, ensuring data is not accessible to external parties.
+- **End-to-End Encryption (256-bit E2EE)**: Protects all communications and file transfers, providing security superior to traditional VPNs.
+
+### 3. Installation and Command Line Information
+The website provides download links for multiple platforms, including:
+- **MacOS X**
+- **Windows (64-bit)**
+- **Linux (64-bit)**
+- **Raspberry Pi (ARM 32-bit and ARM 64-bit)**
+- **iOS**
+- **Android**
+
+Users can also download the CLI (Command Line Interface) and network node via a dedicated Download Hub.
+
+### 4. Important Links
+- **Download Diode**: Accessible via the website for various platforms.
+- **Request Demo**: Option available for potential users to see the product in action.
+- **Contact Sales**: For inquiries and further information regarding enterprise solutions and compliance.
+
+### 5. Developer Resources
+The site hints at additional resources for developers looking to integrate or extend Diode’s capabilities, particularly through the CLI and network node options.
+
+### 6. User Testimonials
+Real-user experiences depict Diode as reliable and transformative for business operations, particularly in regulated environments.
+
+### Summary
+Diode positions itself as a robust solution for secure communication and collaboration, particularly focused on organizations dealing with sensitive information. The decentralized model eliminates cloud storage risks by keeping data secure within teams, reinforced by strong encryption protocols. The various platform supports and developer tools offer flexibility in adoption and integration into existing workflows.### Privacy-first Collaboration & Remote Access | Diode™
+
+The webpage provides an overview of Diode, a secure communication and collaboration platform designed for privacy-conscious users, especially in corporate settings. Here are the main highlights regarding its functionality, technical specifications, and installation information:
+
+#### Key Features:
+1. **Privacy-First Collaboration**: 
+   - Offers messaging and remote access solutions focused on protecting sensitive information from cyber threats.
+   - Designed for professionals who handle confidential discussions, such as executives and operations teams.
+
+2. **Global Access**:
+   - Ensures uninterrupted access to corporate resources and team communications, no matter where users are located in the world.
+
+3. **Regulatory Compliance**:
+   - Complies with data privacy laws like GDPR and HIPAA.
+
+4. **Secure Communication**:
+   - Facilitates confidential collaboration between team members and external advisors without risking information leaks.
+
+5. **File Sharing**:
+   - Allows direct sharing of files without relying on cloud storage, which is considered less secure.
+
+6. **End-to-End Encryption**:
+   - Utilizes 256-bit end-to-end encryption to protect user data.
+
+#### Installation Details:
+- Users can download Diode for various platforms, ensuring a wide compatibility range:
+  - **MacOS X**
+  - **Windows (64-bit)**
+  - **Linux (64-bit)**
+  - **Raspberry Pi / ARM 32bit**
+  - **Raspberry Pi / ARM 64bit**
+  - **iOS**
+  - **Android**
+
+#### Download Links:
+- **MacOS X**: [Download for MacOS](#)
+- **Windows (64-bit)**: [Download for Windows](#)
+- **Linux (64-bit)**: [Download for Linux](#)
+- **Raspberry Pi / ARM 32bit**: [Download for Raspberry Pi 32bit](#)
+- **Raspberry Pi / ARM 64bit**: [Download for Raspberry Pi 64bit](#)
+- **iOS**: [Get for iOS](#)
+- **Android**: [Get for Android](#)
+
+#### Checksums:
+- For **Linux builds**, users are advised to verify the downloaded files using SHA-1 checksums provided on the site.
+
+#### Command-Line Interface (CLI) and Networking:
+- Developers can find additional tools by visiting the **Download Hub** for CLI or to run a Network Node. Specific command line commands are not detailed on this page, but the CLI environment likely supports secure operations in a similar context to the Diode application.
+
+#### Additional Information:
+- The platform is built to avoid storing messages or files in the cloud, addressing a common concern about online data breaches.
+- Users are encouraged to contact sales for more tailored security solutions, highlighting Diode's emphasis on personalized support for corporate users.
+
+#### Security Note:
+- Diode emphasizes not having access to user data, providing a higher security level compared to traditional cloud providers.
+  
+This summary captures the main objectives and technical offerings of Diode, providing a broad overview useful for understanding its impact in secure communications and data handling for businesses.### Title: Run a node in 3 steps (less than 5 minutes!) | Diode Docs
+
+#### Main Information:
+The webpage provides a guide on how to quickly set up a node for the Diode Network in three simple steps. It is aimed at users looking to become part of the Diode ecosystem by running a node, which is critical for handling traffic and gaining rewards from the network.
+
+#### Technical Information:
+
+1. **Prerequisites:**
+   - You must have a Linux box or a virtual machine, preferably running Ubuntu or using Windows Subsystem for Linux (WSL).
+
+2. **Installation Commands:**
+   - Open a terminal and run the following command to install the node:
+     ```bash
+     snap install diode-node
+     ```
+   - To access your dashboard link and monitor your node’s progress, type:
+     ```bash
+     diode-node.info
+     ```
+
+3. **Node Operation:**
+   - Once installed, if your node is positioned near users or devices, it will start handling traffic and earning rewards.
+   - The page provides additional tips for maximizing your node’s effectiveness, such as performing a visibility check on the network map, being mindful of your node’s geographical location, and utilizing growth programs offered by the Diode Foundation.
+
+4. **System Recommendations:**
+   - Operating System: Any OS that supports Snap packages (Ubuntu ready from default).
+   - Network requirements: 
+     - Publicly accessible IPv4 or IPv6 address with open ports.
+     - Available ports are typically pre-configured on most data center VMs.
+   - Memory: At least 2GB of RAM (though some providers can run with 1GB).
+
+5. **Additional Guidance:**
+   - Users who do not wish to run their own node can utilize off-the-shelf options like Diode Collab and the Diode CLI.
+   - For debugging and troubleshooting, users are advised to refer to the forum’s lite node category or reach out via Discord.
+
+This guide is designed to make the onboarding process as straightforward as possible for users that want to contribute to the Diode Network.### Page Title: Privacy-first Collaboration & Remote Access | Diode™
+
+**Overview:**
+Diode is a collaboration and remote access platform designed with a focus on privacy and security. It aims to provide secure communication tools for organizations, particularly for executives and teams working in sensitive environments. Concepts like end-to-end encryption (E2EE) and decentralized architecture are emphasized to safeguard information against cyber threats and unauthorized access.
+
+---
+
+#### Key Features:
+
+1. **Privacy Guarantees:**
+   - Designed for confidentiality in communication, ensuring that all messages shared within the platform do not get accessed by external parties, including Diode itself.
+   - Aimed at professionals discussing sensitive project matters, with tools likened to a VPN tunnel for secure messaging.
+
+2. **Global Access:**
+   - Provides users with secure remote access to the Internet and corporate resources, enabling collaborations without geographic restrictions.
+
+3. **File Sharing:**
+   - Decentralized architecture allows users to share files directly without third-party access, thereby maintaining security and regulatory compliance over shared data.
+
+4. **Safer than Traditional VPNs:**
+   - Diode offers a more secure alternative to traditional VPNs, particularly for accessing applications like GMail and Dropbox, which often do not provide end-to-end encryption.
+
+---
+
+#### Technical Information:
+
+1. **Supported Platforms:**
+   - **MacOS X**
+   - **Windows (64-bit)**
+   - **Linux (64-bit)**
+   - **Raspberry Pi / ARM (32-bit and 64-bit)**
+   - **iOS**
+   - **Android**
+
+   Downloads are available specifically for each platform, with the option of ensuring the integrity of the files via SHA-1 checksums.
+
+2. **Installation Commands (For CLI and Node):**
+   - The specific command-line installation commands or procedures aren't detailed on the main page; users are directed to a "Download Hub" for additional technical resources.
+
+3. **Security Protocols:**
+   - All communications within Diode are secured using **256-bit end-to-end encryption**.
+   - A focus on not storing any data in the cloud further enhances privacy, as all communications and files are stored locally and shared directly.
+
+4. **Third-Party Integrations:**
+   - The platform mentions integration capabilities with popular services, detailing the need for enhanced security measures compared to conventional methods of accessing such services.
+
+---
+
+#### Conclusion:
+Diode positions itself as an essential tool for organizations prioritizing data privacy in their communications and collaboration efforts. It caters to users who require regulatory compliance and robust security measures when sharing sensitive information or accessing corporate resources remotely.It seems that I was unable to access the content of the webpage at the provided URL (https://diodedemo.paperform.co/) due to a loading issue. This might be related to network problems, browser settings, or the website itself.
+
+Since I cannot retrieve the information directly from that link, I am unable to provide details about the main content, technical information, links, command line commands, system installation, or code from that page.
+
+If you have specific content or information from the page that you can share, I would be happy to help explain or discuss it! Alternatively, you can try visiting the link directly to gather the necessary information.It seems I was unable to access the content of the specified page (Contact Diode). The page returned an error indicating that it could not load the form, suggesting several troubleshooting options such as refreshing the page, checking the network connection, using a different browser, and so on.
+
+Since there is no specific information available from the page, I recommend trying to visit the link directly or checking for any alternate resources related to "Contact Diode." If you have any other links or questions, feel free to share!### Privacy-first Collaboration & Remote Access | Diode™
+
+The webpage at https://diode.io/#top discusses Diode, a platform designed for secure collaboration and remote access, particularly targeting professionals who prioritize privacy and security. The key offerings and functionalities highlighted on the page include:
+
+#### Main Concepts:
+1. **Secure Collaboration**: Diode provides private messaging and remote access tailored for organizations that require stringent security measures to protect sensitive information, particularly for executives and team operations.
+
+2. **Privacy Protection**: It emphasizes the importance of keeping discussions and documents private from cyber threats. Users are encouraged to ensure their communications remain confidential and secure.
+
+3. **Global Access**: The platform allows users to maintain access to corporate assets and team members securely, regardless of their geographical location.
+
+4. **Regulatory Compliance**: Diode aims to help organizations meet compliance standards such as GDPR and HIPAA, minimizing risks of data breaches.
+
+5. **Decentralized File Sharing**: Files can be shared securely without relying on cloud storage. Both the platform and third parties do not have access to shared files due to its decentralized architecture.
+
+6. **Enhanced Security Features**: Utilizing end-to-end encryption (E2EE) ensures that no entities can access user data, providing a higher level of security compared to traditional cloud services.
+
+#### Technical Information:
+
+- **Platforms Supported**:
+  - MacOS X
+  - Windows (64-bit)
+  - Linux (64-bit)
+  - Raspberry Pi / ARM (32bit & 64bit)
+  - iOS & Android
+
+- **Download Links**:
+  - [Download for MacOS X](#)
+  - [Download for Windows (64-bit)](#)
+  - [Download for Linux (64-bit)](#)
+  - [Download for Raspberry Pi / ARM 32bit](#)
+  - [Download for Raspberry Pi / ARM 64bit](#)
+  - [Get for iOS](#)
+  - [Get for Android](#)
+
+- **Code and CLI**:
+  - Developers can access the command-line interface (CLI) and network node through a dedicated download hub, although specific commands and configuration files are not detailed on the main page.
+
+- **Installation Guidance**:
+  - SHA-1 checksums are provided for Linux builds for validation purposes.
+  - The webpage implies a straightforward installation process but does not provide in-depth command-line instructions or specific installation commands on the main page.
+
+#### Contact and Support:
+- There are options available for users to request demos or contact sales for more detailed inquiries, especially for organizations that require tailored solutions.
+
+This page serves as an overview of the Diode platform, highlighting its focus on security and privacy-centric features for collaboration and remote work.

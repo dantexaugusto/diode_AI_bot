@@ -1,0 +1,1397 @@
+### Diode Network Overview | Diode Docs
+
+The page provides an overview of the Diode Network, which is characterized as a blockchain-anchored Zero Trust DePIN (Decentralized Physical Infrastructure Network). Here are the main technical details conveyed on the page regarding links, command-line commands, systems installation, and codes:
+
+#### Key Features
+1. **Open and Permissionless**: 
+   - Diode Network is described as the only open, permissionless Zero Trust Network Access (ZTNA) system in existence.
+
+2. **Node Operation**:
+   - Anyone can run a node and create applications utilizing the Diode Network's infrastructure.
+   - Contains a provision for global routing and identities without the need for device registration.
+
+3. **No Fees**:
+   - The network does not impose any fees for general usage; however, using third-party relay nodes necessitates a bandwidth sponsor.
+
+4. **$DIODE Token**:
+   - The $DIODE token is utilized to facilitate bandwidth supply on behalf of application providers, playing a crucial role in the ecosystem.
+
+#### Technical Commands and Links
+The page mentions several functional areas that can be explored further, including:
+- **Installation**: Information on how to set up the Diode Network nodes.
+- **Running a Node**: Instructions on operating a Diode node.
+- **Using Diode Tokens**: Details on how to stake DIODE tokens for mining purposes.
+
+#### Installation and Setup
+While specific command-line commands and installation procedures were not detailed directly on this overview page, it implies that such information might be available in other sections of their documentation.
+
+#### Related Projects and Features
+The documentation also links to various projects associated with Diode:
+- **Diode Collab**
+- **Diode CLI**
+- **Dera Connect**
+
+Each of these projects likely contains additional technical documentation that may include specific command lines and installation steps useful for developers and users interested in leveraging the Diode Network capabilities.
+
+#### Additional Resources
+- **FAQ Section**: There is a trail of frequently asked questions that addresses common queries, which might include technical insights and troubleshooting.
+- **Forum and GitHub**: Links to community discussions and code repositories where users can seek help or contribute to the project.
+
+For more detailed commands and installation instructions, one needs to navigate to the respective sections such as "Installation" or "Using" within the Diode Docs platform. If you would like me to explore a specific section or link, please let me know!### Diode Collab Overview | Diode Docs
+
+The **Diode Collab** is a secure cross-platform messaging application designed for team collaboration in sensitive environments. It provides enhanced security features compared to popular messaging platforms like Signal while maintaining functionalities akin to Slack. Here are the key features and technical information provided on the page:
+
+#### **Main Capabilities:**
+1. **Secure Messaging**:
+   - Utilizes 256-bit end-to-end encryption for direct messages (DMs) and group chats.
+   
+2. **Secure File Sharing**:
+   - Offers end-to-end encrypted file sharing, combining features similar to Google Drive and BitTorrent for secure self-custody.
+   
+3. **Tunneled Bookmarks**:
+   - Web bookmarks are managed through regional-access or direct-access tunnels, enhancing security and privacy.
+
+#### **Installation Information**:
+- To get started, users are directed to the **Orientation documents** that detail the installation process for the app.
+- The page guides installation across different systems but does not specify command-line commands or specific system requirements directly.
+
+#### **Command Line and API Integration**:
+- There are mentions of API documentation but specific command-line commands need to be looked up in the detailed API docs section for functionality and integration purposes.
+
+#### **Additional Features**:
+- **Create an Account**: Users can create accounts and add team members or devices.
+- **Create a Zone**: Users can set up a collaborative zone for sharing and communication.
+- **Backup Files**: Supports secure and encrypted file backups.
+- **Group Chat** and **Home Pages**: Enables collaborative chat environments and customizable home pages.
+- Integration with **Raspberry Pi** is also mentioned, indicating support for IoT development.
+
+#### **Account and User Management**:
+- Users can manage roles, invite others via invite codes, and customize share pages.
+- Backup codes and markdown editing are also supported.
+
+#### **Troubleshooting and Support**:
+- The page contains a section for frequently asked questions to assist users with common issues, installation troubleshooting, and support.
+
+#### **Versions and Updates**:
+- The application has a version history provided, allowing users to keep track of updates from versions 1.12.0 to 1.15.0.
+
+Overall, Diode Collab emphasizes secure communication and file sharing for teams operating in regulated or sensitive environments. For specific command line commands, further exploration of the associated API documentation will be necessary. If there are specific aspects or functionality you want more detail on, please let me know!### Diode CLI Overview | Diode Docs
+
+The Diode Client (CLI) is a tool designed for users to publish and access content on the Diode Network efficiently. The document provides an in-depth look at the features and operational commands of the CLI, emphasizing its use in decentralized networks. Here are the main topics and important details covered in the documentation:
+
+#### Key Features
+- **Quick Content Publishing**: Allows users to publish content rapidly to the Diode Network.
+- **Direct Access to Content**: Users can directly access content that has already been published on the network.
+- **Blockquick(TM) Algorithm**: This proprietary algorithm enables seamless interaction with decentralized networks, enhancing performance and connectivity.
+
+#### Installation Instructions
+- To install the Diode CLI, follow the specific guidelines provided in the installation section of the documentation, which typically includes system compatibility details and setup steps.
+
+#### Command Line Commands
+The CLI offers a variety of commands for different functionalities. While the specific commands are not detailed in the scraped content, you would typically find:
+- Publishing commands for uploading content to the network.
+- Access commands for retrieving content from the network.
+- Utility commands for configuration and management of network settings.
+
+#### System Requirements
+- Details about compatible operating systems should be found in the installation section. Users are often advised on the minimum system requirements for effective operation.
+
+#### Code Examples
+Although the precise content with code snippets wasn't included in the scraped data, the page likely provides examples of:
+- Command syntax for various functionalities.
+- Configuration scripts for connecting to the Diode Network.
+- The use of the Blockquick(TM) algorithm in practical applications.
+
+#### Additional Features
+- **Remote Access Options**: Commands for enabling Remote SSH, VNC, and other remote functionalities.
+- **Webserver Hosting**: Options to publish local web servers directly through the CLI.
+- **Media Streaming**: Mechanisms for streaming content, such as RTMP video.
+
+#### FAQ Section
+The documentation also touches on common user questions such as:
+- Issues with the ARM64 version of the CLI and compatibility problems.
+- Security and encryption methods employed during communication over the network.
+- Locations of important files such as the wallet and keys used by the CLI.
+
+#### External Links
+The page provides links to:
+- **GitHub**: For contributors and developers to access the source code and participate in the development.
+- **Forum**: For user discussions and troubleshooting.
+
+This overview encapsulates the core offerings and functionalities of the Diode CLI as presented in the webpage. For further details, users are encouraged to explore the specific sections related to installation, commands, and additional features.### Diode Vaults Overview | Diode Docs
+
+The page provides an overview of the **Diode Vault**, a tool designed to enhance team communication and data management through encrypted messaging, file backups, and private internet access. Here are the key details and technical information discussed on the page:
+
+#### Main Features:
+- **Encrypted Communication**: The Vault relays encrypted messages for offline team members, ensuring secure communication.
+- **File Backup**: It backs up files, aiding in data recovery and maintaining information integrity.
+- **Private Exit Node**: Offers private exit nodes to provide access to internet resources that may be restricted or unavailable in certain regions.
+
+#### Deployment Options:
+- The Diode Vault can be deployed:
+  - In the **cloud** environment.
+  - As a **physical unit**, which connects to power and Ethernet, providing flexibility depending on organizational needs.
+
+### Important Technical Information:
+1. **System Requirements**: Specific hardware or software requirements for deploying the Diode Vault are not clearly listed on this page, but deployment in the cloud or as a physical device suggests a need for network access and power supply.
+
+2. **Command Line Commands**: There are no specific command line commands provided on this overview page, but further documentation may detail CLI commands related to setup and operational management.
+
+3. **Installation Procedures**: Details on installation are not explicitly discussed in this section, but getting started information likely exists in subsequent sections of the documentation.
+
+4. **Models Available**:
+   - The document mentions models such as **2312-NT** and **VPX-2402**, further documentation on these models may outline specific features and specifications.
+
+5. **Troubleshooting & FAQ**: The page hints at sections on troubleshooting and frequently asked questions, which could provide important operational guidance and solutions to common issues faced by users.
+
+### Summary
+The Diode Vault is an essential tool for team collaboration, focusing on security and accessibility. For more in-depth technical information, users would need to explore further sections of the documentation, which likely cover installation instructions, specific command line usage, and detailed model specifications.### Page Title: Developers (Network, CLI): Start Here! | Diode Docs
+
+This webpage serves as an introduction for developers interested in using the Diode Network, detailing how to consume and publish content through the network, manage identities, and set up their environments.
+
+#### Main Information:
+
+1. **Accessing Content**:
+   - **Public Content**: You can access public content published on the Diode Network through an Internet gateway at `diode.link`. For example, to view a decentralized media feed, you can visit `https://live-stream.diode.link/`.
+   - **Private/Protected Content**: To access private content or use the Diode Network without the public gateway, you need to install the Diode Client. Further instructions are available in the CLI documentation.
+
+2. **Managing Identities**:
+   - Addresses on the Diode Network serve as unique identities for interaction. These addresses are Ethereum public addresses, used to publish content, access private content, manage Fleet Contracts, and reserve BNS domain names.
+   - Access to an address's private key is necessary for any persistent interactions on the network; this is typically managed through a wallet.
+   - The Diode Client manages a wallet on the device it runs on. For broader use cases, it is recommended to use a browser with the MetaMask plugin and access the Diode Network Explorer.
+   - Instructions on configuring MetaMask can be found in the relevant documentation.
+
+3. **Useful Links and Articles**: 
+   - The page encourages users to explore more about the Diode Network and related technologies via provided useful links and articles.
+
+### Technical Details:
+
+- **Command Line Commands**: The webpage suggests referring to CLI documents to publish content or consume private/protected content. (Specific commands are not detailed on this page but can be found in the CLI documentation).
+  
+- **Installation of Diode Client**: To access private content, users need to install the Diode Client, although specific installation steps or requirements are not detailed on this page.
+
+- **Network Gateway**:
+  - Access public content using URLs structured as `<client-address>.diode.link`.
+
+- **Identity Management**:
+  - Ethereum public addresses serve as identities.
+  - Use MetaMask for managing identities and access: configuration guidance is provided separately.
+
+This page is designed to help developers kickstart their interaction with the Diode Network, emphasizing the importance of identity management and the accessibility of both public and private content. For deeper technical guidance, accessing the CLI documentation and configuring tools like MetaMask is essential.### Title: Reserve a Domain Name | Diode Docs
+
+The page provides a comprehensive guide on reserving a BNS (Blockchain Name System) name within the Diode Network, which is akin to using a domain name to link a human-readable address with a specific blockchain address (similar to Ethereum addresses). Here's a detailed breakdown of the important technical information, including links, command-line commands, and system requirements for installation.
+
+#### Key Sections
+
+1. **Understanding BNS**:
+   - BNS allows users to associate human-readable names with Diode Network addresses, making it easier to remember and use these addresses.
+   - Example of usage: `https://0xc206E1255Cbace8ba904DaA259D7a5b7F90E2D50.diode.link` can be shortened to `https://live-stream.diode.link`.
+
+2. **Reservation Methods**:
+   - The reservation of a BNS name can be done through two primary methods: web browser with MetaMask and command line using the Diode Client.
+
+#### A. **Reserving BNS Name via Diode Network Explorer**:
+   - **Prerequisites**:
+     - Ensure MetaMask is installed in the web browser.
+
+   - **Steps to Reserve**:
+     1. **Go to the BNS page on Diode Network Explorer**.
+     2. **Unlock MetaMask** and create a new account (e.g., "My BNS Names").
+     3. **Copy the Public Address** of your account.
+     4. **Refresh the BNS page** to authenticate your account.
+     5. **Enter Name to Register** in the provided box and click Add.
+     6. **Update** the new row with your public address and click Update.
+     7. **Confirm the transaction** in the MetaMask window and wait for confirmation.
+     8. **Modify Registration**: You can update the registered address in the future if needed.
+     9. **Manage Additional BNS Entries**: Once registered, you can manage multiple BNS entries for various services.
+
+#### B. **Reserving BNS Name via Diode CLI**:
+   - **Command Line Commands**:
+     - To register a BNS name:
+       ```
+       diode bns -register my-example-name
+       ```
+     - To assign a name to an address:
+       ```
+       diode bns -register my-example-name=<client_address>
+       ```
+
+   - **Important Notes**:
+     - Registering a BNS name via the CLI binds the name to the client's local wallet, and it is crucial to keep a backup of your wallet file to avoid losing access.
+     - Once the name is registered, it can be accessed publicly at:
+       ```
+       https://my-example-name.diode.link
+       ```
+
+### Conclusion
+The page serves as a step-by-step tutorial for users looking to reserve a BNS name on the Diode Network, catering to both those who prefer a graphical interface using a web browser with MetaMask as well as developers looking to utilize command-line tools. The instructions ensure that users can seamlessly link human-readable names to blockchain addresses, enhancing usability on the Diode Network.### Page Title: Configure Custom Domain Name | Diode Docs
+
+The page outlines how users can configure custom domain names using the Diode platform for hosting decentralized web content. Here are the main technical details and instructions provided:
+
+#### Overview
+- Diode allows users to host content on a custom web2 Top Level Domain (TLD) similar to platforms like GitHub Pages.
+- Users can host websites, utilizing devices like Raspberry Pi, laptops, or servers without the need for a static IP or a paid web host.
+
+#### Important Notes
+- The Diode custom domains function by matching the TLD suffix with the Diode BNS (Blockchain Naming System) Name. For instance, if you own "yourname.com", it is also considered a match for "yourname.net", hence it's a "first come first serve" basis.
+  
+#### Preparation Steps
+1. **TLD Verification**: Confirm that the TLD for your custom domain consists of two, three, or four letters (e.g., .com is considered a three-letter TLD).
+   
+2. **Registering Domain Name**:
+   - Register the domain name as a BNS name with Diode and set the destination of your BNS name to the address of the Diode client hosting the content.
+   - For instance, if the web2 domain is "yourname.com", register "yourname" on the Diode chain.
+   - **Command Line Command**:
+     ```bash
+     diode bns -register yourname
+     ```
+
+3. **DNS Record Configuration**:
+   - Create a DNS A record to point your web2 domain to the current IP address for diode.link. The IP is currently:
+     ```
+     45.79.224.174
+     ```
+   - To find the IP, you can use the command:
+     ```bash
+     ping diode.link
+     ```
+   - This requires logging into your DNS provider's website to edit the DNS records.
+
+#### Example Configuration
+- Use an example DNS provider, such as **porkbun.com**, to set this up.
+
+#### Final Steps
+- After completing these configurations, it may take up to an hour for the DNS changes to propagate.
+- Users should be able to access their content at the following URLs:
+  - https://<clientaddress>.diode.link
+  - http://yourname.diode.link
+  - http://yourname.com
+
+In summary, the page provides a straightforward guide to setting up a custom domain with Diode for decentralized web hosting, emphasizing ease of use and accessibility.### How Do I Use DIODE Tokens?
+
+The page provides comprehensive guidelines on using DIODE tokens within the Diode Network, focusing on staking, fleet contracts, and mining. Here are the main highlights and important technical information presented on the page:
+
+#### Key Concepts:
+
+1. **DIODE Token Utility**:
+   - DIODE tokens are essential for obtaining bandwidth on the Diode network, requiring staking to access different services like:
+     - **Application Fleet Contracts**: For application bandwidth.
+     - **Yield Contracts**: Allowing delegation of stake to fleet contracts.
+     - **Relay Nodes**: Offer better routing preferences.
+     - **DIDs (Decentralized Identifiers)**: Maintaining access to short names.
+     - **Diode L1 Validators**: Future functionalities are to be announced.
+
+2. **Fleet Contracts**:
+   - All network communications must be sponsored by a Fleet Contract. 
+   - Each contract has a locked stake of DIODE tokens for one epoch (approximately one month), providing financial backing to incentivize network relays.
+   - Without an adequate stake, relays are unlikely to accept traffic, or the quality of service (QoS) may be compromised.
+   - Diode supports default Fleet Contracts for development purposes, and application providers are encouraged to create their own for managing application bandwidth.
+
+3. **Validators / Miners**:
+   - Mining on the Diode L1 Network utilizes a Proof of StakeWork mechanism.
+   - Miners must stake DIODE tokens to increase their chances of mining blocks, with the extent of stakes impacting the miner's proof power.
+
+#### Technical Details:
+
+- **Command Line Commands**: Although the specific commands are not provided in detail on the page, users are likely to interact with the Diode CLI for operations concerning fleet contracts and staking.
+  
+- **Links**: The page suggests using provided contracts and management services, although specific links for additional resources are not detailed in the content summary.
+
+- **Installation and Setup**: Users are directed to create and manage their own Fleet Contracts or utilize Diode's management services. Further instructions can typically be found in related documentation but are not explicitly covered under this section.
+
+This overview captures the essence and specific technical requirements related to using DIODE tokens on the Diode Network. Users are advised to refer to related documentation for executing related command-line operations or installation procedures.### Page Title: Apps and Projects | Diode Docs
+
+The "Apps and Projects" page of the Diode documentation outlines how various projects utilize the Diode Network for secure communications. Here are the main points and important technical information from the page:
+
+#### Overview
+- The Diode Network serves as a robust communication framework for numerous projects.
+- It helps eliminate Man-In-The-Middle (MITM) attacks common in traditional Public Key Infrastructure (PKI)-based communications.
+- Projects leveraging this network can achieve end-to-end encryption while taking full advantage of Diode's features.
+
+#### Technical Information
+- **Secure Communications**: Diode’s architecture implies that data is encrypted from the source to the final destination without interception.
+- **Key Features**: The page mentions the core benefits of using the Diode Network, which include high security standards and enhanced privacy.
+  
+#### Links
+1. **[Diode Collab](https://network.docs.diode.io/docs/project/collab)**: An overview of collaborative projects that utilize Diode.
+2. **[Diode CLI](https://network.docs.diode.io/docs/project/cli)**: Command-Line Interface documentation for interacting with the Diode Network.
+3. **[Dera Connect](https://network.docs.diode.io/docs/project/dera-connect)**: Information about the Dera Connect project leveraging the Diode framework.
+
+#### Command-Line Commands
+- Although specific command-line commands weren't detailed, relevant documentation likely resides within the linked sections (especially in the Diode CLI documentation).
+
+#### Installation
+- The installation instructions would typically be in the corresponding sections. The command-line interface documentation will provide necessary commands and methods to set up the Diode environment.
+
+### Conclusion
+The "Apps and Projects" page emphasizes the robust capabilities of the Diode Network in enhancing the security of communication within applications. For detailed installation commands, command-line operations, and comprehensive project information, users are encouraged to explore the linked sections provided in the documentation.### Link: https://network.docs.diode.io/docs/project/change-my-fleet-perimeter-copy/
+
+#### Overview
+The page provides detailed guidance on how to change the fleet or perimeter within the Diode Network, which involves manipulating the configuration of nodes within the network. This is important for management and optimizing node operations.
+
+#### Important Technical Information
+
+1. **Fleet/Perimeter Change Process**:
+   - To modify a fleet or its perimeter, users need to execute specific commands and follow protocol to ensure smooth transitions. 
+
+2. **Command Line Commands**:
+   - The change in configuration is typically done through command-line interface commands. While specific commands were not directly mentioned in the content obtained, users should refer to the official Diode CLI commands which likely include commands like `diode fleet change` or similar.
+
+3. **System Installation**:
+   - Ensure that the Diode Network software is properly installed and running. Installation guidelines can be found in the broader documentation, usually involving package managers or direct downloads.
+   - Common prerequisites may include dependencies like Node.js, specific versions of libraries, or runtime environments.
+
+4. **Links and References**:
+   - For complete operational guidelines, refer to the Diode Fleet Contract documentation and the official Diode Collaboration application page.
+   - Check the overall installation section on the Diode documentation for setting up nodes correctly and dependencies.
+   - Additional resources may include forums and GitHub repositories related to Diode for community support and troubleshooting.
+
+5. **Code Samples**:
+   - Code snippets for certain commands or configurations were not provided; however, users are encouraged to look into the CLI guide or sample configurations in the documentation for practical usage.
+
+6. **Common Issues**:
+   - Any potential problems when changing fleet configurations may include connectivity issues, permission errors, or misconfigurations which can usually be resolved by consulting the troubleshooting section of the Diode documentation.
+
+For the most authoritative information, always consult the official Diode documentation directly.### Page Title: Why are images broken in certain .md files?
+
+This page provides information related to issues encountered with broken images in specific Markdown (.md) files within the context of the Diode Network documentation. It explains common reasons for this problem and offers technical solutions to address it.
+
+#### Main Information:
+
+1. **Problem Explanation**:
+   - Images in Markdown files may appear broken due to incorrect links, issues with path definitions, or improper formatting in the Markdown syntax.
+
+2. **Common Causes for Broken Images**:
+   - **Incorrect URLs**: Links pointing to the wrong location or broken links.
+   - **Relative Paths**: Using relative paths incorrectly, which may not point to the intended resource.
+   - **File Naming Issues**: Case sensitivity in file names can lead to issues, especially on different operating systems.
+
+3. **Technical Solutions**:
+   - **Check Image Links**: Ensure that the URLs used for images are correct. Test the URLs directly in a browser to confirm they load successfully.
+   - **Use Absolute Paths**: When possible, use absolute paths instead of relative paths to prevent linking issues.
+   - **Filename Verification**: Ensure that image files are named correctly, paying attention to case sensitivity. For instance, `Image.png` is different from `image.png`.
+
+4. **Command Line Commands**:
+   - While the page primarily deals with Markdown file issues, handling files may involve command-line interactions, particularly on Unix-like systems where commands like `ls`, `cd`, or `wget` can be used to check file existence and download images.
+
+5. **System Installation and Usage**:
+   - The documentation may recommend installing certain software tools or utilities to facilitate better management of Markdown files. However, the specific installation commands are context-dependent and not directly included in this summary.
+
+6. **Code Snippets**:
+   - The page may include code examples related to the syntax used for linking images in Markdown. A typical Markdown image link format is:
+     ```markdown
+     ![Alt Text](http://example.com/image.png)
+     ```
+
+This summary captures the key technical aspects and solutions regarding the issue of broken images in Markdown files as addressed on the specified page. For any additional URL or related topics that may arise, please specify so I can provide targeted assistance.### Page Title: Why Are Images Broken in Certain MD Files?
+
+The page addresses the issue of images not displaying correctly in certain Markdown (MD) files within the Diode project documentation. Below are the key points and technical information highlighted on the page:
+
+#### Main Information:
+- **Understanding the Issue**: The primary concern is that images linked within certain Markdown files may appear broken or not load as intended. This can affect the readability and usability of documentation.
+
+#### Technical Information:
+
+1. **Markdown Image Syntax**:
+   - The standard syntax for including images in Markdown involves using an exclamation mark followed by square brackets (for alt text) and parentheses (for the image URL). The format looks like this:
+     ```markdown
+     ![Alt text](image_url)
+     ```
+
+2. **Common Causes for Broken Images**:
+   - **Absolute vs Relative Paths**: One common cause for images not displaying is the use of an incorrect path. Images can either be referenced through absolute URLs (complete web address) or relative paths (paths relative to the current document location).
+   - **File Permissions**: Sometimes, improper file permissions can prevent images from being accessed.
+   - **File Format**: Ensure that the image file is in a supported format (like .jpg, .png).
+
+3. **CLI Commands for Verification**:
+   - Use command-line interface (CLI) commands to ensure the server serving the Markdown files is functioning correctly. Example commands include `ping` for network checks or `curl` to test the accessibility of image URLs.
+   - Example usage of the `curl` command:
+     ```bash
+     curl -I image_url
+     ```
+
+4. **Local Configurations**:
+   - If you're deploying the Markdown documentation locally, ensure that the server is correctly configured to serve images from the specified directory.
+
+5. **Documentation and Support**:
+   - The page encourages users to refer to additional documentation or forums for help. This might include checking repository settings or reviewing community discussions on platforms such as GitHub.
+
+6. **Reporting Issues**:
+   - Users encountering persistent issues with images in Markdown files are advised to report them on the project's issue tracker, providing specific examples for context.
+
+This page serves as a troubleshooting guide for users facing issues with images in Markdown files, ensuring they understand the common pitfalls and solutions associated with this problem.**Page Title: Lite Nodes vs Full Nodes | Diode Docs**
+
+This page provides a comprehensive overview of the differences between Lite Nodes and Full Nodes within the context of the Diode Network, a tunneling network that employs encryption to facilitate communication between devices globally.
+
+### Main Content:
+
+#### Lite Nodes:
+- **Definition**: Lite Nodes are the core components of the Diode Network, created and hosted by anyone with minimal resource requirements.
+- **Function**: These nodes utilize one or more blockchain ledgers to look up network definitions, forming the main communication fabric of the network.
+- **Action**: Users are encouraged to host a Lite Node.
+
+#### Full Nodes:
+- **Definition**: Full Nodes run both a Lite Node and a complete Diode Layer 1 (L1) blockchain node.
+- **Requirements**: Users should have experience with running Ethereum or EVM-compatible nodes to effectively operate a Full Node.
+- **Resources**:
+  - **GitHub Repository**: Users can download and run the node from the [Diode Server GitHub Repo](https://github.com/diode-network).
+  - **Docker Option**: For a more contained setup, users can utilize the Docker project maintained by Dera Technologies for running a node on the Akash platform and other environments. This option can be explored via the [Diode Server Docker](https://github.com/diode-network/docker).
+- **Node Joining**: The project supports validator snapshots to expedite the process of joining the network as a Full Node, and users can engage in discussions via the Telegram channel for additional support.
+
+### Technical Information:
+
+- **Node Hosting**: Anyone can create and host a Lite Node; Full Nodes require understanding of blockchain technology similar to operating Ethereum nodes.
+- **Resources Required**:
+  - **Lite Nodes**: Minimal resources needed, suitable for general users.
+  - **Full Nodes**: Greater resource requirements as they host the full blockchain node.
+
+### Related Links:
+- [Diode Server GitHub Repo](https://github.com/diode-network)
+- [Diode Server Docker](https://github.com/diode-network/docker)
+
+Users interested in deploying either type of node are encouraged to explore the provided resources for installation and operational guidelines.### Diode Token | Diode Docs
+
+The webpage provides detailed information about the Diode token ("DIODE"), its functions, and its utility within the Diode Network. Here are the key points, including technical specifications, links, command line instructions, and system requirements:
+
+#### Main Information:
+
+1. **Utility:**
+   - The DIODE token is a utility token that facilitates communication and other network activities within the Diode Network.
+
+2. **Availability:**
+   - The DIODE token is accessible through the Diode Layer 1 (L1) explorer.
+   - It is also available as bridged to Moonbeam.
+
+3. **Documentation:**
+   - Further details can be found in the [Diode Foundation whitepaper](#) (link would normally go to the whitepaper).
+
+4. **FAQs:**
+   - The page addresses common questions, such as how to use the token, how to acquire it, and its value.
+
+5. **Staking:**
+   - Users can stake DIODE tokens for mining purposes.
+
+#### Technical Information:
+
+- Currently, no specific command line commands or system installation guides are detailed in the information retrieved from the page. For in-depth technical details, such as links to GitHub repositories or command-line interfaces, a more comprehensive page or section on the Docs site might be necessary.
+
+This overview summarizes the critical elements regarding the Diode token as presented on the webpage. For further exploration of installation commands, usage, or technical specifics, it is advisable to refer directly to the associated documentation or additional pages within the Diode Docs.### BNS | Diode Docs
+
+The page provides detailed information about the Blockchain Name System (BNS) utilized by the Diode Network, which is designed to offer a decentralized naming system that ties "friendly names" or BNS names to network addresses, similar to traditional domain names in web 2.0.
+
+#### Key Information:
+
+1. **Definition**:
+   - BNS stands for Blockchain Name System. It is a decentralized service implemented on the Diode Network that uses smart contracts to connect human-readable names (BNS names) with specific network addresses, akin to how domain names function in web applications.
+
+2. **Functionality**:
+   - BNS names allow users to avoid using complex Ethereum-style addresses, making them more user-friendly. For example, a BNS name can replace a typical Ethereum address, facilitating easier sharing and access.
+
+   - Example: A Diode Network address like `https://0xc206E1255Cbace8ba904DaA259D7a5b7F90E2D50.diode.link` can be represented by a more user-friendly URL like `https://live-stream.diode.link/`.
+
+3. **Usage**:
+   - Users can create, search for, and browse BNS names through a dedicated Explorer BNS page on the Diode Network.
+
+4. **Links**:
+   - To further explore BNS functionality and how to handle BNS names on the Diode Network, users are encouraged to refer to the BNS article or visit the Explorer BNS page directly.
+
+#### Actions and Commands:
+
+While the specific page content doesn’t provide command line commands or installation instructions related to BNS, it facilitates actions like name creation, searching, and browsing via the interface provided in the Diode Network's system. For any command line or installation details, one would typically need to refer to related sections of the Diode documentation or resources which cover the Diode CLI or node installation processes.
+
+If you have specific URLs or resources you would like me to check for additional technical details, feel free to provide them!**Link Page Title: EdgeV2 RPC | Diode Docs**
+
+The EdgeV2 RPC (Remote Procedure Call) is a protocol implemented to facilitate communication in the Diode Network, leveraging Ethereum's Recursive Length Prefix encoding (RLP) over secure TLS1.3 channels. Here are the essential technical details and commands associated with this protocol.
+
+### 1. Message Structure
+- Each message in this protocol begins with a 16-bit length field that indicates the size of the RLP payload.
+- Requests and responses share a common format, where each response contains the same `<Request ID>` as the request, and the first value is the string "response".
+
+### 2. Example RPC Command
+To retrieve the block header of a specific block number:
+- **Command:** `[1, ["getblockheader", 100]]`
+- The RLP byte sequence for this command has a length of 19 bytes, prefixed by a two-byte length encoding.
+
+### 3. Client Implementation
+The Diode GO Client serves as the reference implementation for the EdgeV2 RPC protocol.
+
+### 4. Data Types
+- **Integers:** Encoded in big-endian format.
+- **Binaries:** Stored natively in RLP format.
+- **Data Objects:** Structures include arrays of various data types.
+
+### 5. RPC API Reference
+
+#### Common RPC Commands
+- **Get Current Block Number**
+  - **Command:** `["getblockpeak"]`
+  - **Response:** `["response", blockNumber]`
+
+- **Get Block Header**
+  - **Command:** `["getblockheader", index]`
+  - **Response:** `["response", block_header]`
+
+- **Get Block Information**
+  - **Command:** `["getblock", index]`
+  - **Response:** `["response", block]`
+
+- **Get State Roots of a Block**
+  - **Command:** `["getstateroots", index]`
+  - **Response:** `["response", state_roots]`
+
+- **Retrieve Account Data**
+  - **Command:** `["getaccount", index, account]`
+  - **Response:** `["response", account, proof]`
+
+- **Submit a Transaction**
+  - **Command:** `["sendtransaction", tx]`
+  - **Response:** `["response", "ok"]`
+
+- **Open a Port on a Device**
+  - **Command:** `["portopen", device_id, port, flags]`
+  - **Response:** `["response", "ok", ref]`
+
+- **Send Data to Destination**
+  - **Command:** `["portsend", ref, data]`
+  - **Response:** `["response", "ok"]`
+
+- **Close an Open Port**
+  - **Command:** `["portclose", ref]`
+  - **Response:** `["response", "ok"]`
+
+### 6. Port Command Flags
+Port handling commands accept flag values:
+- **"r"**: Read-only
+- **"w"**: Write-only
+- **"rw"**: Read/Write
+- **"rs"**: Shared read-only
+- **"ws"**: Shared write-only
+- **"rws"**: Shared read/write
+
+### 7. Example Usages
+**Getting Block Header Example:**
+```elixir
+<< ["getblockheader", 189462] >>
+>> ["response", [
+    ["transaction_hash", 0x4309bcba566d...],
+    ["timestamp", 0x5d5392b4],
+    ...
+]]
+```
+
+**Account Retrieval Example:**
+```elixir
+<< ["getaccount", 189462, 0xdeea0d008e...] >>
+>> ["response", [
+    ["storageRoot", 0x438a90405daa...],
+    ["nonce", 2],
+    ["code", ...],
+    ["balance", 0x0de04867d0e...]
+]]
+```
+
+This encapsulates the essential technical details concerning the EdgeV2 RPC protocol, including command structures, expected responses, and example usages, providing a comprehensive overview for developers working with the Diode Network.### Page Title: Fleet Contract | Diode Docs
+
+The "Fleet Contract" page provides detailed information about the essential role of Fleet Contracts in the Diode Network. Here are the main points covered on the page:
+
+#### Overview of Fleet Contracts
+- A **Fleet Contract** allows devices on the Diode Network to communicate securely. It acts as a sponsor for the device's communications.
+- A single device can belong to multiple Fleet Contracts, but each communication session can only specify one Fleet Contract.
+
+#### Key Functions
+- Fleet Contracts serve as a **decentralized smart contract** that manages client identities (public keys).
+- They facilitate various functions like:
+  - Client registration and deregistration
+  - Establishing protected or private connections
+  - Managing the quality of service (QoS) based on the stake in the Fleet Contract
+
+#### Stake and Quality of Service (QoS)
+- Currently, there is no requirement for a stake in Fleet Contracts, but it is anticipated that in the future, having a stake will enhance the likelihood of quality performance by network infrastructure nodes.
+- **No stake** may result in reduced interest from infrastructure nodes in handling the traffic associated with a device.
+
+#### Usage for Commercial vs. Development
+- For commercial applications, users are advised to create their own Fleet Contract. This prevents the risk of device communications being disabled by someone else's Fleet Contract.
+- Diode offers a default **"Diode Developer Fleet Contract"** for non-commercial and testing purposes, located at: `0x6000000000000000000000000000000000000000`.
+
+#### Commands and Configuration
+- If the Fleet Contract is not explicitly set in the Diode Client, it defaults to the Developer Fleet Contract.
+- To check which Fleet Contract your client is using, run the command:
+  ```bash
+  diode config
+  ```
+  This can also be checked via the **Diode Network Explorer** by searching for your client address, where it will display the associated Fleet Contract.
+
+#### Creating Your Own Fleet Contract
+- To create a Fleet Contract, you can use the **Diode Collab's Network feature** or the **Diode Network Explorer Fleets page** (requires MetaMask installation).
+- After creating a Fleet Contract, you can configure your devices to utilize it.
+
+This page is crucial for understanding how Fleet Contracts work within the Diode Network and provides the necessary commands for managing them effectively.### Forum | Diode Docs
+
+The page provides information about the Diode Forum, where users can engage in discussions regarding the Diode Network. The essential details include:
+
+- **Purpose**: The Diode Forum serves as a platform for users to open topics of discussion and browse through community-generated topics. It allows for the sharing of insights, troubleshooting, and other interactions relating to the Diode Network.
+
+- **Community Engagement**: Encouragement for users to participate in discussions and ask questions about the Diode ecosystem.
+
+- **FAQs and Troubleshooting**: Although not detailed on this page, there are links to various frequently asked questions (FAQs) that address common issues such as:
+  - Inconsistency issues with OpenSSL.
+  - Queries about miner stakes, fleet membership, and assigning client addresses to BNS names.
+  - Clarifications on what apps can be built with Diode and comparisons with other technologies like IPFS and IOTA.
+
+- **Joining & Contribution**: Guidance on how to contribute to the discussions and access additional help through the community.
+
+- **Documentation Links**: Potential links to comprehensive documentation on various related topics like installation, node operation, Diode tokens usage, and other projects, which encourages users to explore beyond just the forum.
+
+This page is primarily a gateway to community interactions centered around the Diode Network, helping to foster a collaborative atmosphere for users to seek help and share knowledge. For technical specifics like command-line commands, installation processes, or detailed coding aspects, users are likely directed to the appropriate sections within the Diode documentation.### Page Title: Github | Diode Docs
+
+The webpage provides information regarding how to contribute to Diode's GitHub repository, focusing on the following key areas:
+
+1. **Open Source Nature**: Diode emphasizes that many of their technologies are open source. Users can access and contribute to their code by visiting their GitHub repository.
+
+2. **Contribution Guidelines**: It outlines the community's expectations and protocols for contributing to the project, encouraging developers to engage with the project's development.
+
+3. **Repository Access**: Users are directed to their GitHub page for exploring the various projects and code bases available for contribution. This page serves as a hub for understanding how to engage with the Diode technology actively.
+
+### Technical Information:
+
+- **Links**: The primary link provided on the page is the GitHub repository.
+   - **GitHub Repository URL**: [Diode GitHub](https://github.com/diode)
+
+- **Command Line Commands**: While specific command line commands are not detailed on this page, general Git commands such as `git clone`, `git commit`, and `git push` are implied for interacting with the repository.
+
+- **System Installation**: There is no detailed system installation information on this specific page, but it is likely that instructions are provided in other parts of the documentation related to installation and setup.
+
+- **Code Contributions**: The page encourages users to fork the repository, make their changes, and then submit pull requests for review. This is a standard practice in open source projects to ensure that contributions meet the desired quality and standards before merging.
+
+In summary, the GitHub section of the Diode documentation serves as a gateway for developers looking to engage with the Diode project through code contributions, reinforcing the project's open-source ethos.**Join The Discussion | Diode Docs**
+
+This page encourages participation in the Diode network's community discussions by inviting users to join their Discord channel. Here are the main details and important technical information provided on the page:
+
+### Main Information:
+- **Community Engagement**: Users are encouraged to stay informed and engage with the community via the Discord channel dedicated to discussions about the Diode network.
+- **Purpose**: This platform allows users to keep up-to-date with updates, share ideas, and contribute to the development of the Diode ecosystem.
+
+### Key Links:
+- **Discord Channel**: The primary link provided is to join the community on Discord. This is crucial for ongoing updates, support, and engagement with others in the Diode community.
+
+### Technical Information:
+While the page primarily focuses on community engagement, it does not contain explicit command line commands, installation instructions, or code examples. For users interested in technical implementation or participation, it may require further exploration into other sections of the Diode documentation.
+
+If you seek specific technical topics like command-line usage, installation, and coding related to Diode, please refer to the other related sections of the documentation, such as:
+- **Installation**: Guidance on how to set up the Diode network or applications may be covered in other parts of the documentation.
+- **CLI (Command Line Interface)**: The CLI functionality may offer commands that assist in interacting with the Diode network.
+
+Overall, this page serves primarily as an entry point into the community aspect of Diode, rather than a technical guide. For detailed technical processes, further investigation into the full documentation may be necessary.### Overview | Diode Docs
+
+This page provides an overview of the roles and responsibilities of Regional Leaders (RLs) within the Diode Network. It emphasizes the importance of each region's unique characteristics and outlines various core activities that contribute to the health and functionality of the network.
+
+#### Main Technical Information:
+
+1. **Core Responsibilities of Regional Leaders:**
+   - **Developing a Network of Relay Nodes:** 
+     - Establishing a distributed and decentralized set of relay nodes.
+     - The objective is to reach a region-specific target number of nodes while encouraging geographical diversity and minimizing the use of data centers.
+     - A kickoff call is arranged to assess the region and define the relay node requirements.
+
+   - **Creating and Maintaining a Regional Zone in Diode App:**
+     - Regional Leaders are responsible for setting up and managing a dedicated zone within the Diode App.
+     - While Discord may serve as the primary communication platform, users are encouraged to engage with the Diode App for community building.
+
+   - **Community and Technical Support:**
+     - Managing local community support in the native language through dedicated channels on Discord.
+     - Regional Leaders provide feedback and translate community inquiries to the Diode team.
+
+2. **Tailored Goals and Objectives:**
+   - **Fostering a Builders Community:**
+     - Building a developer community that is essential for creating solutions on the Diode Network.
+
+   - **Organizing Hackathons:**
+     - These events can stimulate innovation and the development of new apps on the Diode infrastructure.
+
+   - **Participating in Events:**
+     - Regional Leaders are encouraged to promote Diode at various exhibitions and congresses, particularly those aligned with DePin or Web3.
+
+   - **Engaging with Universities and Workshops:**
+     - Collaborating with local educational institutions can boost the number of relay nodes and developers within the network.
+
+   - **B2B Adoption and Sales Representation:**
+     - Training sessions from the Diode team are available for RLs to become sales representatives for businesses focusing on secure communication.
+
+   - **Translating Resources:**
+     - Translating Diode App and associated materials into local languages enhances user engagement and accessibility.
+
+This overview encapsulates the vital initiatives that Regional Leaders are expected to undertake to ensure the growth and sustainability of Diode's decentralized network.### Did You Experience Any “inconsistency issues” When Using OpenSSL? | Diode Docs
+
+This page discusses the potential inconsistency issues that users may encounter when using OpenSSL, particularly relating to its functions and parameters in different use cases.
+
+**Main Points and Technical Information:**
+
+1. **Inconsistency in OpenSSL Functions:**
+   - The functions provided by OpenSSL may differ based on various use cases. This can lead to confusion and issues during implementation.
+
+2. **Choice of Secure Communication:**
+   - The decision was made to use OpenSSL over RLPx for creating secure communication channels.
+
+3. **Integration with Secp256k1:**
+   - OpenSSL is configured to accept only Secp256k1, which ensures that both parties in the communication authenticate using their Ethereum wallet keys. This setup uses self-signed certificates generated with the wallet key.
+
+4. **Self-Signed Certificates:**
+   - The use of self-signed certificates means the certificates are not verified by a trusted Certificate Authority (CA), which is significant for scenario involving security and trust in connections.
+
+5. **Support Issues:**
+   - Although OpenSSL supports Secp256k1, not all TLS libraries and clients may offer support for it. This creates a potential for connection issues if implementations other than OpenSSL are used.
+
+6. **Alternative Libraries:**
+   - The page mentions potential research into other libraries, including:
+     - **ARMmbed**
+     - **wolfSSL**
+     - **SChannel**
+   - These libraries are being considered for their ability to handle Secp256k1 and avoid the inconsistencies faced with OpenSSL.
+
+### Conclusion
+The content primarily focuses on the technical challenges faced when integrating OpenSSL with specific cryptographic standards (Secp256k1) and hints at future explorations of alternative libraries to enhance compatibility and reliability in secure communications.### Page Title: Why Don't I See My Miner Stake - How Long Will it Take For My Stake to Be Shown?
+
+The page provides information about the staking process within the Diode Network, particularly addressing why users might not see their miner stake reflected immediately after they have staked DIODE tokens. Here are the main points and technical details discussed on the page:
+
+#### Key Information:
+
+1. **Staking Process**:
+   - When you stake DIODE tokens to a miner, those tokens are moved from your balance to a staked state.
+   - Users may encounter situations where their staked DIOs show as zero even after executing console commands for staking.
+
+2. **Waiting Period for Stake Visibility**:
+   - The Diode Network has a safeguard mechanism which requires a waiting period of **175,200 blocks** (approximately one month) before the staked amount is displayed. This measure is to protect the network against "hit and run" attacks.
+
+3. **Verifying Mining Status**:
+   - Users can confirm that they are mining effectively by using the command `Stats.get(:hashrate)`. If mining is occurring, the hashrate returned from this command should be greater than zero.
+
+#### Technical Commands:
+- **Checking Miner Stake**:
+  - To check how much is staked, the command is: 
+    ```
+    Shell.get_miner_stake(me)
+    ```
+
+- **Confirming Mining Activity**:
+  - To check the mining status and hashrate, use:
+    ```
+    Stats.get(:hashrate)
+    ```
+
+In summary, the content emphasizes the importance of understanding the staking waiting period on the Diode Network and provides essential commands for verifying the mining activity and staking status.### Title: Can anyone join a fleet?
+
+#### Main Information:
+The page discusses the rules regarding joining a fleet within the Diode Network. It clarifies that only the fleet creator has the authority to add or remove clients from a fleet. 
+
+#### Important Technical Information:
+- **Fleet Management**: Users can manage their fleets via the Diode Network Explorer’s Fleet page. This feature allows for viewing and administration of the fleets.
+- **MetaMask Configuration**: Before managing fleets, it's recommended to have MetaMask set up. This is a critical prerequisite for users.
+- **Diode Client**: When a user installs the Diode Client, it is automatically configured to connect to Diode’s Developer Fleet.
+- **Creating a Fleet**: Users who wish to utilize their own fleets can create one and afterwards add their clients to it.
+
+### Command Line Commands:
+- There are no specific command-line commands mentioned in this section regarding fleet management.
+
+### Systems Installation:
+- The page implies that installing the Diode Client is necessary to engage with fleet features, but does not provide detailed installation instructions.
+
+### Code:
+- The page does not include specific code samples or snippets related to joining a fleet or client management. 
+
+For further detailed procedures and technical specifications, users may need to refer to additional documentation or resources available on the Diode Docs site.### What is a canonical member of a Fleet Contract? | Diode Docs
+
+#### Main Information:
+A Canonical Member of a Fleet Contract represents a Client Identity that has been added to the Fleet Contract through a transaction on the Diode Network. 
+
+#### Key Details:
+- **Fleet Contracts**: These are typically private, meaning that there is no public listing of members.
+- **Client Identity**: When a Client Identity is added to a Fleet Contract, it is initially staged in the Device ID list by the Diode Network Explorer to verify if the Client is already a member.
+- **Persistence Requirement**: If the Client is not found within the Fleet Contract, it must be staged, and a separate transaction is needed to make the new ID a "Canonical," or persistent, member.
+
+This page does not include specific technical links, command-line commands, systems installation instructions, or code snippets. For further exploration of technical details, additional resources would typically be required.### Title: How do I change my fleet/perimeter? | Diode Docs
+
+**Main Information:**
+The page provides a guide on how to change the Fleet Contract (also referred to as Perimeter) in the Diode network using command line interface (CLI) commands. It outlines the necessary steps to achieve this, along with examples of terminal commands.
+
+**Detailed Technical Information:**
+
+1. **Command Line Commands:**
+   - To view current configuration settings, run:
+     ```
+     diode config
+     ```
+   - To set a new fleet address, use the following command, replacing `<address>` with the new fleet address:
+     ```
+     diode config -set fleet=<address>
+     ```
+     Example new fleet address: 
+     ```
+     0x6000000000000000000000000000000000000000
+     ```
+
+2. **Verification:**
+   - After setting the new fleet address, verify the change by re-running:
+     ```
+     diode config
+     ```
+     This command will display the updated Fleet Contract address to confirm that the change was successful.
+
+3. **System Installation:**
+   - While the page does not provide detailed information about the system installation, it implies that the Diode CLI is installed and operational to execute the above commands. 
+
+This guide is essential for users who need to update their fleet address within the Diode network. It emphasizes the simplicity of the process through the CLI and provides clear steps for successful execution.### Can I assign a new client address to an existing BNS name? | Diode Docs
+
+The page provides a detailed explanation on how to assign a new client address to an existing BNS (Blockchain Name System) name within the Diode Network. Here are the critical technical details extracted from the page:
+
+#### Summary of Key Information:
+1. **Functionality**: It is possible to assign a new client address to an existing BNS name.
+2. **Authentication**: If you use MetaMask to manage your BNS name, ensure you are authenticated and connected to the account that owns the BNS name.
+
+#### Instructions:
+- **Using MetaMask**: 
+  - Navigate to the Diode Network Explorer’s BNS page.
+  - Enter a new Client Address / ID in the designated box under the existing BNS name.
+
+- **Using the Diode Client (without MetaMask)**:
+  - You can execute the following command:
+    ```
+    diode bns -register <name>=<new_address>
+    ```
+  - Note: The Diode Client executing this command must be the original owner of the BNS name.
+
+This page emphasizes the ease of managing BNS names through both MetaMask and the Diode Client, providing flexibility for users to update client addresses as necessary.### Page Title: How is publishing a website with Diode better than other solutions? | Diode Docs
+
+The page discusses the advantages of publishing a website using the Diode Network compared to traditional solutions. Here are the main points covered in the content:
+
+1. **Unique Domain Name**:
+   - Users can publish content to a globally unique domain name of their choice, offering flexibility and control over their online presence.
+
+2. **Cost**:
+   - The service is free, providing an economical alternative for individuals and developers looking to host websites or applications.
+
+3. **Access Control**:
+   - Diode allows users to restrict access to specific viewers, regardless of their IP addresses. This is particularly useful for private or collaborative projects.
+
+4. **Decentralized and Trustless**:
+   - The Diode Network is fully decentralized, which enhances user privacy. When publishing a website, no personal information (such as ICANN registration, personal details, etc.) is required, except for the Diode address, similar to an Ethereum public address.
+
+5. **Web3 and Decentralized Tech**:
+   - The page highlights that decentralized tools now have the capability to compete with centralized technology, particularly in the area of website hosting.
+
+6. **Lower Barrier for Creating Decentralized Apps**:
+   - Diode reduces the complexity and costs associated with developing decentralized applications, making it more accessible than centralized alternatives.
+
+### Technical Information:
+- While the page does not provide explicit links, command line commands, system installations, or code snippets, it emphasizes the decentralized nature of Diode and its methodology for domain management and privacy protection.
+  
+If you are looking for specific command line instructions or any system installation guides, those may be available on other sections of the Diode documentation or the broader website. If you have another specific URL or area you'd like to explore for more detailed technical information, please provide that link!### Title: What are some applications that can be created with the Diode Network?
+
+The page elaborates on the various applications that can be developed using the Diode Network, highlighting its potential in the creation of decentralized and secure solutions, especially within the realm of IoT (Internet of Things) and Web 3. Here are the main points and detailed technical information presented on the webpage:
+
+#### Main Applications:
+1. **Monitoring Connected Devices:**
+   - Using the Diode network, one can monitor devices (e.g., greenhouse monitoring on Raspberry Pi) securely from anywhere without the need for an intermediary server.
+   - Users can showcase their solutions on personal gateways like “yourname.diode.link”.
+
+2. **Decentralized IoT Services:**
+   - Example applications include video cameras that can stream data directly without centralized servers.
+   - Emphasis on server-less IoT fleets managed by smart contracts to avoid surveillance.
+
+3. **Messaging Applications:**
+   - Development of decentralized messaging apps that can transmit messages, data, and tokens securely.
+
+4. **Uncensorable Websites:**
+   - Creation of websites that reside within the Diode network, ensuring they are always accessible.
+
+5. **File Sharing Services:**
+   - Implementation of decentralized friend-to-friend file sharing capabilities.
+
+6. **VPN & Network Bridges:**
+   - Building secure network bridges and Blockchain-controlled VPNs, defined as Blockchain Defined Networks (BDN).
+
+#### Target Users:
+- **Makers:**
+  - Opportunity to create server-less IoT devices that can connect securely without being hindered by NATs/firewalls.
+
+- **Corporates:**
+  - Ability to establish end-to-end secure device connections, enhancing resistance against attacks on traditional infrastructures (DNS, PKI, BGP).
+
+- **Consumers:**
+  - Users benefit from privacy and transparency, eliminating hidden server administrators who might access their data.
+
+- **Independent Journalists/Free Speech Activists:**
+  - They can broadcast video streams seamlessly and without interruption globally.
+
+#### Additional Technical Information:
+While the page primarily focuses on the applications and use-cases, it does not provide in-depth technical specifics such as command line commands, installation procedures, or coding examples directly. For comprehensive guidance regarding system installation, links, and command-line instructions, it is advisable to refer to other sections of the Diode documentation that detail:
+
+- Installation procedures for the Diode application.
+- Command-line interface (CLI) utilities available for managing and deploying applications on the Diode Network.
+
+For continuous learning and implementation, you may want to explore further sections such as "Installation" and "Using" in the Diode Docs to gather specific commands and configuration details.
+
+If further assistance or specific technical resources are needed, please indicate, and I can help you explore additional URLs or sections.### Can I publish a podcast with Diode? | Diode Docs
+
+The page explains how to publish a podcast using Diode, highlighting the key differences between publishing on traditional platforms like Spotify and Diode. Here are the main details and technical information provided:
+
+**Ownership of Content:**
+- When content is uploaded to traditional services like Spotify, the platform owns that content, allowing them to monetize it by selling ads.
+- Diode allows creators to retain full ownership of their content, meaning they cannot monetize it directly.
+
+**Publishing Process:**
+- To publish a podcast on Diode, the content must first be hosted on a Diode-enabled platform. The page refers users to further resources, including their blog post on Ghost.
+  
+**Recommendation for Live Broadcasts:**
+- For live podcast episodes, it is recommended to:
+  1. Live broadcast the episode via Diode.
+  2. After the live broadcast, upload it to other platforms like Spotify for later listening.
+
+This page encourages application developers to create tools and applications that can leverage Diode’s decentralized network to facilitate the publication process in the future. 
+
+If you need more information or further details on specific technical aspects, feel free to ask!### Page Title: Is video streaming content stored on the Diode Network?
+
+The page provides information about the storage of video streaming content on the Diode Network. Here are the key details presented:
+
+1. **Content Storage**:
+   - The Diode Network does not store video streaming content. Instead, it functions as a peer-to-peer (p2p) relay network that transmits streaming content.
+
+2. **Streaming Process**:
+   - For example, in a setup utilizing a Raspberry Pi to stream video, the Pi only needs to send the video data to one client. However, thanks to the network's capabilities, this streamed content can be simultaneously broadcasted to thousands of viewers.
+
+3. **Role of Miners**:
+   - Miners on the blockchain are responsible for duplicating the content and ensuring that it is efficiently sent to multiple receivers, facilitating widespread distribution without the need for storage on the network itself.
+
+This overview highlights the operational model of the Diode Network regarding video streaming, emphasizing its relay capabilities rather than content storage. The focus is on the efficiency of the network in streaming to multiple viewers without unnecessary duplication of data across the system. 
+
+No command line commands, code snippets, or installation instructions are mentioned on this page.### Is Diode similar to IPFS? | Diode Docs
+
+The Diode Network is fundamentally different from IPFS (InterPlanetary File System) in several ways, primarily focusing on real-time communication rather than static file storage. Below are the key points regarding the functionalities, characteristics, and capabilities of both systems:
+
+1. **Purpose and Functionality**:
+   - **IPFS**: Specializes in static file storage. It effectively stores and retrieves immutable data.
+   - **Diode**: Functions as a communications and streaming network. It does not store information; instead, it facilitates the availability of dynamic content. Diode is designed for end-to-end encrypted communication and enables real-time interactions.
+
+2. **Unique Features of Diode**:
+   - Diode is capable of distributing dynamic content. For instance, one of the initial concepts tested was utilizing a Raspberry Pi to stream real-time video over the Diode network in a peer-to-peer manner, without any centralized components.
+   - The Raspberry Pi acts as the content creator and source for video, while the Diode network manages routing, permissions, and distribution.
+
+3. **Applications Supported by Diode**:
+   - **Live Video Streaming**: Diode enables the seamless broadcasting of live video streams.
+   - **Chat Applications**: Real-time messaging capabilities allow users to communicate instantly.
+   - **Collaborative Office Applications**: Multiple users can modify documents and data in real-time.
+   - These functionalities illustrate the potential for real-time data streams and collaborative work environments.
+
+4. **Complementarity**:
+   - Both IPFS and Diode are essential for creating a decentralized web3 ecosystem. While IPFS offers a distributed file system mechanism for static content storage, Diode provides a robust framework for secure, real-time communications.
+
+The main takeaway is that while both systems contribute to the vision of a decentralized internet, they serve different roles: IPFS for persistent data storage and Diode for dynamic, interactive communication.### Is Diode similar to IOTA? | Diode Docs
+
+The page discusses the differences between Diode and IOTA, particularly in the context of their capabilities and suitability for IoT (Internet of Things) applications. Here are the main points outlined on the page:
+
+#### Key Technical Information:
+
+1. **Functionality Limitations of IOTA**:
+   - IOTA lacks the support for smart contracts, which significantly curtails its potential use cases to around 0.1% of what could be possible with a more robust platform.
+   - IOTA is not compatible with the vast majority of IoT devices, running only on high-end devices like luxury cars that possess substantial computing power.
+
+2. **Minimum Hardware Requirements for IOTA**:
+   - To run an IOTA node, the following minimum specifications are necessary:
+     - **RAM**: 4+ GB
+     - **Storage**: 8+ GB
+     - **Java**: Requires Java version 1.8.0_151 or higher.
+
+3. **Client Types**:
+   - IOTA does not have true light nodes; rather, it promotes a centralized RPC client under the guise of being a light node. This presents a barrier to achieving decentralization.
+
+4. **IOTA's Consensus Transition**:
+   - IOTA has faced issues with its old algorithm not scaling in a decentralized manner, leading to a centralized model. The platform is in the process of transitioning to a new consensus method known as “Coordicide,” an effort that will delay production deployments until at least 2022.
+
+This comparison highlights Diode’s advantages in the context of IoT, emphasizing its operational capabilities relative to IOTA's limitations. The information suggests that Diode may offer more extensive functionalities and better compatibility with a wider array of IoT devices.**Title:** Is every DNS change stored into the Blockchain forever? | Diode Docs
+
+The page addresses the concerns regarding whether every DNS change made using the Diode Network is permanently stored on the blockchain. Here are the main points and technical details provided:
+
+1. **Permanent Storage Concerns:**
+   - The inquiry stems from comments about the implications of permanently storing every DNS change on the blockchain, specifically concerns about the massive storage requirements this would entail for nodes.
+
+2. **Blockchain Storage Functionality:**
+   - The page clarifies that it is not necessary to store all DNS changes in the blockchain indefinitely. Instead, the blockchain primarily retains the current state of the DNS, which means that historical changes can be pruned to conserve space.
+
+3. **Storage Requirements:**
+   - Diode’s system, particularly with the use of BlockQuick—a newly developed light-client protocol—requires only about **20KB of storage** for effective operation. This minimizes the risk of having to store an extensive amount of data over time.
+
+4. **Purpose of Storage:**
+   - The focus of using blockchain for DNS changes is not solely on maintaining an audit history but rather on enhancing security by preventing vulnerabilities such as Man-in-the-Middle attacks. 
+
+5. **Timestamp-Certificate Problem:**
+   - The document mentions the "timestamp-certificate chicken-egg problem," indicating that the blockchain can help resolve issues related to certificate validation and the timing of changes.
+
+Overall, the key takeaway is that while the blockchain is used to secure and validate DNS changes, it does not retain every change forever, and the implementation is designed to be resource-efficient.**Page Title: How do I stake DIODE tokens for mining?**
+
+The page provides guidance on how to stake DIODE tokens for mining within the Diode network. Below are the key details, including command line commands and other technical information relevant to the staking process:
+
+### Main Information
+
+1. **Staking DIODE Tokens**: 
+   - Users can stake their DIODE tokens by interacting with the network’s console.
+
+2. **Commands for Staking**:
+   - To **test** if the staking transaction will work, use the following command: 
+     ```shell
+     Shell.call_from(Diode.miner, Diode.registry_address, "MinerStake", [], [], value: Shell.ether(5))
+     ```
+   - To **submit** the transaction for staking, execute:
+     ```shell
+     Shell.submit_from(Diode.miner, Diode.registry_address, "MinerStake", [], [], value: Shell.ether(5))
+     ```
+
+3. **Parameters**:
+   - `Diode.miner` - Refers to the miner's address in the Diode network.
+   - `Diode.registry_address` - The address to which the miner is registered.
+   - `5` - Represents the number of DIODE tokens to be staked (can vary depending on your balance).
+
+### Additional Notes
+- Ensure that you have sufficient balance of DIODE tokens before attempting to stake. 
+- The values for staking can be adjusted based on user preference and available tokens.
+
+This information serves as a concise reference for users looking to stake their DIODE tokens for mining on the Diode network.### Page Title: Why did you want to design edgeRPC? Why Not gRPC or JsonRPC? | Diode Docs
+
+The page discusses the rationale behind the design of edgeRPC as a communication protocol for nodes in the Diode Network, contrasting it with gRPC and JsonRPC.
+
+#### Main Information:
+
+1. **Purpose of edgeRPC**:
+   - edgeRPC is specifically designed to facilitate node interaction with devices within the Diode Network. It aims to provide a streamlined and efficient communication protocol tailored to the network's needs.
+
+2. **Background Technologies**:
+   - The initial approach involved ASN1, a super small binary format commonly used in protocols like OpenSSL. This was chosen for its efficiency in data encoding.
+
+3. **Future Potential**:
+   - There is a consideration for potentially adopting JsonRPC in the future, suggesting that the design is flexible and may evolve based on the needs of the network and its users.
+
+### Technical Information:
+- **Link to Diode Docs**: For further reading and technical documentation related to Diode and edgeRPC, you can refer to [Diode Docs](https://network.docs.diode.io).
+
+- **No command line commands, system installations, or code specifics** were provided on this page regarding edgeRPC, gRPC, or JsonRPC.
+
+### Summary:
+The page emphasizes edgeRPC's role in the Diode ecosystem, highlighting its efficient interaction with devices as a primary feature, with a nod to possible future developments that may include JsonRPC.### Title: Why does BlockQuick use the last 100 blocks only? Why not more or less? | Diode Docs
+
+The page discusses the rationale behind BlockQuick's design choice to utilize the last 100 blocks for consensus in its proof of concept clients. Here are the main points and important technical information provided:
+
+#### Key Points:
+1. **Consensus Stability**: The primary goal of using a limited number of blocks (100) is to achieve maximum consensus stability. The behavior of miners varies significantly; while smaller miners might fluctuate frequently, larger miners maintain their presence for extended periods.
+
+2. **Influencing Factors**:
+   - **Pros of Smaller Tables**:
+     - **Reduced Data Requirements**: Smaller tables require fewer bytes for storage and transport, which can enhance efficiency.
+     - **Avoidance of Zombie Entries**: Larger or infinite tables run the risk of collecting obsolete or inactive miners (“zombies”), which can clutter the network and impair functionality.
+
+   - **Pros of Larger Tables**:
+     - **Increased Security Against Attacks**: A larger consensus table can potentially raise the cost associated with attacks on the network, thereby improving security.
+
+3. **Variability vs Stability**: The ongoing balance between the variability of miner participation and the stability of the consensus mechanism is crucial. The choice of 100 blocks appears to be a compromise aimed at ensuring a stable consensus among active nodes.
+
+#### Technical Information:
+- **BlockQuick Consensus Table**: The page specifically mentions that the current proof of concept clients are functioning with a consensus table size of 100 blocks.
+- **Mining Behavior**: It highlights the difference in behavior between small and large miners concerning their longevity in the consensus process, indicating that the design choice is informed by empirical observations from frameworks like Ethereum.
+
+No specific command line commands, installation instructions, or code snippets are provided in this overview. The focus remains on the conceptual and strategic reasoning behind the block size selection for consensus processes within BlockQuick.### How big is the BlockQuick consensus reputation table? | Diode Docs
+
+The page discusses the BlockQuick consensus reputation table, which plays a crucial role in the Diode Blockchain Network. Here are the main details and technical information presented:
+
+#### Main Information:
+- **Purpose of the Reputation Table:** 
+  - The BlockQuick consensus reputation table is designed to maintain a light footprint by not storing the entire history of the blockchain. Instead, it only contains information related to the last 100 block headers.
+
+- **Efficiency for Devices:**
+  - Since block headers are significantly smaller than their corresponding blocks, requiring only the last 100 headers allows even devices with limited storage capacities to effectively store and process this data. This is important for the accessibility of the network across various device types.
+
+#### Technical Information:
+- **Storage Requirements:**
+  - The small size of the block headers ensures that minimal storage space is needed, which makes it feasible for deployment on small devices.
+
+- **Blockchain Structure:**
+  - The concept of storing only a fixed number of recent block headers is a design choice that balances historical data retention with performance and resource requirements.
+
+This page highlights the innovative approach that the Diode Network has taken to manage consensus through a simplified reputation table, enabling better scalability and efficiency in blockchain operations.### Title: How is Diode using websockets?
+
+The page details how the Diode platform utilizes WebSocket technology within its infrastructure. Here are the main points and key technical information extracted from the page:
+
+#### Main Information:
+- **WebSocket Capabilities**:
+  - The default Diode Go Client can convert any binary TCP socket into a WebSocket. This feature allows for enhanced communication, such as streaming data like video.
+
+- **Application Example**:
+  - An example provided is a demo on a Raspberry Pi that streams video. The raw video is published to a specific port, and the Diode Client transforms this stream into WebSocket frames for efficient data transmission.
+
+#### Technical Information:
+- **WebSocket Functionality**:
+  - WebSockets enable full-duplex communication channels over a single TCP connection, providing low-latency data transfer which is particularly useful for applications that require real-time data streaming.
+
+- **Tools and Commands**:
+  - This page does not specify command line commands or detailed installation instructions directly. However, users can utilize the Diode Go Client installed in their system to leverage these WebSocket capabilities.
+
+- **System Installation**:
+  - Although the specific installation commands are not given on this page, it implies the necessity of having the Diode Go Client set up on a device, such as a Raspberry Pi, to enable WebSocket functionality.
+
+- **Code Implementation**:
+  - The details of implementing this feature in code were not provided explicitly on this page. However, understanding that the Go Client facilitates the conversion of TCP sockets to WebSockets indicates that custom development may be needed based on the specific use case.
+
+This page mainly serves to inform users about the integration of WebSocket technology in the Diode ecosystem and provides an example application to illustrate its functionality. For more comprehensive setup and specific command line instructions, users are encouraged to refer to installation and setup guides available on the Diode documentation portal.### Page Title: Does using OpenSSL mean you're using a CGo compiler?
+
+The page discusses the relationship between OpenSSL and the CGo compiler within the context of the Diode network.
+
+#### Key Information:
+
+1. **CGo and OpenSSL**:
+   - The document clarifies that if you are using OpenSSL in your development environment, it is likely that you are utilizing CGo to link and call C functions from Go code.
+
+2. **Technical Details**:
+   - **CGo**: CGo is a feature of Go that allows Go packages to call C code. This integration is crucial when working with libraries written in C, like OpenSSL.
+   - **OpenSSL**: A widely used library for implementing SSL and TLS protocols, as well as cryptography, which is essential in securing communications.
+
+3. **Installation Instructions**:
+   - Specific installation steps for OpenSSL and CGo are not detailed on the page. However, it is implied that adequate setup of OpenSSL is necessary for proper functioning with a Go environment.
+   - Users typically need to ensure that OpenSSL is installed on their system and that their Go installation is configured to use it.
+
+4. **Commands and Code**:
+   - The document does not provide explicit command-line commands or code examples, but users are encouraged to look into the standard Go documentation for integrating CGo with OpenSSL.
+
+#### Conclusion:
+In summary, the page serves to inform developers using the Diode network that OpenSSL implies the use of CGo in their Go applications. It highlights the significance of understanding how these components interact, especially for proper application development and deployment.**Page Title: How do I get DIODE tokens? | Diode Docs**
+
+The page provides detailed information on how to obtain DIODE tokens, which are used in the Diode Network—an infrastructure aimed at enabling decentralized internet communications. Below is a breakdown of the main information and technical details presented on the page:
+
+### Main Information
+
+1. **Overview of DIODE Tokens**:
+   - DIODE tokens are integral to the Diode Network, a decentralized provider of bandwidth (DePIN).
+   - Users are rewarded with DIODE tokens based on their supply and demand contribution to the network.
+
+2. **Participation and Community Engagement**:
+   - To actively participate in the ecosystem, users are encouraged to join the Diode and Diode Foundation Discord channel. This serves as a platform for communication and collaboration among community members.
+
+### Technical Information
+
+The page primarily focuses on obtaining DIODE tokens. While specific command lines, installation guidance, or links for code aren't included on this particular page, valuable insights regarding interaction with the network and earning tokens are hinted at.
+
+### Links to Explore Further
+
+Although the page did not provide explicit links or commands directly on this topic, it encourages deeper engagement:
+- Users are motivated to explore avenues for earning tokens by engaging with the network.
+- By joining the Discord channel mentioned, users can seek further instructions and assistance from the community.
+
+### Actionable Commands and Installation
+
+- The page does not list specific command line commands or system installation procedures directly related to acquiring DIODE tokens.
+- For detailed information regarding software setup or command usage, users may need to navigate to other sections such as installation guides or the CLI documentation.
+
+### Conclusion
+
+For further detailed technical instructions, users are likely encouraged to explore other areas of the Diode documentation or join communities for live discussions and insights. If more specific information regarding installation commands or related technical details is required, additional pages or resources may need to be accessed.### What are the hardware requirements for running a Diode Client?
+
+The webpage provides detailed insights regarding the hardware requirements necessary for operating a Diode client within the Diode Network. Here are the key technical details from the page:
+
+#### Hardware Requirements:
+- **Storage**: Minimum storage requirement is about 5MB for the Diode client application.
+- **RAM**: The memory requirement is approximately 50KB for syncing but can reach up to 21MB of real memory when publishing a localhost website on MacOS.
+- **Sync Bandwidth**: The sync bandwidth requirement is 20KB per sync.
+
+#### Security Requirements:
+- The system must support TLS secp256k1 security parameters, as this elliptic curve is utilized for API communications within the Diode Network.
+
+#### Performance Notes:
+- The Diode client app includes an HTTP web server and incorporates multiple commands and services.
+- The Diode team frequently utilizes **Raspberry Pi Zero** for blockchain communication tasks. For more intensive applications, such as hosting a graphical website, a **Raspberry Pi 4 with 8GB of RAM** is recommended due to higher rendering capabilities.
+
+#### Command Line Usage:
+- A specific command line example provided is:
+  ```bash
+  diode publish -public 2368:80
+  ```
+  This command is used to publish a localhost website via the Diode Network.
+
+For those looking for additional information on hardware requirements, the page references a blog post that can be checked for further insights.
+
+This summarized technical information should assist in understanding the basic hardware and software prerequisites for effectively running a Diode client.### Are DIODE tokens worth anything? | Diode Docs
+
+The page discusses the value proposition of DIODE tokens within the Diode network. Here are the key points outlined:
+
+1. **Value Justification**: DIODE tokens facilitate communications on the Diode network, providing real value compared to traditional Internet infrastructure costs.
+
+2. **Tokenomics Calculations**: 
+   - A theoretical valuation method for DIODE tokens is mentioned:
+     \[
+     \text{Token Oracle} = \frac{10 \times \text{last-epoch-bandwidth (in GB)}}{\text{fleet-staked-tokens}}
+     \]
+   - For a more detailed understanding, the page refers readers to the whitepaper for an in-depth discussion on tokenomics.
+
+3. **Recommendation**: The page implies that the DIODE token's worth is tied to its utility within the Diode ecosystem and the cost efficiency it provides against traditional services.
+
+This page primarily aims to clarify the economic benefits and theoretical frameworks supporting the value of DIODE tokens. There are no specific links, command line commands, or installation instructions included in this section of content. If you need more information or specific sections from other pages, feel free to provide the links!### Page Title: Why host a Node? | Diode Docs
+
+**Main Information:**
+The page outlines the reasons for hosting a Diode Network Lite Node. Here are the four main motivations provided:
+
+1. **Enhancing E2EE Connectivity:**
+   - Hosting a node in a specific region can help route end-to-end encrypted (E2EE) traffic to other endpoints, improving performance, especially in new or congested areas.
+
+2. **Isolating Endpoint Traffic:**
+   - A self-hosted node allows Diode clients to route traffic through the node, enhancing speed, privacy, and integration with custom governance for smart contracts.
+
+3. **Earning Traffic Tickets:**
+   - Diode Network tracks traffic, awarding "traffic tickets" for data handled. These tickets yield tokens that are added to the node's wallet monthly, which can be transferred freely.
+
+4. **Curiosity and Learning:**
+   - The process of setting up a Diode Server node provides an engaging introduction to blockchain technology and communication systems.
+
+**Technical Information:**
+While the page does not explicitly provide command line commands, system installation instructions, or direct code samples, it implies certain technicalities:
+
+- **Traffic Management:**
+  - Users can set up their own routing preferences on the clients that refer to their server node.
+
+If you need additional technical content on how to install or run a Diode Network Lite Node, please provide an updated link or specify what additional information is required.### Page Title: How do I get my business comfortable with Blockchain technology? 
+
+This webpage discusses how businesses can become comfortable and adopt blockchain technology. It emphasizes that while the term "blockchain" can be intimidating to some, there is a growing interest among developers who are not specifically blockchain developers. 
+
+#### Key Points:
+
+1. **Perception of Blockchain**: 
+   - The term "blockchain" can scare away some professionals in various industries, but there's a rising interest in the technology, even among those who aren’t blockchain specialists.
+
+2. **Developer Engagement**: 
+   - The page suggests that developers with pre-existing knowledge of traditional technologies can become early adopters of blockchain. This is seen as a crucial step toward mainstream acceptance of blockchain technology.
+
+3. **Integration of Tech Worlds**: 
+   - The goal is to merge traditional development practices with blockchain-based solutions, indicating there’s ongoing work to improve user experience (UX) in blockchain environments.
+
+4. **Future Outlook**: 
+   - There is a sense of optimism about the potential for continued improvement in the fundamentals of blockchain technology, which will facilitate its acceptance and usability in business contexts.
+
+#### Technical Information:
+The page does not include any specific technical details regarding command line commands, system installations, or links related to blockchain deployment. It focuses primarily on the conceptual aspects of integrating blockchain technology into business practices rather than providing technical guidance. 
+
+If further technical information was sought regarding installations or commands related to Diode or blockchain technology in general, I would recommend checking specific sections of the Diode documentation or other blockchain resources for detailed installation guides or command line tools. 
+
+Please let me know if you want to explore more specific aspects or a different URL!**Is Diode a permissioned or permissionless Blockchain?**
+
+The page provides detailed insights into the nature of the Diode blockchain, clarifying that Diode is a **permissionless** and **decentralized public blockchain**. Key points about the Diode network related to permissions include:
+
+- **Permissionless Nature**: Anyone can join the Diode network, and it requires minimal computational power. This means that it is open for participation to all users without the need for approval or invitation.
+
+This is significant for those interested in blockchain technology and looking for a system that prioritizes decentralization and openness. There are no specific technical details such as command line commands, system installations, or code snippets directly mentioned on the page regarding the operation or setup of the Diode network. The content primarily focuses on clarifying the permission structure of the blockchain rather than providing technical instructions. 
+
+If you have other specific areas or links you'd like to explore further, feel free to ask!### What is the Diode Network? | Diode Docs
+
+The Diode Network is a decentralized public communications platform that enables edge devices and servers to publish and consume content without relying on centralized technologies. It addresses the security and infrastructure needs of edge-based connected applications. Below are the key technical details from the page:
+
+#### Main Features:
+- **Decentralization**: The Diode Network supports a server-less internet and aims to realize the decentralized web.
+- **Blockchain Integration**: It includes an integrated implementation of blockchain technology for trustless communication.
+- **BlockQuick Algorithm**: This proprietary algorithm facilitates secure communications among devices and applications.
+- **End-to-End Encryption**: All communications on the network are encrypted by default unless specified otherwise, enhancing data security.
+- **Resource Efficiency**: It requires minimal computing and storage resources compared to other decentralized technologies.
+
+#### Technical Information:
+1. **Communications**:
+   - Trustless communications amongst edge devices.
+   - End-to-end encryption for all messages (configurable).
+
+2. **Installation and Setup**:
+   - To begin using Diode Network, refer to the **Getting Started guide** for detailed installation and configuration procedures.
+
+3. **Code and Commands**:
+   - Specific command-line instructions are not provided on this page, but it's implied that further technical guidance can be found in the setup guide.
+
+4. **Links for Further Reading**:
+   - **Diode Network Getting Started Guide:** This guide likely includes installation instructions, configuration, and advanced features.
+   - **Diode Network Documentation:** Further articles and resources might be available for comprehensive insights and extensive setup instructions.
+
+For more in-depth information regarding installations and command-line instructions, it is advisable to explore the suggested links and guides mentioned in the documentation.### Configure MetaMask | Diode Docs
+
+This page provides detailed instructions on how to install and configure the MetaMask wallet to work with the Diode Network. Below is a summary of the main information and important technical details regarding the process:
+
+#### Main Steps to Install and Configure MetaMask
+
+1. **Install MetaMask**:
+   - Visit the official website: [MetaMask](https://metamask.io/) to download and install the MetaMask browser extension.
+   - Once installed, the MetaMask icon (a fox head) will appear in the upper right corner of your browser.
+
+2. **Configure MetaMask for the Diode Network**:
+   - Click the MetaMask icon to open it. It will usually show the “Main Ethereum Network” in the network selector.
+   - To access additional options, click the colorful circle located in the top right corner of the MetaMask window and select “Settings” from the menu that appears.
+   - In the Settings menu, scroll down to find “Networks” and click on it.
+   - At the bottom of the Networks pane, click on the “Add Network” button.
+
+3. **Enter Diode Network Settings**:
+   - Fill in the required fields with the following configuration:
+     - **Network Name**: Diode
+     - **New RPC URL**: `https://prenet.diode.io:8443`
+     - **ChainID**: `0xf` (Note: can also be entered as decimal `15`)
+     - **Symbol**: DIO
+     - **Block Explorer URL**: [https://diode.io/prenet/#](https://diode.io/prenet/#)
+
+4. **Final Steps**:
+   - After entering the details, if everything is correct, you will be redirected back to the main page, and “Diode” will appear in your network selector.
+   - It is advisable to back up your wallet seed phrase by navigating to `Settings -> Security & Privacy -> Reveal Wallet Seed` to ensure you can restore your accounts in the event of needing to switch computers.
+
+### Important Technical Information
+- **Links**:
+  - MetaMask Installation: [metamask.io](https://metamask.io/)
+  - Diode Network Block Explorer: [https://diode.io/prenet/#](https://diode.io/prenet/#)
+
+- **Installation Commands & Instructions**: No specific command-line commands are provided, since installation is done through a web browser.
+
+- **Configuration Code**: 
+  - The configuration does not involve traditional code but requires entering specific parameters as mentioned in the settings section.
+
+By following these steps, users can successfully set up their MetaMask wallet to interact with the Diode Network, allowing them to manage their accounts and perform network transactions directly through their browser.### What is BNS? | Diode Docs
+
+**Overview of BNS**  
+BNS stands for Blockchain Name System, which is implemented in the Diode Network as a fully decentralized system utilizing smart contracts. It binds "friendly names" (known as BNS names) to network addresses, similar to how root domain names operate in the traditional web (Web 2.0).
+
+**Key Features**:  
+- **Human-Readable Names**: BNS allows users to associate human-recognizable names with Diode Network addresses, which are formatted like Ethereum public addresses. This facilitates easier memory and usability over complex address strings.
+  
+- **Example Usage**: A BNS name such as `live-stream.diode.link` can replace a less memorable address like `0xc206E1255Cbace8ba904DaA259D7a5b7F90E2D50.diode.link`. This simplicity mimics the convenience of using domain names.
+
+**Additional Resources**:
+- To create, search, and browse BNS names, users can check specific articles or go directly to the [Explorer BNS page](https://network.docs.diode.io/docs/faq/what-is-bns/).
+
+**Technical Links and Commands**:  
+- No specific command-line commands or system installation instructions were mentioned on the page, but it implies familiarity with decentralized naming and Ethereum-like address handling. 
+- The concept emphasizes the use of smart contracts to manage name associations on the blockchain.
+
+This encapsulates the core details and technical fundamentals regarding the Blockchain Name System (BNS) as presented in the Diode documentation. If you have more specific sections or links you'd like to analyze, please let me know!### How are you using websockets? | Diode Docs
+
+The page explains how the Diode Go Client utilizes WebSockets to enhance data transfer capabilities. Here are the main details from the page:
+
+- **WebSocket Functionality**: The Diode Go Client can convert any binary TCP socket into a WebSocket. This allows for real-time, two-way communication between the server and the client.
+
+- **Example Implementation**: The page highlights an example involving a Raspberry Pi video streaming demo. In this scenario, raw video data is published to a specific port, and the Diode Client processes this data and converts it into WebSocket frames, facilitating streaming.
+
+- **Technical Insights**: 
+  - The use of WebSockets is particularly beneficial for applications requiring bidirectional communication, like video streaming and live data feeds.
+  
+This overview focuses on the technical aspects of how Diode integrates WebSockets with its functionality, particularly through the Go Client. If there's anything specific you'd like to dive deeper into or any additional links you want to explore, let me know!### Page Title: Docs on Other Products
+
+The page provides an overview of the Diode ecosystem and its various components, along with links for further exploration of each. Here are the main points highlighted:
+
+1. **Diode Network**:
+   - An open and permissionless secure communication network leveraging blockchain technology for enhanced security and scalability.
+
+2. **Diode Collab**:
+   - A cross-platform messaging application intended to serve as a secure alternative to popular platforms such as Discord and Slack.
+
+3. **Diode CLI**:
+   - This is a command-line interface tool that enables users to rapidly build applications on top of the Diode Network, facilitating interactions with Diode Collab users. Specific commands and functionalities are not listed on this page, but additional documentation can be found in the Diode CLI section.
+
+4. **Diode Vault**:
+   - A hardware device designed to run both Diode Collab and CLI. It can function as a backup device for Diode Collab zones and is capable of hosting decentralized websites.
+
+### Important Technical Information:
+- The page serves primarily as a navigation hub to direct users to the documentation related to different components of Diode.
+- Links to specific documentation areas related to each component (Diode Network, Diode Collab, Diode CLI, Diode Vault) were mentioned, but specific command line commands, system installation details, or code snippets are not directly provided on this page. For detailed instructions, individuals are encouraged to explore the linked documentation for each product.
+
+For expansive technical instructions including command-line commands and installation procedures, refer to the dedicated sections of the Diode documentation for the CLI, Network, and other components.

@@ -1,0 +1,20 @@
+{
+    "0": "https://vaults.docs.diode.io/",
+    "1": "cloudcannon:collections/data/nav.yml",
+    "3": "https://network.docs.diode.io/",
+    "4": "https://app.docs.diode.io/",
+    "5": "https://cli.docs.diode.io/",
+    "6": "https://vaults.docs.diode.io/docs/using/vault-getting-started-guide/",
+    "7": "https://vaults.docs.diode.io/docs/using/vault-power-up-and-power-down-procedures/",
+    "8": "https://vaults.docs.diode.io/docs/using/vault-system-interfaces/",
+    "9": "https://vaults.docs.diode.io/docs/",
+    "10": "https://vaults.docs.diode.io/docs/vpx-2402/",
+    "11": "https://vaults.docs.diode.io/docs/vault-model-numbers/",
+    "12": "https://vaults.docs.diode.io/docs/features/vault-advanced-capabilities/",
+    "13": "https://vaults.docs.diode.io/docs/features/vault-label/",
+    "14": "https://vaults.docs.diode.io/docs/troubleshooting/vault-troubleshooting/",
+    "15": "https://vaults.docs.diode.io/docs/faq/can-i-remove-the-sd-card-or-harddrive-bridge-from-my-vault/",
+    "16": "https://vaults.docs.diode.io/docs/faq/docs-on-other-products/",
+    "17": "cloudcannon:collections/data/footer.yml",
+    "18": "https://diode.io"
+}

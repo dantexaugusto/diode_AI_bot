@@ -1,0 +1,72 @@
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+Link repetido no arquivo: diode_DOCS_app_sublinks.json  => cloudcannon:collections/data/nav.yml = cloudcannon:collections/data/nav.yml Chave Json = 1 
+Link repetido no arquivo: diode_DOCS_network_sublinks.json  => cloudcannon:collections/data/nav.yml = cloudcannon:collections/data/nav.yml Chave Json = 1 
+Link repetido no arquivo: diode_DOCS_vaults_sublinks.json  => cloudcannon:collections/data/nav.yml = cloudcannon:collections/data/nav.yml Chave Json = 1 
+Link repetido no arquivo: diode_DOCS_cli_sublinks.json  => cloudcannon:collections/data/nav.yml = cloudcannon:collections/data/nav.yml Chave Json = 1 
+Link repetido no arquivo: diode_DOCS_app_sublinks.json  => https://network.docs.diode.io/ = https://network.docs.diode.io/ Chave Json = 3 
+Link repetido no arquivo: diode_DOCS_network_sublinks.json  => https://network.docs.diode.io/ = https://network.docs.diode.io/ Chave Json = 0 
+Link repetido no arquivo: diode_DOCS_vaults_sublinks.json  => https://network.docs.diode.io/ = https://network.docs.diode.io/ Chave Json = 3 
+Link repetido no arquivo: diode_DOCS_cli_sublinks.json  => https://network.docs.diode.io/ = https://network.docs.diode.io/ Chave Json = 3 
+Link repetido no arquivo: diode_DOCS_app_sublinks.json  => https://app.docs.diode.io/ = https://app.docs.diode.io/ Chave Json = 0 
+Link repetido no arquivo: diode_DOCS_network_sublinks.json  => https://app.docs.diode.io/ = https://app.docs.diode.io/ Chave Json = 3 
+Link repetido no arquivo: diode_DOCS_vaults_sublinks.json  => https://app.docs.diode.io/ = https://app.docs.diode.io/ Chave Json = 4 
+Link repetido no arquivo: diode_DOCS_cli_sublinks.json  => https://app.docs.diode.io/ = https://app.docs.diode.io/ Chave Json = 4 
+Link repetido no arquivo: diode_DOCS_app_sublinks.json  => https://cli.docs.diode.io/ = https://cli.docs.diode.io/ Chave Json = 4 
+Link repetido no arquivo: diode_DOCS_network_sublinks.json  => https://cli.docs.diode.io/ = https://cli.docs.diode.io/ Chave Json = 4 
+Link repetido no arquivo: diode_DOCS_vaults_sublinks.json  => https://cli.docs.diode.io/ = https://cli.docs.diode.io/ Chave Json = 5 
+Link repetido no arquivo: diode_DOCS_cli_sublinks.json  => https://cli.docs.diode.io/ = https://cli.docs.diode.io/ Chave Json = 0 
+Link repetido no arquivo: diode_DOCS_app_sublinks.json  => https://vaults.docs.diode.io/ = https://vaults.docs.diode.io/ Chave Json = 5 
+Link repetido no arquivo: diode_DOCS_network_sublinks.json  => https://vaults.docs.diode.io/ = https://vaults.docs.diode.io/ Chave Json = 5 
+Link repetido no arquivo: diode_DOCS_vaults_sublinks.json  => https://vaults.docs.diode.io/ = https://vaults.docs.diode.io/ Chave Json = 0 
+Link repetido no arquivo: diode_DOCS_cli_sublinks.json  => https://vaults.docs.diode.io/ = https://vaults.docs.diode.io/ Chave Json = 5 
+Link repetido no arquivo: diode_DOCS_app_sublinks.json  => cloudcannon:collections/data/footer.yml = cloudcannon:collections/data/footer.yml Chave Json = 100 
+Link repetido no arquivo: diode_DOCS_network_sublinks.json  => cloudcannon:collections/data/footer.yml = cloudcannon:collections/data/footer.yml Chave Json = 54 
+Link repetido no arquivo: diode_DOCS_vaults_sublinks.json  => cloudcannon:collections/data/footer.yml = cloudcannon:collections/data/footer.yml Chave Json = 17 
+Link repetido no arquivo: diode_DOCS_cli_sublinks.json  => cloudcannon:collections/data/footer.yml = cloudcannon:collections/data/footer.yml Chave Json = 32 
+Link repetido no arquivo: diode_DOCS_app_sublinks.json  => https://diode.io = https://diode.io Chave Json = 101 
+Link repetido no arquivo: diode_DOCS_network_sublinks.json  => https://diode.io = https://diode.io Chave Json = 55 
+Link repetido no arquivo: diode_DOCS_vaults_sublinks.json  => https://diode.io = https://diode.io Chave Json = 18 
+Link repetido no arquivo: diode_DOCS_cli_sublinks.json  => https://diode.io = https://diode.io Chave Json = 33 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 
+O arquivo referência de comparação é: diode_DOCS_about_sublinks.json 
+ 

@@ -1,0 +1,14 @@
+[Unit]
+Description=Diode Ai Assistant Collab Connection
+After=network.target
+StartLimitIntervalSec=0
+StartLimitBurst=9999999
+ 
+[Service]
+Type=simple
+User=dante
+ExecStart=/bin/bash -c 'source /home/dante/diode_Registrar_bot/reqstestVenv/bin/activate && python3 /home/dante/diode_Registrar_bot/diode_Ai_bot_integration/simple_diode_APIcall.py'
+Restart=always
+ 
+[Install]
+WantedBy=multi-user.target

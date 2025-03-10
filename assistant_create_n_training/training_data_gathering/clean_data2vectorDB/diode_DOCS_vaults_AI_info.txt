@@ -1,0 +1,463 @@
+### Diode Vaults Overview | Diode Docs
+
+The Diode Vault is a tool designed to enhance team collaboration by relaying encrypted messages for offline members, backing up files, and providing a private exit node that enables remote internet access. It can be deployed in two main ways: in the cloud or as a physical device that connects to power and Ethernet. This setup allows teams to extend the reach of their end-to-end encrypted (E2EE) collaboration environments.
+
+#### Key Technical Information:
+
+1. **System Installation**:
+   - **Deployment Options**: Users can deploy the Diode Vault either in a cloud environment or by using a compact physical unit. 
+
+2. **Functionality**:
+   - Relays encrypted messages for offline users.
+   - Backs up files to ensure important data is safe.
+   - Provides a private exit node, granting teams remote internet access without compromising security.
+
+3. **Command Line Commands**:
+   - Specific commands to manage and configure the Vault are not detailed in the scraped content, but typically would include commands for installation, configuration, maintenance, and diagnostics.
+
+4. **Interfaces**:
+   - The documentation likely covers various interfaces to interact with the Vault, both for administrative purposes and for general use by team members.
+
+5. **Models**:
+   - Different models such as 2312-NT and VPX-2402 are mentioned, which may have different specifications and capabilities. 
+   - Model numbers help differentiate between the different versions and their corresponding features.
+
+6. **Advanced Capabilities**:
+   - The Diode Vault offers advanced features to further enhance functionality, although specific details on these capabilities are not included in the scraped content.
+
+7. **Troubleshooting**:
+   - The documentation includes a section for troubleshooting common issues. Example queries include whether users can remove components like the SD card or hard drive bridge from their Vault.
+
+For deeper technical details, including specific command line interfaces and installation instructions, it's likely necessary to explore further sections of the documentation directly on the provided URL.### Diode Network Overview
+
+The Diode Network is a blockchain-anchored Zero Trust DePIN (Decentralized Physical Infrastructure Network) that operates as an open and permissionless solution for Zero Trust Network Access (ZTNA). Here’s a detailed breakdown of the important technical information provided on the webpage:
+
+#### Key Features:
+- **Global Routing and Identities**: Users can create and use devices without needing prior registration.
+- **Permissionless Participation**: Anyone can run a routing or relay node, which contributes to the network's decentralization.
+- **No Usage Fees**: Utilizing the network has no associated fees; however, using third-party relays requires a bandwidth sponsor.
+- **$DIODE Token**: The network employs the $DIODE token to cover bandwidth supply costs for application providers.
+
+#### Technical Information:
+
+1. **Node Operation**: 
+   - **Running a Node**: Users can participate in the network by running their own nodes, contributing to the decentralized nature of the service.
+
+2. **Command Line Interface (CLI)**:
+   - While specific command line commands weren't detailed in the page content, users would typically interact with the network with commands aligned with node operational processes, which might include commands for starting, stopping, or monitoring node activity. Detailed commands often come in related sections under CLI documentation.
+
+3. **System Installation**:
+   - The installation process was referenced as part of the broader documentation, potentially including prerequisites for running a node and detailed steps for setup. Specific instructions are typically provided in the installation section.
+
+4. **Links and Additional Resources**:
+   - Several resources and links are hinted at within the navigation sections such as:
+     - Diode CLI: for command line operations within the ecosystem
+     - Dera Connect, suitable for specific projects within Diode
+     - Community forums and GitHub for developers contributing to or seeking help with the project.
+
+5. **Projects and Applications**:
+   - The platform supports various projects, highlighting that apps can be built atop the Diode network, enhancing functionality and user engagement.
+
+6. **Usage of Diode Tokens**:
+   - An overview is provided about how the $DIODE tokens can be utilized within the network, particularly in terms of bandwidth underwriting and possibly staking or governance purposes.
+
+7. **Noteworthy Queries**:
+   - The FAQ section tackles several systemic questions such as the similarities with other blockchain technologies (e.g., IPFS, IOTA), the protocol for DNS changes, and the mechanics of mining within the token ecosystem.
+
+This summary provides a foundational understanding of what the Diode Network entails, as well as its operational, technical, and community aspects. For detailed technical commands and installation procedures, follow links provided in the complete documentation found under sections like "Installation" and "Using."### Diode Collab Overview | Diode Docs
+
+Diode Collab is a secure messaging and collaboration application designed for team communication in sensitive and regulated environments. Here are the main aspects and technical details of the application:
+
+#### Key Features:
+1. **Secure Messaging**:
+   - DMs (Direct Messages) and group chats are protected with 256-bit end-to-end encryption, ensuring that communications remain confidential and secure.
+
+2. **Secure File Sharing**:
+   - The application allows for end-to-end encrypted file sharing, functioning similarly to Google Drive but with a self-custody model. This means that users have complete control of their files without reliance on third-party storage services.
+
+3. **Tunneled Bookmarks**:
+   - Users can create and manage web bookmarks that utilize regional-access or direct-access tunnels, enhancing security and accessibility.
+
+#### Installation Instructions:
+- **Install the App**: Detailed instructions will typically be included in the installation section of the documentation. Users can often download the application from the official Diode website or other specified platforms.
+  
+- **Uninstall the App**: Guidelines for properly uninstalling the app to ensure that no residual data is left on the device.
+
+#### Technical Commands:
+- Users may have access to command-line interface (CLI) commands for advanced configuration and usage. Specific commands and their purposes would be found in the API documentation or a CLI guide.
+
+#### Systems Installation and Compatibility:
+- Diode is designed to function across multiple platforms which may include Windows, macOS, Linux, and even Raspberry Pi for certain applications. It is tailored for environments that require high-security measures for data handling.
+
+#### Additional Technical Information:
+- **API Usage**: The documentation might provide details on how to use Diode's APIs, including `Curl` commands for managing API interactions.
+  
+- **Backup and Recovery**: Instructions on creating backup codes and restoring files might be included, ensuring that users can securely manage and recover their data.
+
+- **Customization Features**: Options for customizing the user experience within Diode, such as managing roles, customizing share pages, and creating decentralized webpages.
+
+- **Troubleshooting**: Common issues and their resolutions are often documented, helping users to quickly troubleshoot any problems they encounter.
+
+- **Documentation Access**: Users may be directed to further documentation for specific products or features, which could include FAQs and getting support sections.
+
+#### Security Considerations:
+- Users are encouraged to understand how privacy is managed within the app, including the implications of notifications and data storage practices.
+
+This coverage presents a high-level overview of Diode Collab and is subject to detailed exploration in specific sections of the official documentation. For more exhaustive details, users are recommended to refer directly to the documentation and related resources.### Diode CLI Overview | Diode Docs
+
+The Diode CLI (Command Line Interface) is a tool designed to facilitate the publishing and accessing of content on the Diode Network. Here are the key aspects of the page:
+
+#### Main Functionality
+- **Purpose**: Quickly publish content to the Diode Network or access existing content seamlessly.
+- **Interaction with Diode Network**: It utilizes the proprietary Blockquick(TM) algorithm, allowing for direct interaction with decentralized networks.
+
+#### Installation
+- The page likely contains detailed instructions for installing the Diode CLI, along with requirements for different operating systems or devices (though exact methods are not extracted in the summary).
+
+#### Command Line Commands
+- **CLI Commands**: The documentation provides a list of commands you can use with the Diode CLI. This encompasses various functions for managing your interactions with the network.
+- **Usage Scenarios**: Command outlines probably include:
+  - How to publish content
+  - Access blockchain names
+  - Set up remote connections (SSH, VNC)
+
+#### Technical Details
+- **Blockquick(TM)**: This unique algorithm is essential for enabling compatibility with the decentralized nature of the Diode Network.
+- **Examples of Commands**: The documentation may include snippets of code or command examples to assist users in getting started quickly.
+
+#### Additional Features
+- **Web Server Publishing**: Instructions on how to publish a local web server.
+- **Web3.0 Content Access**: Guidelines for accessing decentralized content.
+- **Proxy Hosting**: Step-by-step on hosting a proxy server.
+- **Video Streaming**: Options for streaming RTMP video.
+  
+#### System Requirements
+- The implementation details covering which systems this tool can run on (like Linux, Windows, macOS, etc.) and specific hardware requirements (e.g., Raspberry Pi compatibility).
+
+#### FAQ Section
+- Frequently Asked Questions that address common user concerns:
+  - **Communication Security**: Information about encryption for user communications.
+  - **Wallet Management**: Instructions on using various wallets and storage locations for local wallets.
+
+#### Additional Links
+- **Community Contributions**: Users are encouraged to contribute, participate in discussions, and share feedback through forums and GitHub.
+- **Troubleshooting**: Help sections address common problems users might encounter during installation or usage.
+
+If you need detailed information from specific segments or commands, please indicate which part you would like to focus on or provide another link for analysis!### Vault Getting Started Guide | Diode Docs
+
+The "Vault Getting Started Guide" provides essential information on setting up and utilizing a Vault device, which is a pre-configured hardware unit designed to enhance storage and collaboration capacity in Diode Collab Zones. Below are the detailed instructions and technical information highlighted in the guide:
+
+#### Main Steps for Setting Up Your Vault:
+
+1. **Unboxing:**
+   - Inside the box, you should find:
+     - The Vault device
+     - An Ethernet Cable
+     - A Power Supply
+
+2. **Scanning the QR Code:**
+   - There is a QR Code located on a label on the bottom of the Vault.
+   - Scanning this QR Code directs you to a webpage where you can find the **Username** and **Client ID** of your Vault. The Username is necessary for subsequent steps.
+
+3. **Connecting Ethernet and Powering Up:**
+   - Connect the Vault to an Internet-connected router or switch using the supplied Ethernet cable.
+   - Plug in the Vault using the provided power supply.
+   - After connecting power and Ethernet, press the power button on the front of the Vault. Startup may take between **30 to 120 seconds**.
+     - **Note:** The guide warns that unintended power outages may disrupt file storage processes, potentially leading to data loss. For detailed instructions on proper power management, refer to the **Vault Power Up and Power Down** procedures.
+
+4. **Adding the Vault to a Zone:**
+   - The user associated with the Vault’s Username should open Diode Collab and navigate to the desired Zone.
+   - To add the Vault:
+     - Click the **“+”** next to **“Team”** to access the Invite Team Member dialog.
+     - Enter the Vault’s Username and click **“Invite”**.
+   - Allow up to three minutes for the invitation to be accepted; the Vault’s online indicator will turn green when successfully connected, confirming it is online and can store files and relay communication.
+
+#### Additional Resources:
+- For troubleshooting issues or unexpected behaviors, consult the **Vault Troubleshooting** section for potential causes and solutions.
+
+This guide serves as a high-level overview for users beginning their experience with a Vault device, offering essential but straightforward operational directives.**Page Title: Vault Power Up and Power Down Procedures | Diode Docs**
+
+This page provides detailed instructions and procedures for safely powering up and down the Diode Vault devices. Below are the main points and essential technical details covered on the page:
+
+### Power Up Procedure
+1. **Startup Activation**:
+   - The Vault will power up when a power supply is connected and the power button is pressed.
+
+2. **Startup Process Behavior**:
+   - Duration: The startup process takes between 30 to 120 seconds.
+   - **LED Indicators**:
+     - **Power Button LED**: Turns solid blue immediately and remains so throughout the startup.
+     - **Power LED**: Turns solid red immediately and remains red.
+     - **Activity LED**: 
+       - Turns on immediately, blinks briefly, and then blinks intermittently during the startup. 
+       - Turns off once the system is fully initialized; it blinks on intermittently when active.
+     - **Harddrive LED**: 
+       - Turns blue immediately when powered on, blinks rapidly during startup, and lights solid blue once the system has initialized.
+       - It blinks during file read/write activities and returns to solid blue when inactive.
+
+3. **Troubleshooting**: If the system does not fully start after 120 seconds, refer to the Vault Troubleshooting article.
+
+### Power Down Procedure
+1. **Shutdown Activation**:
+   - The Vault will safely shut down when the power button is held down for more than three seconds.
+
+2. **Shutdown Process Behavior**:
+   - **LED Indicators**:
+     - **Power Button LED**: Pulses slowly then quickly ten times before turning off.
+     - **Power LED**: Blinks off and back on before turning off.
+     - **Activity LED**: Blinks intermittently as the system prepares for shutdown and then blinks periodically ten times before turning off.
+     - **Harddrive LED**: Blinks briefly during shutdown preparation and then turns off.
+
+3. **Safe Power Removal**: Once all LEDs are off, it is safe to disconnect the power supply. If the LEDs do not fully turn off after holding the power button for over five seconds, consult the Vault Troubleshooting article.
+
+### Additional Recommendations
+- **Uninterruptible Power Supply (UPS)**: It is recommended to use a UPS to protect against unintended power disruptions. For devices shipped under warranty, the warranty remains valid only if powered by a UPS.
+
+This page serves as a practical guide to ensure users correctly and safely manage power operations on the Vault devices, providing essential information regarding the LED behaviors that indicate the state of the system during power-up and power-down processes.### Page Title: Vault System Interfaces | Diode Docs
+
+The **Vault System Interfaces** documentation provides detailed information on the interface components and functionality of the Vault Model 2312-NT. Below are the important details regarding links, command line commands, system installation, and code.
+
+#### Front Panel Components:
+1. **Power Button**
+   - **Turn On**: Press briefly when Vault is off (button turns blue).
+   - **Safe Shutdown**: Press for >3 seconds when the Vault is on.
+   - **Forced Power Off**: Press for >10 seconds if the system fails to shut down properly (not recommended under normal circumstances).
+
+2. **SD Card**
+   - Contains the generic system software; essential for the operation of the Vault. If removed or not seated properly, the Vault will not function.
+
+3. **Activity LED**
+   - Green LED blinks during activity (startup, shutdown, and operations).
+
+4. **Power LED**
+   - Red LED lights when powered on and goes dark when powered off.
+
+5. **Harddrive LED**
+   - Blue LED blinks during harddrive activity and stays solid when the harddrive is sleeping but online.
+
+#### Back Panel Components:
+1. **Power Input**
+   - USB-C connector for power. Use the provided power supply or a compatible 3A USB-C power supply if lost.
+
+2. **Gigabit Ethernet**
+   - Connect a CAT-5 or better Ethernet cable to a DHCP-enabled router or switch for internet access.
+
+3. **Harddrive Bridge**
+   - Connects the system harddrive to the system controller and must remain in place during normal operation.
+
+4. **Micro HDMI 1**
+   - Primary HDMI output for connecting to a monitor to display the system's desktop.
+
+5. **Micro HDMI 2**
+   - Secondary HDMI interface with no stock use case.
+
+6. **Audio Jack**
+   - Audio interface with no default use case.
+
+7. **USB Connectors**
+   - Multiple USB ports for connecting peripherals like keyboard and mouse; not assigned a stock function by default.
+
+#### Important Technical Information Summary:
+- **Power Supply**: Ensure the use of the provided or equivalent power supply to prevent operational issues.
+- **Networking**: Ensure connection to a router with DHCP to allow the Vault to obtain an IP address automatically.
+- **Usage Notes**: Handle SD cards with care; improper handling can prevent system loading and booting.
+
+No specific command line commands or installation guidelines are mentioned on this page, as it primarily discusses the hardware interfaces of the Vault 2312-NT model. 
+
+If further links need to be analyzed or specific details are required, let me know!### 2312-NT | Diode Docs
+
+The webpage provides detailed information about the 2312-NT Vault model, which is a data storage solution launched in December 2023. Here are the key points and technical details mentioned on the page:
+
+#### Overview
+- **Model Name**: 2312-NT
+- **Release Date**: December 2023
+- **Functionality**: Configurable to auto-accept Zone invitations from authorized users, operating as a "Bot" in Diode Collab Zones.
+
+#### Technical Specifications
+- **Storage**: Features a solid-state drive (SSD).
+- **Processor**: Equipped with a system controller running at 1.8 GHz.
+- **Memory**: Includes 8 GB of RAM.
+- **Network**: Supports Gigabit Ethernet for fast connectivity.
+- **Storage Capacity**: The "N" in "2312-NT" represents the storage capacity in terabytes. For example:
+  - **2312-1T**: 1 terabyte of storage.
+  
+#### Pricing
+- **Manufacturer's Suggested Retail Price (MSRP)**: Ranges from $400 to $600 USD, depending on the SSD specifications.
+
+#### Additional Information
+- **Supported Models**: The page likely discusses other models such as VPX-2402, but specific details on them are not provided in the scrape.
+- **Features and Advanced Capabilities**: The webpage hints at advanced features and capabilities of the Vaults but does not elaborate in the scraped content.
+
+### Conclusion
+The webpage serves as a reference for potential buyers and users of the 2312-NT Vault model, providing insights into its specs, functionalities, and pricing. For detailed command line commands, system installation instructions, and further technical documentation, please consult the complete online documentation.### VPX-2402 | Diode Docs
+
+The webpage provides detailed information about the VPX-2402 model, which is categorized as a "Vault Lite." Its primary purpose is to act as a self-custody private exit node in a blockchain environment. Here are the key technical details and information provided on this page:
+
+#### Main Features:
+- **Purpose**: The VPX-2402 serves as a self-custody private exit node, allowing remote access to the internet from any location where the Vault is connected.
+- **Hardware Specifications**:
+  - **Storage**: 32GB disk
+  - **Processor**: 1GHz
+  - **RAM**: 512MB
+  - **Power Supply**: Requires USB-C power
+  - **Connectivity**: Ethernet connection
+
+#### Pricing:
+- **MSRP**: $100 USD
+
+#### Usage:
+The Vault can be paired with a Diode self-custody access Zone for managing a Web3 identity, facilitating various internet operations.
+
+If there are any specific commands, installation procedures, or additional links provided, please let me know, and I will extract that information accordingly.### Title: Vault Model Numbers | Diode Docs
+
+The webpage provides detailed information about various models of the Vault produced by Diode, specifically focusing on how to understand the model numbers, features, and specifications of each model.
+
+#### Important Technical Information
+
+1. **Model Descriptions:**
+    - **2312-NT:**
+        - **Introduction:** This is the first Vault model produced starting in December 2023.
+        - **Specifications:**
+            - **Storage:** Contains a solid state drive.
+            - **Processor:** Features a system controller running at 1.8GHz.
+            - **Memory:** Equipped with 8GB of RAM.
+            - **Network:** Supports Gigabit Ethernet.
+        - **Model Number Breakdown:** The “N” in the model number (e.g., "2312-NT") represents the number of terabytes of storage. For instance, a model labeled “2312-1T” has 1 terabyte of storage.
+
+2. **General Features:**
+   - Each model adheres to specific performance and storage metrics which are indicated by their model numbers. 
+   - Understanding the model number can assist users in determining the capabilities of the Vault system.
+
+The page primarily focuses on providing a breakdown of the models to enable users to easily understand the specifications and features based on the model numbers. 
+
+If there are specific areas you'd like to explore further (e.g., command line commands, system installation), please specify, and I can assist with additional details or analysis.### Vault Advanced Capabilities | Diode Docs
+
+The webpage discusses the advanced capabilities of Diode Vaults beyond their primary functions of storage and chat relaying. Here are the main technical details and functionalities:
+
+#### Advanced Capabilities:
+
+1. **Residential Exit Node**:
+   - **Functionality**: Configuring your Vault as an "Exit Node" allows you to connect to it from anywhere in the world to surf the internet through the Vault's location.
+   - **Benefits**: Provides secure and private internet access from your residential area.
+
+2. **Website Hosting**:
+   - **Functionality**: The Vault can be configured to run a website, making it accessible either privately or publicly.
+   - **Configuration**: The webpage does not specify detailed steps for configuration but implies that it can be done with proper setup. Users may need additional technical guidance from Diode's support.
+
+3. **Team Tools**:
+   - **Functionality**: Users can run various collaborative tools on the Vault, such as:
+     - Kanban boards
+     - CRM systems
+   - **Access**: These tools can be published privately for team access, providing a secure environment for team collaboration.
+
+4. **Workloads**:
+   - **Functionality**: The Vault can handle remote workloads. This includes running self-custody AI models.
+   - **Purpose**: This feature is aimed at users who need to execute tasks or processes remotely without maintaining physical infrastructure.
+
+#### Contact Information:
+- For users interested in setting up or utilizing these advanced capabilities, it's recommended to reach out to Diode support at the provided email: **support@diode.io**.
+
+The page primarily serves as an overview of these advanced functionalities, encouraging users to explore the potential of the Diode Vaults for various applications. For in-depth technical documentation such as specific command-line commands, installation processes, or links to resources, users would likely need to consult further documentation or contact support directly.### Vault Label | Diode Docs
+
+**Main Information:**
+The page provides details about the labeling system for Diode Vaults, specifically highlighting the information contained on the label that is affixed to each Vault. This label includes critical identifiers and a QR code for easy access to further details online.
+
+**Technical Information:**
+
+1. **Label Components:**
+   - **Model Number (M:)**: This denotes the model of the Vault. Example provided: “2312-1T”.
+   - **Serial Number (S:)**: A unique identifier for each Vault. Example provided: “23121212”.
+   - **QR Code**: Scanning this code directs the user to a webpage specific to the Vault, where they can retrieve username and client ID associated with that Vault.
+
+2. **Username Creation:**
+   - If the QR code cannot be scanned, the Username can be derived by combining the text “vault-” with the serial number. 
+   - For instance, using the serial number from the example (23121212), the Username would be: `vault-231212`.
+
+3. **Client ID Retrieval:**
+   - For some advanced capabilities, users need to obtain the Client ID. This can be done by contacting support via email at `support@diode.io` and providing the model number and serial number of the Vault.
+
+This section of the documentation is crucial for users who need to identify their Vault or seek support based on the model and serial numbers provided on their device.### Vault Troubleshooting | Diode Docs
+
+The page provides troubleshooting guidance for issues related to the Vault, a device developed by Diode. Below is a detailed breakdown of the important technical information available on the page.
+
+#### Common Problems and Solutions
+
+1. **Vault Not Joining Zone**
+   - For a Vault to join a Zone, the invitation must come from the user whose Username is linked to the Vault.
+   - For models 2312-NT and earlier:
+     - The Vault needs to be pre-configured to be paired with the user's Diode Collab Username.
+     - If assistance is needed, users are advised to contact Diode Support for information about the paired Username.
+
+2. **Vault Not Online**
+   - If the Vault status is not "green" (indicating it is offline), verify the following:
+     - The Vault has powered up successfully.
+     - The Ethernet router/switch must be connected and should have internet access.
+     - The Local Area Network (LAN) must assign a DHCP IP address to the Vault.
+     - Check the Zone settings to ensure the Vault's Username is listed under Team Members.
+
+3. **Vault Not Starting Up**
+   - If the Vault fails to start up fully, check these factors:
+     - Ensure that the SD Card is correctly seated in its slot.
+     - If the harddrive is corrupted (often due to unsafe power down), disconnect the Harddrive Bridge and try restarting. It will take about two minutes to start without the Harddrive Bridge, but this will restrict access to any Zones.
+
+4. **Vault Not Safely Powering Down**
+   - If safe power down isn’t functioning, check:
+     - Confirm that the system has fully started; wait at least 120 seconds after powering up.
+     - If the Power LED blinks indefinitely, it indicates a potential hardware problem or corrupted Harddrive. In such cases, users should reach out to Diode Support for further assistance.
+
+### Summary of Technical Information
+- **Support Contacts**: Diode Support for issues related to Vault Username pairing and corrupted harddrives.
+- **Setup Requirements**: Correct pairing with Username, suitable internet connectivity, and proper seating of components.
+- **Operational Procedures**: Guidelines on powering up, connecting to networks, and troubleshooting unresponsive units.
+
+This page serves as a troubleshooting resource aimed at helping users resolve common issues with their Vault devices effectively.### Can I remove the SD card or harddrive bridge from my Vault? | Diode Docs
+
+This FAQ is specifically for the Vault model 2312-NT. It addresses the implications of removing either the SD card or the hard drive bridge from the Vault system.
+
+#### Key Information:
+
+1. **Functionality Impact**:
+   - **SD Card**: 
+     - Contains the standard operating system required for the Vault to operate.
+     - If the SD card is removed, the Vault will not function properly until it is replaced.
+   - **Hard Drive Bridge**:
+     - Connects the main system storage to the system controller.
+     - If removed, main system storage will be inaccessible to the system controller, leading to essential functions such as Zone storage and chat relaying not working correctly.
+
+2. **Conclusion**: Both the SD card and hard drive bridge are critical components to the operational integrity of the Vault. Their removal will hinder the device's ability to function as intended.
+
+This page emphasizes the necessity of both components for maintaining the proper performance and capability of the Vault model 2312-NT.### Docs on other products | Diode Docs
+
+The webpage provides an overview of the primary components of the Diode ecosystem, highlighting their features and functionalities. Here are the main sections and technical details regarding the components:
+
+1. **Diode Network**:
+   - It is described as an open, permissionless secure communication network that utilizes blockchain technology to ensure security and scalability.
+
+2. **Diode Collab**:
+   - This is a cross-platform messaging application designed to be a secure alternative to popular communication platforms like Discord and Slack.
+
+3. **Diode CLI**:
+   - A command-line interface tool that allows for quick development and interaction with the Diode Network. It facilitates the creation of functionalities that can connect with users of Diode Collab.
+
+4. **Diode Vault**:
+   - A hardware device that operates both Diode Collab and the CLI. It can serve multiple purposes including:
+     - Acting as a backup device for Diode Collab zones.
+     - Hosting decentralized websites.
+
+The page implies that each component has its own documentation area, allowing users to dive deeper into specific functionalities.
+
+### Technical Information
+
+- **Links**: 
+  - The page does not provide specific URLs to additional technical documentation for each component, but it suggests that further information is available in separate areas for each product (Diode Network, Diode Collab, Diode CLI, and Diode Vault).
+
+- **Command Line Commands**: 
+  - While the specific commands are not listed on this page, the mention of the Diode CLI indicates that users will be able to execute commands through this interface for building applications or interacting with the network.
+
+- **System Installation**: 
+  - The page does not provide explicit installation instructions for the CLI or Vault, suggesting that users will need to refer to the respective documentation for detailed setup procedures.
+
+- **Code**: 
+  - There are no code snippets provided on this page. Users might need to explore the CLI documentation for any coding or scripting related to building on the Diode platform.
+
+For further detailed technical information, users would likely need to navigate to the respective components' documentation areas as suggested on this page.

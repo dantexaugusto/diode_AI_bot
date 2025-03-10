@@ -1,0 +1,8 @@
+asyncio
+logging
+websockets
+jsonrpcclient
+openai
+python-dotenv
+beautifulsoup4
+requests

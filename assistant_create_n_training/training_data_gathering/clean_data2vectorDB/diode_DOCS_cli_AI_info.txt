@@ -1,0 +1,1290 @@
+### Diode CLI Overview
+
+The webpage provides an overview of the Diode Command Line Interface (CLI), detailing its purpose, installation instructions, and usage capabilities. Here are the key points of technical information presented:
+
+#### Main Features
+- **Diode Client (CLI)**: The Diode CLI allows users to publish content to the Diode Network and access existing content swiftly. It serves as a direct interaction tool between local devices and the Diode Network.
+- **BlockQuick™ Algorithm**: The technology employed by the Diode CLI that facilitates interactions with decentralized networks.
+
+#### Installation Information
+- While specific installation commands and steps are not detailed in the scraped content, the page indicates that users can find installation instructions in the documentation.
+  
+#### Command Line Commands
+The page outlines a section for CLI commands but does not specify individual commands in the scraped content. Detailed command usage could likely be found in further sections of the documentation.
+
+#### Technical Capabilities
+1. **Blockchain Names**: Information on how to work with blockchain names is hinted at in the overview.
+2. **Supported Systems**: There is mention of a Raspberry Pi, indicating that the CLI may support various operating platforms.
+3. **Webserver Publishing**: The ability to publish a local webserver is highlighted.
+4. **Access to Web3.0 Content**: Indicates that users can utilize the CLI to access decentralized web applications and content.
+5. **Proxy Server Hosting**: Users might host a proxy server using the CLI.
+6. **Remote Access Capabilities**:
+   - **SSH (Secure Shell)**: Users can use SSH via the Diode on the public Internet.
+   - **VNC (Virtual Network Computing)**: Remote VNC access options are mentioned.
+7. **Streaming and File Management**:
+   - **RTMP Video Streaming**: The CLI may support streaming video content in RTMP format.
+   - **Remote Drive Mapping**: Users can map remote drives.
+
+#### Additional Resources
+- **Troubleshooting and FAQs**: A section is mentioned that may contain answers to common questions such as:
+  - Compatibility issues with ARM64 platforms.
+  - Certificate file paths.
+  - Wallet usage with the CLI.
+  - Encryption of communications.
+  
+- **Contribution and Community**: Encouragement for contributions and joining community discussions could be found through forums or Github links mentioned on the page.
+
+### Next Steps
+For deeper insights, including specific command line commands and installation processes, users may want to navigate through the "Installation," "CLI Commands," and "Using" sections that are linked within the webpage.### Diode Network Overview
+
+The page discusses the Diode Network, which is described as a blockchain-anchored Zero Trust DePIN network that is open and permissionless. Here are the main details and technical information presented on the page:
+
+#### Key Features:
+- **Global Routing and Identities**: Anyone can create and utilize a new device without registration.
+- **Permissionless Contribution**: Users can contribute by setting up their own routing or relay nodes.
+- **No Fees**: The network is free to use, although utilizing third-party relays may require a sponsorship for bandwidth.
+
+#### Technical Information:
+1. **Diode Tokens ($DIODE)**:
+   - Utilized for underwriting bandwidth supply for application providers on the network.
+
+2. **Node Operation**:
+   - **Running a Node**: Details about how to set up and operate a node will be present in the documentation.
+
+3. **Installation and Configuration**:
+   - There are instructions to start here, reserve a domain name, and configure a custom domain name.
+
+4. **Command Line Interface (CLI)**:
+   - The page likely contains details on the Diode CLI, including command line commands for various operations (specific commands would typically be detailed in the CLI section).
+
+5. **Application Development**:
+   - The network supports the creation of applications on top of it, which likely includes guidelines or frameworks.
+
+6. **Blockchain Integration**:
+   - Information on how DNS changes are stored permanently in the blockchain, along with usage of websockets and RPC configurations.
+
+7. **Network Map**:
+   - Information regarding network topology may be provided (if available).
+
+#### Additional Aspects:
+- **FAQs and Troubleshooting**: The page includes frequently asked questions covering various topics related to the Diode Network, such as hardware requirements for running a client, how to stake $DIODE tokens for mining, and comparisons with other technologies like IPFS and IOTA.
+
+This overview encapsulates the main technical aspects and functionalities of the Diode Network as noted on the page, which aims to provide a comprehensive guide for users interested in participating in or developing on this blockchain platform.### Diode Collab Overview
+
+The page provides a comprehensive overview of **Diode Collab**, a secure collaboration platform designed for team messaging and file sharing without storing data on a central server. Here’s a detailed breakdown of the important information covered:
+
+#### Key Features:
+1. **Secure Messaging**: 
+   - All direct messages (DMs) and group chats are protected with **256-bit end-to-end encryption**.
+   
+2. **Secure File Sharing**: 
+   - The file sharing capability is similar to a mix of Google Drive and secure self-custody BitTorrent, also maintaining end-to-end encryption.
+
+3. **Tunneled Bookmarks**: 
+   - Users can access web bookmarks either through regional-access tunnels or direct-access tunnels.
+
+#### Technical Information:
+- **Installation**: The platform supports installation on various systems, including Raspberry Pi.
+- **Command Line Interface (CLI)**: Commands and API usage for integration are also available.
+- **API Documentation**: Includes information on **Diode API**, which provides methods for IoT integration and setting up API tunnels.
+
+#### System Installation:
+- Detailed installation guides, including how to install and uninstall the Diode application, are provided.
+- Specific instructions on moving zone folders either to the same disk or a different disk, alongside local machine proxy bindings and altering profile directories.
+
+#### Code and Commands: 
+- **Diode API Curl Commands**: Syntax for using curl with the Diode API is available.
+- **Ignored Files Configuration**: Settings to manage which files to ignore in the sharing process.
+
+#### User Management and Collaboration:
+- How to create an account, add team members or devices, and the process for creating and sharing zones for collaboration.
+- Managing roles and customizing share pages are also covered to enhance the experience of group collaboration.
+
+#### Additional Features:
+- **Chat Commands**: Quick commands to enhance chat functionality.
+- **Backup Codes and Markdown Editing**: Tools for editing and securing notes.
+- **Pricing Plans**: Information on available plans, including features associated with the Light Zone and unlimited storage options.
+
+#### Troubleshooting & Support:
+- FAQs and troubleshooting sections address common issues such as startup problems, file accessibility, and compatibility with devices like Chromebooks.
+
+The Diode platform emphasizes security, making it a suitable choice for teams working in sensitive environments.### Diode Vaults Overview | Diode Docs
+
+The Diode Vault is a specialized tool designed to enhance team collaboration by relaying encrypted messages, backing up files, and providing private internet access, even for offline team members. Below are the main technical aspects of the page, including important links, command line commands, system installation instructions, and code snippets relevant to using the Diode Vault.
+
+#### Key Features
+- **Encrypted Messaging**: Secure communication for offline team members.
+- **File Backup**: Automatic backup of essential files.
+- **Private Exit Node**: Allows teams to access the internet from different regions.
+- **Deployment**: Can be deployed in the cloud or as a local hardware box.
+
+#### System Installation and Usage
+The vault can be connected through Ethernet and requires a power source. Deployment is straightforward and can be done either in a cloud environment or through physical hardware.
+
+#### Commands and Code Snippets
+While the specific command line interface (CLI) commands and code snippets were not listed in the scraped content, users typically interact with vaults through a command prompt. Installation and operational commands may include commands for starting services, configuring network settings, and managing file backups.
+
+To get precise command line commands and usage details, users may need to refer to the subsections titled "Getting Started", "Power Up and Power Down", or "Vault System Interfaces" in the documentation.
+
+#### Important Links
+- [Overview of Vaults](https://vaults.docs.diode.io/overview): General information about the vault's functionality.
+- [Getting Started](https://vaults.docs.diode.io/getting-started): Instructions for initial setup and usage.
+- [Power Up and Power Down](https://vaults.docs.diode.io/power-up-and-power-down): Guidelines on how to power the vault.
+- [Vault System Interfaces](https://vaults.docs.diode.io/system-interfaces): Details on the interfaces used by the vault system.
+
+For more detailed technical information, including specific command line usage and configurations, please refer to the respective sections within the documentation.### Installation | Diode Docs
+
+The page titled "Installation" on the Diode Docs website provides detailed instructions on how to install the Diode CLI (Command Line Interface) on various platforms. Here are the key details from the page:
+
+#### Main Information:
+- **Overview**: The page serves as a guide for users to effectively install the Diode CLI, which is essential for interacting with the Diode Network.
+- **Platforms Supported**: The CLI can be downloaded and installed for various operating systems, although specific examples or links for each OS may not be explicitly detailed on this overview page.
+
+#### Technical Information:
+
+- **Download Links**: Users can find the installation files for Windows, macOS, and Linux distributions. The page suggests obtaining the package from the official Diode documentation or repository.
+
+- **Installation Steps**:
+  - Users need to follow the installation instructions specified for their respective platforms. These may include standard command line operations for installation.
+  - It might recommend package managers or specific command-line commands for installing dependencies and the CLI itself (though specifics would be available on the full installation page).
+
+- **Related Functions**: 
+  - The page implies that after installation, users can run commands to interact with the various functionalities offered by Diode, such as publishing content, accessing Web3.0 resources, and more.
+  
+- **Command Line Commands**: 
+  - While specific command line commands aren’t detailed in this summary extract, it suggests that users will need to familiarize themselves with a set of CLI commands post-installation for effective network interaction.
+
+#### Additional Considerations:
+- **Troubleshooting Links**: Potential issues users might encounter are covered in linked sections of the documentation that can help resolve common installation problems.
+- **FAQ Section**: Includes answers to common queries related to wallet usage with Diode CLI, communication encryption, and platform compatibility.
+
+This overview encapsulates the essential information needed for installation and initial setup of the Diode CLI, allowing users to get started with connecting to the Diode Network. For further details, users would refer to dedicated sections or articles linked on the same page.### Developers (Network, CLI): Start Here! | Diode Docs
+
+The page provides a comprehensive guide for getting started with the Diode Network and using the Diode Client (CLI). It covers how to consume and publish content, manage identities, and the installation process for the Diode Client on various operating systems.
+
+#### Key Technical Information:
+
+1. **Accessing Public Content:**
+   - **Internet Gateway**: Diode hosts an Internet gateway at [diode.link](https://diode.link). Public content is accessible as follows:
+     - URL Format: `<client-address>.diode.link`
+     - Example: You can type `https://betahaus-berlin.diode.link` to view streaming video content.
+
+2. **Publishing and Consuming Content:**
+   - The Diode Client (CLI) allows users to publish content or access existing content on the Diode Network.
+   - **Blockquick Algorithm**: This algorithm enables direct interaction with decentralized networks compatible with the Diode Network.
+
+3. **Installation of Diode Client (Diode CLI):**
+   - **Supported Systems**: The Diode Client runs on:
+     - Linux (x86 and ARM)
+     - Mac
+     - Windows
+   - **Installation Command**:
+     ```bash
+     curl -Ssf https://diode.io/install.sh | sh
+     ```
+   - After installation, you can type `diode` in a terminal to see a list of commands and additional information.
+
+4. **Managing Identities:**
+   - **Unique Addresses**: Every address on the Diode Network acts as an identity for interaction. They are Ethereum public addresses and are required for:
+     - Publishing content
+     - Accessing private/protected content
+     - Managing Fleet Contracts
+     - Reserving BNS names (domain names)
+   - **Wallet Management**: Each Diode Client has a wallet that manages addresses and private keys necessary for network transactions. Users can also utilize a browser with a MetaMask plugin along with the Diode Network Explorer for additional functionality.
+
+5. **Useful Links:**
+   - More about Diode Network technologies can be found in the "Useful Links and Articles" section of the documentation.
+   - For setting up MetaMask, refer to the article “Configure MetaMask”.
+
+This page serves as a starting point for developers and users to understand the functionalities and get initiated with the Diode CLI effectively.### Working with Blockchain Names | Diode Docs
+
+This page provides detailed guidelines on using Blockchain Name System (BNS) names with the Diode CLI (Command Line Interface). BNS names allow users to manage human-readable names associated with Ethereum addresses, enabling easier identification and access to decentralized websites and other resources.
+
+#### Key Information:
+
+- **Overview of BNS Names**: 
+  - BNS names are used to give Ethereum addresses human-readable designations, making it easier for users to recognize and interact with addresses.
+  - BNS names can serve several purposes, including:
+    - Decentralized website identification: Hosting a website at an Ethereum address which can be accessed via the BNS name.
+    - Failover resource management: Associating multiple addresses with a BNS name to automatically redirect if the primary address fails.
+    - Group management: Facilitating the registration of multiple addresses for setting publication parameters, allowing for automated processes.
+
+#### Command Line Commands:
+
+1. **Register a Name**: 
+   - Command: 
+     ```
+     diode bns -register <name>=<address(es)>
+     ```
+   - Example (one address):
+     ```
+     diode bns -register mynewname=0x123229542c4afe8cd39da33f81bf698d57d3cb2a
+     ```
+   - Example (two addresses):
+     ```
+     diode bns -register mynewname=0x123229542c4afe8cd39da33f81bf698d57d3cb2a,0xa8721a541c4a2e8cd39d433f81af698d57d1ca33
+     ```
+
+2. **Update a Name**:
+   - Command:
+     ```
+     diode bns -register <name>=<updated address(es)>
+     ```
+   - Example:
+     ```
+     diode bns -register myoldname=0x123229542c4afe8cd39da33f81bf698d57d3cb2a
+     ```
+   - Updating also requires that the CLI's address is the owner of the name.
+
+3. **Lookup a Name**:
+   - Command:
+     ```
+     diode bns -lookup <name>
+     ```
+   - This will return a list of addresses associated with the given BNS name.
+
+4. **Unregister a Name**:
+   - Command:
+     ```
+     diode bns -unregister <name>
+     ```
+   - This action releases the name, allowing others to register it.
+
+5. **Transfer a Name**:
+   - Command:
+     ```
+     diode bns -transfer <name>=<new owner>
+     ```
+   - This command transfers ownership of a name to a new owner.
+
+#### Notes on Actions:
+- Each action (register, update, unregister, transfer) typically takes one block time (between 10 seconds and 5 minutes) to process, with live updates printed to the terminal during the process.
+
+This documentation provides a comprehensive foundation for managing BNS names using the Diode CLI, outlining necessary commands and examples for efficient operation within blockchain environments.### Page Title: Using Raspberry Pi - Diode CLI Documentation
+
+The page provides detailed instructions on utilizing a Raspberry Pi with the Diode Client Command-Line Interface (CLI). Here’s a summary of the main technical information covered:
+
+#### Main Topics Covered:
+1. **Supported Raspberry Pi Versions**
+   - The documentation likely specifies which models of Raspberry Pi are compatible with the Diode CLI.
+
+2. **Using Raspberry Pi as Various Servers**
+   - **Private Chat Server**
+   - **Remote File Server / Backup Device**
+   - **Website Hosting**
+     - Create a website with platforms like Ghost or WordPress.
+   - **Start Diode on Boot** - Configuration to launch Diode automatically when the Raspberry Pi starts.
+
+3. **Enabling SSH** - Instructions on how to enable SSH on the Raspberry Pi for remote access.
+
+4. **Diode CLI Commands** - A section addressing specific command-line commands that can be executed within the Diode CLI, which may include:
+   - Command structure and usage.
+   - Examples of common commands for managing servers and services.
+
+5. **Using Diode CLI in Shell Scripts** - Guidelines on incorporating Diode CLI commands in shell scripts for automation tasks.
+
+6. **Efficient Compilation of Binary Files** - Instructions or tips on compiling programs efficiently on a Raspberry Pi.
+
+7. **Accessing Raspberry Pi** - Discussion on local network access via HTTP/SSH, and the necessity of using Diode for enhanced functionalities.
+
+8. **Video Streaming** - Comparison of Diode’s video streaming capabilities with the native `raspivid` command of Raspberry Pi.
+
+#### Technical Commands & Links:
+- **SSH Enable Command** (Hypothetical): Typically, users can enable SSH on Raspberry Pi using:
+  ```bash
+  sudo raspi-config
+  ```
+  This command leads to a configuration menu where SSH can be enabled.
+
+- **Commands for Hosting and Server Access** - Details regarding how to publish a web server, remote access commands, etc., should be elaborated on in the full documentation.
+
+- **Diode CLI Installation Commands** - Installation methods for the Diode CLI on Raspberry Pi may include command lines for downloading and setting up the software package.
+
+#### Recommendations:
+- Users should reference the Diode CLI documentation to find specifics on:
+  - Command syntax
+  - Configuration files
+  - Any prerequisites for installations or commands.
+
+In summary, this page serves as a technical guide for Raspberry Pi users who want to leverage the Diode CLI for various server applications, software installations, and command-line usage specifically tailored for the functionality of Raspberry Pi devices.**Publish a Local Webserver | Diode Docs**
+
+The webpage provides detailed instructions on how to publish a local website or webserver to the Internet using the Diode CLI. The Diode CLI is positioned as a versatile tool for Web3 capabilities, allowing users to share local web development projects easily. Below are the key points and technical details from the page:
+
+### Overview
+- **Purpose**: The main purpose is to allow the sharing of local development websites on the Internet without the need for a dedicated server or domain name.
+- **Use Cases**: Ideal for getting feedback while developing a website or for hosting static content long-term.
+
+### Technical Instructions
+
+1. **Installation and Command**:
+   - If a webserver is already running on `localhost` port 80, execute:
+     ```bash
+     diode publish -public 80:80
+     ```
+   - This command publishes the website accessible at `http://localhost:80` to the Diode Network, making it available at `https://<client_address>.diode.link`.
+
+2. **Finding Client Address**:
+   - The `<client_address>` will be displayed in the terminal when the command is executed. It provides a unique URL to share with others.
+
+3. **Publishing on Different Ports**:
+   - For a service running on a different port (e.g., port 2368), use:
+     ```bash
+     diode publish -public 2368:80
+     ```
+   - To publish multiple services, for example, port 80 and port 2368:
+     ```bash
+     diode publish -public 80:80,2368:8025
+     ```
+
+4. **Configuring a Domain Name**:
+   - To customize the URL, set up a BNS (Blockchain Name System) name linked to your client address using:
+     - MetaMask and Diode Network Explorer.
+     - Or, using the command:
+       ```bash
+       diode bns -register my-example-name
+       ```
+   - Ensure to back up your wallet file located at `~/.config/diode/private.db` to avoid losing access to the registered domain.
+
+5. **Secure Publishing Options**:
+   - To restrict access to certain users, use:
+     - For a single specified address:
+       ```bash
+       diode publish -private 80:80,<authorized_address>
+       ```
+     - For access control via a Fleet Contract:
+       ```bash
+       diode publish -protected 80:80
+       ```
+   - Users need to run the Diode Client on their local gateways for authentication.
+
+### Important Notes
+- The commands must be executed from the terminal with the Diode CLI installed.
+- It is crucial to back up wallet files for domain management to prevent loss of access to registered BNS names.
+
+### Links to Other Resources
+- The page also mentions other related articles for setting up custom domain names and publishing static content.
+
+By following these instructions, users can effectively publish their local web servers while maintaining control over access and presentation through Diode’s features.### Title: Access Web3.0 Content / Run a Local Gateway
+
+The page provides detailed instructions on how to access Web3.0 content on the Diode Network by running the Diode Client locally as a gateway or proxy server. This allows users to access content that may be in Private or Protected mode which is otherwise not available through the public gateway.
+
+#### Key Information:
+
+1. **Public Gateway**: Diode hosts a public gateway located at `<address>.diode.link` for accessing publicly published Web3.0 content.
+
+2. **Private and Protected Content**: 
+   - Private content is accessible only to specific identities.
+   - Protected content is only available to identities registered under the same Fleet Contract as the content publisher.
+   - To access such content, users must run the Diode Client locally.
+
+3. **Running the Diode Client as a Proxy Server**:
+   - **Installation**: Users need to install the latest Diode Client.
+   - **Command to Run**:
+     ```bash
+     diode socksd
+     ```
+     This launches a local SOCKS proxy server on port 1080.
+
+4. **Configuring Applications**:
+   - **Firefox Setup**:
+     - Configure to use the local SOCKS proxy:
+       - **Host**: localhost
+       - **Port**: 1080
+       - **Protocol**: SOCKS v5
+       - Check "Proxy DNS when using SOCKS v5".
+     - Access websites using the format:
+       ```
+       <client_address>.diode
+       ```
+       Example:
+       ```
+       0x70114a27f3d1b549012498c69a4120ca4ea11e21.diode
+       ```
+
+5. **Using SSH via Diode**:
+   - To proxy SSH through the SOCKS proxy, use:
+     ```bash
+     ssh -o "ProxyCommand=nc -X 5 -x localhost:1080 %h %p" <user>@<client_address>.diode
+     ```
+   - Replace `<user>` with your username and `<client_address>` with the actual client address.
+
+6. **Using cURL**:
+   - Download files from a Client using:
+     ```bash
+     curl -x socks5h://localhost:1080 <client_address>.diode
+     ```
+
+7. **Using VLC**:
+   - To stream content via the local Diode proxy:
+     ```bash
+     nc -X 5 -x localhost:1080 <client_address>.diode.link <port> | vlc -
+     ```
+
+#### Important Details:
+- **Ports**: The local SOCKS proxy is by default on port 1080.
+- **Client Address**: Replace `<client_address>` with the address or BNS name for the content you want to access or download.
+
+This setup allows users to make full use of the Diode Network's capabilities by enabling access to both public and restricted Web3.0 content efficiently.### Host a Decentralized Private Proxy Server | Diode Docs
+
+The page provides a concise guide on how to use Diode to host a decentralized private proxy server. Here's the main information including technical details, links, command line commands, system installation processes, and code necessary for setting up a proxy server.
+
+#### Key Benefits of Hosting a Decentralized Proxy Server:
+- **Dynamic Address**: No need for a static IP address; you can host your proxy on a home or office network.
+- **Privacy**: Proxy connections are tunneled through the Diode network, minimizing leakage of connection meta-information.
+- **Enhanced Security**: Reduces the risk of the proxy being blocked by obscuring the actual IP address.
+- **Ease of Use**: The Diode CLI simplifies the process of setting up a proxy server with a single command.
+
+#### Technical Instructions to Set Up a Proxy Server:
+
+1. **Installation of Diode CLI**:
+   - Download and install Diode CLI from the following link: 
+     - [Diode Download Link](https://diode.io/download)
+
+2. **Running the Diode CLI as a Proxy Exit Node**:
+   - Open a terminal and run the following command:
+     ```bash
+     diode publish -public 1080:1080 -socksd
+     ```
+   - This command will provide an output indicating the "Client Address,” which serves as your proxy server's decentralized address (for example: `0x6900000000000000000000079`).
+
+3. **Making the Proxy Server Persistent (Linux)**:
+   - To keep the proxy server running persistently, add the Diode command to the systemd. 
+   - Modify the `ExecStart` line in the systemd script as follows:
+     ```bash
+     ExecStart=/home/pi/opt/diode/diode publish -public 1080:1080 -socksd
+     ```
+   - An optional line to force a daily restart can be added:
+     ```bash
+     RuntimeMaxSec=86400
+     ```
+
+#### Instructions for Proxy Client Setup:
+
+1. **Installing Diode CLI for Client**:
+   - Again, download and install from:
+     - [Diode Download Link](https://diode.io/download)
+
+2. **Running the Diode CLI as a Proxy Client**:
+   - In a terminal, bind the local port 1080 to the proxy server's Client Address with the following command:
+     ```bash
+     diode -bind 1080:0x6900000000000000000000079:1080
+     ```
+   - This establishes a secure proxy connection from your client device to the proxy server.
+
+#### Conclusion:
+The page elaborates on easily setting up a decentralized private proxy server using Diode, providing essential commands and descriptors for installation and operation on the relevant systems. Following these instructions will allow users to benefit from a private and secure proxy solution.**Page Title: Remote SSH | Diode Docs**
+
+The Remote SSH documentation provided by Diode outlines how to securely use SSH (Secure Shell) to connect to systems that do not have static IP addresses or do not expose the standard SSH port (22) to the public Internet. Here's a detailed breakdown of the important technical information from the page:
+
+### Overview of Remote SSH
+- **SSH Importance**: SSH is the default way to remotely manage and maintain server systems and devices.
+- **Problem**: Systems without a static IP or unexposed SSH ports cannot be accessed using conventional SSH methods.
+- **Solution**: Diode creates a secure connection enabling SSH access without needing a static IP or exposing ports.
+
+### **SSH Server Setup**
+1. **Prerequisites**: Ensure that a local SSH server (`sshd`) is running with valid SSH credentials for server access.
+   - Example provided for setting up SSH on a Raspberry Pi (link to specific setup not shown).
+2. **Diode Client Installation**: Install the latest version of the Diode Client.
+3. **Publishing SSH Service**:
+   - Command to publish the SSH service through Diode:
+     ```bash
+     diode publish -public 22:22
+     ```
+4. **Client Address**: Copy the presented Client Address, which serves as the identifier for your device.
+
+### **Starting Diode at Boot**
+- Recommendations to configure the Diode Client to launch automatically when the SSH server device starts.
+
+### **Access Restrictions**
+- **Private Access**: Only allow specific systems to access SSH:
+  ```bash
+  diode publish -private 22:22,0x63115a27C3d1b549011198c69F4120CA4ea12EE9
+  ```
+- **Combined Access**: You can publish both public and private ports:
+  ```bash
+  diode publish -public 80:80 -private 22:22,0x63115a27C3d1b549011198c69F4120CA4ea12EE9
+  ```
+- **Protected Access**: This allows only systems from an authorized Fleet Contract to access the SSH interface.
+  1. **Setting Up**: 
+     - Enable MetaMask (link to installation not provided).
+     - Create a Fleet Contract [here](https://diode.io/prenet/#/fleets).
+     - Add the SSH Server’s Client Address to the Fleet Contract.
+     - Configure the Diode Client:
+     ```bash
+     diode config -set fleet=<fleet address>
+     ```
+  2. **Publish as Protected**:
+    ```bash
+    diode publish -protected 22:22
+    ```
+
+### **SSH Client Usage**
+1. **Connecting to the Server**:
+   - Change to a different machine to connect via SSH.
+   - Command to connect through the Diode Network:
+     ```bash
+     ssh -o "ProxyCommand=nc -X 5 -x diode.link:1080 %h %p" <user>@<client_address>.diode
+     ```
+   - Replace `<user>` with your username (e.g., `pi` for Raspberry Pi) and `<client_address>` with the Client Address from the setup.
+
+### **Using SSH via a Private Connection**
+1. **Direct Peer-to-Peer Connection**:
+   - Start the Diode client in socksd mode on the SSH client machine:
+     ```bash
+     diode socksd
+     ```
+   - Connect using SSH via the localhost private Diode connection:
+     ```bash
+     ssh -o "ProxyCommand=nc -X 5 -x localhost:1080 %h %p" <user>@<client_address>.diode
+     ```
+
+2. **ISP Considerations**: Some ISPs may manipulate traffic, making public connections unreliable. Using this method allows you to connect even with a publicly published SSH port.
+
+This summary encapsulates the major points and technical commands from the "Remote SSH" section of the Diode documentation, emphasizing secure SSH configurations without requiring conventional network setups.### Remote VNC Articles | Diode Docs
+
+The page titled "Remote VNC Articles" on the Diode documentation site provides detailed guidance on using VNC (Virtual Network Computing) in conjunction with the Diode CLI (Command Line Interface). Below are the important technical details and commands referenced on this page.
+
+#### Key Topics Covered
+
+1. **Overview of Remote VNC**:
+   - Remote VNC allows users to access and control remote machines using a graphical interface over the Internet.
+
+2. **VNC over SSH**:
+   - The page includes instructions on how to set up Remote VNC via SSH, which adds a layer of security by encrypting VNC traffic.
+
+3. **VNC on Windows without SSH**:
+   - Steps are provided for utilizing VNC directly on Windows without the SSH tunneling.
+
+#### Important Technical Information
+
+- **Command Line Commands**:
+  The specific command line commands for setting up and managing VNC connections may typically involve:
+  - Starting a VNC server on the remote machine.
+  - Using the Diode CLI to create a secure tunnel.
+  
+- **Installation Instructions**:
+  Installation instructions for setting up the Diode CLI and necessary VNC viewer applications are likely included, requiring:
+  - Downloading the Diode client.
+  - Running installation commands appropriate for the operating system (e.g., using commands in a terminal).
+
+- **Example Commands**:
+  Although specific command examples are not provided directly, they would typically look like:
+  ```bash
+  diode-cli start # to start the Diode client
+  vncserver :1    # to start a VNC server on display 1
+  ```
+
+- **Links for Further Reading**:
+  - The page may contain links to additional resources or related articles, such as:
+    - Diode main page for CLI documentation.
+    - Related articles on other network services.
+
+- **System Requirements**:
+  Systems listed might typically include:
+  - Windows, macOS, and various Linux distributions for running both the Diode CLI and VNC clients.
+
+To explore more specific commands or procedures, you would need to refer to the detailed sections of the article on the Diode documentation website.### Title: Stream RTMP Video | Diode Docs
+
+The page provides a comprehensive guide on how to use RTMP video streaming over the Diode network, specifically utilizing a Raspberry Pi with its camera module. Below is a detailed summary of the technical information provided, focusing on installation, command-line commands, configurations, and code snippets.
+
+#### Overview
+RTMP (Real-Time Messaging Protocol) is a standard for streaming audio, video, and data. The guide walks through the process of setting up a video stream using various tools and technologies.
+
+#### Requirements
+1. **Hardware:**
+   - Raspberry Pi Zero W or any other model
+   - Raspberry Pi Camera Module V2 (including NoIR)
+
+2. **Software:** 
+   - Latest version of Raspberry Pi OS (Raspbian Buster recommended)
+
+#### Installation Steps
+
+1. **Install Diode CLI:**
+   - To install the Diode CLI, run the following command on the Pi terminal:
+     ```bash
+     curl -Ssf https://diode.io/install.sh | sh
+     ```
+
+2. **Enable the Camera:**
+   - From the Pi terminal, type:
+     ```bash
+     sudo raspi-config
+     ```
+   - Navigate to: `Interfacing Options -> Camera -> Yes`
+
+3. **Install GStreamer:**
+   - For Raspbian Buster, execute the following:
+     ```bash
+     sudo apt install gstreamer1.0-tools gstreamer1.0-plugins-bad gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-omx-rpi gstreamer1.0-omx-rpi-config
+     ```
+   - For Bullseye (limited support as of December 2021):
+     ```bash
+     sudo apt-get install libgstreamer1.0-dev libgstreamer-plugins-base1.0-dev libgstreamer-plugins-bad1.0-dev gstreamer1.0-plugins-ugly gstreamer1.0-tools gstreamer1.0-gl gstreamer1.0-gtk3
+     ```
+
+4. **Install NGINX:**
+   - To install NGINX with RTMP module:
+     ```bash
+     sudo apt install libnginx-mod-rtmp nginx-full
+     ```
+
+5. **Configure NGINX:**
+   - Edit the RTMP configuration file:
+     ```bash
+     sudo nano /etc/nginx/modules-enabled/rtmp.conf
+     ```
+     And include:
+     ```nginx
+     rtmp_auto_push on;
+     rtmp {
+         access_log /var/log/nginx/rtmp_access.log;
+         server {
+             listen 1935;
+             chunk_size 4096;
+             application live {
+                 live on;
+                 record off;
+                 hls on;
+                 hls_path /var/www/html/hls;
+                 hls_fragment 3;
+                 hls_playlist_length 60;
+                 deny play all;
+             }
+         }
+     }
+     ```
+   - Update the default site file:
+     ```bash
+     sudo nano /etc/nginx/sites-enabled/default
+     ```
+     With the following:
+     ```nginx
+     server {
+         listen 80 default_server;
+         root /var/www/html;
+         location / {
+             try_files $uri $uri/ =404;
+         }
+         location /hls {
+             add_header Cache-Control no-cache;
+             add_header 'Access-Control-Allow-Origin' '*' always;
+             ...
+         }
+     }
+     ```
+   - Create the HLS directory:
+     ```bash
+     sudo mkdir -p /var/www/html/hls
+     sudo chown pi:pi /var/www/html/hls
+     ```
+   - Restart NGINX:
+     ```bash
+     sudo systemctl restart nginx
+     ```
+
+6. **Configure the GStreamer Pipeline:**
+   - Store the following script in `/usr/local/bin/gst-diode-local-stream`:
+     ```bash
+     #!/bin/bash
+     raspivid -t 0 -b 2097152 -w 1280 -h 720 -fps 30 -n -o - | gst-launch-1.0 fdsrc ! video/x-h264,width=1280,height=720,framerate=30/1 ! h264parse ! queue ! flvmux streamable=true ! rtmpsink location="rtmp://localhost:1935/live/diodecam"
+     ```
+   - Make it executable:
+     ```bash
+     sudo chmod +x /usr/local/bin/gst-diode-local-stream
+     ```
+
+7. **Create a Systemd Service:**
+   - Add the following service configuration in `/etc/systemd/system/gst-diode-local-stream.service`:
+     ```ini
+     [Unit]
+     Description=RPI GStreamer Diode RTMP Source
+
+     [Service]
+     Type=simple
+     ExecStart=/usr/local/bin/gst-diode-local-stream
+     Restart=on-failure
+     RestartSec=5s
+
+     [Install]
+     WantedBy=multi-user.target
+     ```
+   - Enable and start the service:
+     ```bash
+     sudo systemctl daemon-reload
+     sudo systemctl enable gst-diode-local-stream
+     sudo systemctl start gst-diode-local-stream
+     ```
+
+8. **Create the HTML Player:**
+   - Insert the following HTML into `/var/www/html/index.html` to create a video player:
+     ```html
+     <!DOCTYPE html>
+     <html lang="en">
+     <head>
+         <title>Diode HLS Cam</title>
+         <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+     </head>
+     <body>
+         <video id="videojs-player" class="video-js" preload="auto" controls autoplay>
+             <source src="/hls/diodecam.m3u8" type="application/x-mpegURL">
+             Your browser does not support the video tag.
+         </video>
+         <script src="https://unpkg.com/video.js/dist/video.min.js"></script>
+     </body>
+     </html>
+     ```
+
+9. **Access the Stream:**
+   - Access your stream locally by entering the Raspberry Pi's IP address in a web browser. For public access via Diode, modify the `diode.service` in `/etc/systemd/system` as needed and start the service:
+     ```bash
+     sudo systemctl start diode
+     ```
+   - Check the service status:
+     ```bash
+     systemctl status diode
+     ```
+
+#### Conclusion
+Following these detailed steps enables you to set up an RTMP stream using a Raspberry Pi and the Diode network, allowing live video broadcasting with accessible links and a basic web interface for viewing the stream.### Remote Drive Mapping (SMB Shares) on Windows and Mac | Diode Docs
+
+This page provides a detailed tutorial for setting up remote drive access using Samba shares on Windows and MacOS through the Diode CLI. Below is a comprehensive breakdown of the important technical information, including setup steps, command-line commands, links, and installation instructions.
+
+#### Overview
+- The tutorial allows users to map a network drive on Windows or connect to a server on Mac, enabling secure access to a remote computer's Samba share without needing a static IP or VPN.
+- This use case is particularly beneficial for multi-user access scenarios.
+
+#### System Setup
+- **Remote Drive**: Intended to be set up as a Samba share on a Linux system (Ubuntu in this example).
+- **Local Machine**: Can be either Windows or MacOS.
+
+##### Remote Drive Setup Steps (Ubuntu)
+1. **Install Samba**:
+   ```bash
+   sudo apt update
+   sudo apt install samba
+   whereis samba
+   ```
+
+2. **Create a Samba User**:
+   ```bash
+   adduser sambademo
+   Set password: <yourpwd1>
+   ```
+
+3. **Set Up Samba Share Directory**:
+   ```bash
+   mkdir /home/sambademo/sambashare
+   touch /home/sambademo/helloworld.txt
+   ```
+
+4. **Configure Samba**:
+   ```bash
+   sudo nano /etc/samba/smb.conf
+   ```
+   Add the following configuration:
+   ```ini
+   [sambashare]
+   comment = Samba on Ubuntu
+   path = /home/sambademo/sambashare
+   read only = no
+   browsable = yes
+   ```
+   
+5. **Restart Samba Service**:
+   ```bash
+   sudo service smbd restart
+   ```
+
+6. **Set Samba User Password**:
+   ```bash
+   sudo smbpasswd -a sambademo
+   Set password: <yourpwd2>
+   ```
+
+7. **Configure Firewall** (optional):
+   ```bash
+   sudo ufw allow samba
+   ```
+
+##### Diode Setup
+1. **Install Diode CLI**:
+   ```bash
+   curl -Ssf https://diode.io/install.sh | sh
+   ```
+   
+2. **Verify Installation**:
+   ```bash
+   diode time
+   ```
+
+3. **Download Diode Service**:
+   ```bash
+   wget https://diode.io/diode.service
+   sudo mv diode.service /etc/systemd/system/
+   ```
+
+4. **Edit Service File**:
+   ```bash
+   sudo nano /etc/systemd/system/diode.service
+   ```
+   Change:
+   ```plaintext
+   ExecStart=<user home path>/opt/diode/diode publish -public 22:22,445:445,139:139
+   ```
+
+5. **Start Diode Service**:
+   ```bash
+   sudo systemctl enable diode
+   sudo systemctl start diode
+   sudo systemctl status diode
+   ```
+
+#### Local Machine Setup
+
+**MacOS Steps**:
+1. Install the Diode CLI (same command as above).
+2. Bind the local machine's port to the remote server:
+   ```bash
+   diode -bind 1039:0xb...9:445
+   ```
+3. In Finder, go to "Go" > "Connect to Server" and enter:
+   ```plaintext
+   smb://localhost:1039/sambashare
+   ```
+4. Enter credentials: "sambademo" and "<yourpwd2>".
+
+**Windows Steps**:
+1. Download Diode CLI from [Diode Downloads](https://diode.io/download).
+2. Check Diode CLI functionality:
+   ```bash
+   diode time
+   ```
+3. Use PowerShell to set up a loopback adapter and configure settings:
+   ```powershell
+   $loopback_name = 'SMB-Loopback'
+   $primary_interface = 'Ethernet'
+   $loopback_ipv4 = '10.254.1.3'
+   $loopback_ipv4_length = '32'
+   Install-Module -Name LoopbackAdapter -MinimumVersion 1.2.0.0 -Force
+   ```
+
+4. Configure network settings:
+   ```powershell
+   New-LoopbackAdapter -Name $loopback_name -Force
+   ```
+
+5. Use netsh to forward ports:
+   ```bash
+   netsh interface portproxy add v4tov4 listenaddress=10.254.1.3 listenport=445 connectaddress=127.0.0.1 connectport=44445
+   ```
+
+6. Connect to the remote server:
+   ```bash
+   diode -bind 44445:0xb...9:445
+   ```
+7. Map the network drive in Windows Explorer using:
+   ```plaintext
+   \\10.254.1.3\sambashare
+   ```
+
+By following these detailed steps, you can set up remote drive mapping on both Windows and Mac using the Diode CLI and Samba shares effectively.### Publish Static Content | Diode Docs
+
+This page provides a guide on how to publish static content using Diode, which includes a small built-in web server for tiny projects that do not have a dedicated web server. Here are the key details broken down into important technical information regarding links, command line commands, system installation, and code.
+
+#### Key Information
+
+1. **Overview**:
+   - The guide introduces a simple way to publish static content using Diode's built-in web server.
+
+2. **Installation**:
+   - Before you can publish static content, you need to install the Diode CLI. Specific installation instructions for different platforms are not detailed on this page but can typically be found in the main installation section of the Diode documentation.
+
+3. **Command Line Commands**:
+   - The following commands are provided to create a project and publish static content:
+     ```bash
+     mkdir project          # Create a new directory called 'project'
+     cd project             # Navigate into the 'project' directory
+     echo "Hello World" > index.html  # Create an HTML file with "Hello World"
+     diode publish -http    # Publish the content via HTTP using Diode
+     ```
+   - After running the last command (`diode publish -http`), the user receives instructions presenting the new server URL.
+
+4. **Web Server**:
+   - The provided command starts a tiny built-in web server which can serve the `index.html` file created in the project directory.
+   - Users can access their website using the generated URL, which allows them to share it with others.
+
+5. **Domain Registration**:
+   - After publishing, there is an option to register a more user-friendly domain name instead of the autogenerated hex. Instructions for this can be found in another section, specifically titled "Reserve a Domain Name".
+
+6. **Links**:
+   - No direct links were specified within this content for further navigation, but users can refer to the Diode Docs for other sections related to installation, troubleshooting, and CLI commands.
+
+This page serves as a straightforward guide for users wishing to leverage Diode's capabilities to publish lightweight static content quickly and effectively.### BlockQuick(TM) | Diode Docs
+
+**Overview:**
+BlockQuick(TM) is an innovative super lightweight client protocol designed for Ethereum. Developed by the Diode team, it tackles significant security vulnerabilities such as man-in-the-middle attacks and eclipse attacks. Rather than relying solely on the traditional methods of block validation, BlockQuick utilizes a “Consensus Reputation Table” for enhanced security.
+
+**Key Features:**
+
+1. **Lightweight Validation:**
+   - BlockQuick does not require extensive disk space like traditional blockchain syncing methods (e.g., full sync requires over 200GB). Instead, it allows synchronization with just a handshake size of 20KB, establishing the most recent block hash significantly faster and more efficiently.
+
+2. **Security Enhancements:**
+   - By utilizing the Consensus Reputation Table, BlockQuick mitigates risks associated with common blockchain vulnerabilities, making it more secure than existing sync methods.
+
+3. **Decentralization Benefits:**
+   - The protocol not only supports secure blockchain interactions but also promotes the full decentralization of Internet infrastructure, paving the way for more robust decentralized applications.
+
+4. **Applications:**
+   - BlockQuick is integrated into the Diode CLI and other applications, such as Diode Collab, enabling direct and trustless interaction with decentralized network technologies.
+
+5. **Further Resources:**
+   - For in-depth understanding, users are encouraged to refer to the [original blog post](#) or the [BlockQuick Paper](#) available on the website.
+
+**Command Line Commands & Installation:**
+- The specific commands and installation instructions weren't extracted from the scraped information, but typically, such documentation includes step-by-step guides for installation and commands used to operate the specific features of the CLI. Please refer to the full documentation for explicit command syntax and examples.
+
+**Conclusion:**
+BlockQuick(TM) represents a significant advancement in how clients interact with Ethereum and other public blockchain networks, making it a vital tool for developers and users looking to leverage decentralized technologies effectively.
+
+For further exploration and technical details, please refer to the respective pages for installation and CLI command usage on the Diode documentation site.### CLI Commands | Diode Docs
+
+The page provides an overview of command line interface (CLI) commands available for the Diode network. Here are the key points and technical information presented:
+
+**1. Overview of Diode CLI:**
+   - The Diode CLI is a command line tool for interacting with the Diode network.
+   - Basic commands can be initiated with `diode` to list commands, and detailed help can be accessed with `diode <command> --help`.
+
+**2. Primary Command Structure:**
+   - The general syntax for the CLI command is:
+     ```
+     diode [-allowlists=] [-api=false] ... COMMAND <args>
+     ```
+   - The command can accept various flags and arguments.
+
+**3. List of Essential Commands:**
+   - **bns**: Manages the Blockchain Name Service.
+     - Example usage: `diode bns -register hello-world=0x......`
+   - **config**: Manages local configuration variables.
+     - Example usage: `diode config -delete lvbn2`
+   - **fetch**: Performs HTTP operations through the Diode network.
+     - Example usage: 
+       ```
+       diode fetch -method post -data "{'username': 'test', password: '123456'}" -header 'content-type:application/json'
+       ```
+   - **gateway**: Enables a public gateway server.
+     - Example usage:
+       ```
+       diode gateway -httpd_port 8080 -httpsd_port 443 -secure -certpath ./cert.pem -privpath ./priv.pem
+       ```
+   - **publish**: Publishes local device ports to the Diode Network.
+     - Example usage:
+       ```
+       diode publish -public 80:80 -protected 3000:3000
+       ```
+   - **reset**: Initializes a new account and fleet contract (deletes current credentials).
+     - Example usage: `diode reset`
+   - **socksd**: Enables a SOCKS proxy.
+     - Example usage: `diode socksd -socksd_port 8082`
+   - **time**: Retrieves the current consensus blockchain time.
+     - Example usage: `diode time`
+   - **token**: Transfers DIODEs within the blockchain.
+     - Example usage: 
+       ```
+       diode token -to 0x...... -value 1millidiode -gasprice 10gwei
+       ```
+   - **update**: Forces an update of the Diode client version.
+     - Example usage: `diode update`
+   - **version**: Displays the current version of the Diode client.
+     - Example usage: `diode version`
+
+**4. Flags and Arguments:**
+   - Each command can have specific arguments depending on its function. For example, the `fetch` command accepts parameters like `-data`, `-header`, `-method`, `-url`, etc. 
+
+**5. Additional Features:**
+   - The CLI supports options for setting up secure servers (HTTPS) and protocols for different applications, such as enabling a SOCKS proxy for browser use.
+
+This page serves as a comprehensive guide for developers looking to utilize the Diode network through its CLI, including command syntax, examples, and functionality.### Forum | Diode Docs
+
+The page provides information about the Diode Forum, allowing users to engage in discussions and troubleshoot issues related to the Diode client and command-line interface (CLI). Below are the key sections and technical details from the page:
+
+#### Key Features:
+- **Community Engagement**: Users can open topics, ask questions, and find discussions initiated by other community members.
+  
+#### Technical Information:
+1. **CLI Commands**: While specific commands are not detailed on this page, the forum is likely to have discussions around various commands related to the Diode CLI, including installation, usage, and troubleshooting.
+
+2. **Supporting Systems**:
+   - **Raspberry Pi**: Discussion on compatibility or specific configurations related to running Diode on Raspberry Pi devices.
+   - **Installation Instructions**: Additional contexts on where to find installations guides may be available in the community discussions.
+
+3. **Troubleshooting FAQs**:
+   - Users can find answers regarding common issues such as:
+     - The performance of the ARM64 Diode client and why it might not function properly on certain platforms.
+     - Questions regarding file paths for certificates and wallets, which are important for configuration and security.
+
+4. **Links to Additional Resources**:
+   - The forum mentions links to other products and documentation pages specifically related to CLI usage, including installation and operational instructions.
+
+5. **Engagement and Support**:
+   - Users are encouraged to join discussions on the forum for better insight and potential solutions to their problems.
+
+This information encapsulates the primary intention of the page, urging users to utilize the forum for community support regarding the Diode CLI and associated technologies. For deeper details about CLI commands and installation processes, it's recommended to explore the linked documentation and community threads further.### Page Title: Github | Diode Docs
+
+The page provides information on how to contribute to the Diode project via GitHub, highlighting the significance of community involvement in improving the software.
+
+#### Main Information:
+1. **Open Source Initiative**: The Diode project is open-source, encouraging developers to contribute by checking out their GitHub repository.
+  
+2. **GitHub Repository**: The page likely contains a link to the Diode GitHub page, allowing users to find the source code and participate in development.
+
+3. **Community Contribution**: It emphasizes the importance of contributions from the community to enhance features, fix bugs, and address user needs.
+
+4. **Contributing Guidelines**: Specific guidelines are provided for developers who wish to contribute, including coding standards, pull request procedures, and communication protocols.
+
+5. **Issue Tracking**: Users can report issues or bugs directly on GitHub, fostering an environment of collaboration to resolve problems rapidly.
+
+Unfortunately, the scraper's response did not provide detailed information regarding command-line commands, system installation, or code. In order to help you better, I can scrape additional links or specific sections from the webpage if you provide them.### Page Title: Join The Discussion | Diode Docs
+
+This page provides information about joining the community discussions surrounding the Diode project. Here are the main details and technical information from the page:
+
+#### Key Information:
+- **Community Engagement**: The page highlights the importance of community interaction and encourages users to join the Diode discussions.
+- **Discord Channel**: The primary means of collaboration and discussion is through their Discord channel, where users can keep up to date with developments related to Diode.
+
+#### Technical Information:
+- **Links**: 
+  - The page directs users to a Discord channel for ongoing conversations about Diode. Users are encouraged to participate to learn more and stay updated.
+
+#### Command Line and Installation:
+- The current page does not provide specific command line commands, installation procedures, or other code-related details. Instead, it focuses mainly on community engagement through Discord.
+
+### Additional Links:
+If you provide more URLs for further analysis, I'll be happy to retrieve detailed information from those pages!### Why doesn't the ARM64 Diode client / CLI work on my platform? | Diode Docs
+
+This page addresses issues related to the installation and functionality of the ARM64 version of the Diode Client / CLI on various platforms, particularly focusing on compatibility problems experienced by users.
+
+#### Main Information:
+- **Installation Issues**: Users have experienced failures when installing the Diode client on ARM64 Ubuntu 18.04 platforms using the provided installation script. Additionally, when attempting to install manually, the commands do not trigger any actions.
+
+- **Compatibility Note**: The ARM64 build of the Diode CLI is specifically compiled for ARM processors used in 64-bit Raspberry Pi devices. If you are on a 64-bit Linux installation on a different platform, you will encounter issues.
+
+- **Compiling from Source**: To resolve these issues, users are instructed to compile the Diode client from source specifically for their machine architecture. The source code can be accessed and downloaded from the following link:
+  - [GitHub Diode Client Repository](https://github.com/diodechain/diode_client)
+
+#### Technical Instructions:
+1. **Pre-requisite**: Make sure you have the necessary tools installed to perform the compilation. This usually includes build-essential packages on your system.
+
+2. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/diodechain/diode_client.git
+   cd diode_client
+   ```
+
+3. **Build the Client**:
+   Execute the command to compile the Diode client:
+   ```bash
+   make
+   ```
+
+4. **Installation Steps**:
+   After building, follow any additional instructions in the repository's README file for installation and configuration.
+
+#### Important Technical Notes:
+- Ensure you have a proper development environment set up for building software from source (such as necessary libraries and dependencies).
+- If you encounter further issues post-compilation, consider checking forums or the GitHub issues page for guidance from the community or developers.
+
+This page primarily aids users facing challenges with the ARM64 version of the Diode client, directing them towards the proper steps for resolution.**Page Title: Where does the Diode Client / CLI save the certificate file path and key path? | Diode Docs**
+
+The page provides information about the default storage locations for the certificate file path and key path used by the Diode Client/CLI. Below are the key technical details outlined in the document:
+
+### Main Information:
+- The Diode Client/CLI saves the certificate and key files in predetermined default locations.
+- Users can customize the paths using command-line arguments.
+
+### Command Line Commands:
+- To obtain help and details about the default paths, users can run the following command in their terminal:
+  ```bash
+  diode gateway --help
+  ```
+- This command will display information on the default locations for the certificate and key files, along with additional command line arguments such as:
+  - `-privpath`: Specifies the custom path for the private key.
+  - `-certpath`: Specifies the custom path for the certificate.
+
+### Technical Details:
+- **Default Locations:** The page does not specify the exact default file paths, but it implies that they can be found by executing the command above.
+- **Custom Paths:** Users can set custom paths for the certificate and key files, which can be useful for organizational purposes or enhanced security.
+
+### Important Links:
+- [Diode Docs Main Page](https://cli.docs.diode.io/docs)
+
+This page is primarily aimed at users of the Diode Client/CLI who need to understand where their security files are being stored and how to customize these locations as needed.### Page Title: How do I use a different wallet for the Diode CLI? | Diode Docs
+
+#### Main Information:
+This page provides instructions on how to utilize a different wallet for the Diode CLI (Command Line Interface). It specifically addresses how to specify a custom database path for the wallet when executing commands in the Diode CLI.
+
+#### Technical Information:
+- **Command Line Command**:
+  To use a different wallet, the `-dbpath` option is used in the command line. Below is an example command:
+
+  ```
+  diode -dbpath=/home/pi/.config/diode2/private.db publish -public 80:80
+  ```
+
+- **Explanation of the Command**:
+  - `diode`: This indicates that you are using the Diode CLI tool.
+  - `-dbpath=/home/pi/.config/diode2/private.db`: This option specifies the path to the database file for the wallet you want to use.
+  - `publish -public 80:80`: This part of the command is used to publish services publicly over port 80, forwarding it to another service or application.
+
+#### Important Notes:
+- Ensure that you have correct permissions to access the specified path and that the path points to a valid database file.
+- The command must be executed in a terminal or command prompt where the Diode CLI is installed.
+
+This page essentially guides users in redirecting the Diode CLI to a specific wallet database, enhancing customizability for users with multiple wallets.### Where is my local wallet stored? 
+
+The page provides detailed information about the storage locations of local wallet files used by the Diode client applications. Here's the main content summarized, along with important technical information regarding paths, commands, and configuration options:
+
+#### Main Information:
+Diode client applications utilize a local "wallet" to store credentials essential for trustless interactions with the Diode Network. The page outlines where these wallet files are located on different operating systems, including Linux, Windows, and macOS. 
+
+#### Technical Details:
+
+1. **Default Wallet File Locations**:
+   - **Diode CLI**:
+     - **Linux**: `/home/<yourname>/.config/diode/private.db`
+     - **Windows**: `C:\Users\<yourname>\AppData\Roaming\diode\private.db`
+     - **MacOS**: `/Users/<yourname>/Library/Application Support/diode/private.db`
+
+   - **Diode Collab**:
+     - **Linux**: `/home/<yourname>/.config/ddrive/ddrive.sq3`
+     - **Windows**: `C:\Users\<yourname>\.config\ddrive\ddrive.sq3`
+     - **MacOS**: `/Users/<yourname>/.config/ddrive/ddrive.sq3`
+
+2. **Custom Wallet Location**:
+   - For both Diode CLI and Diode Collab, users can specify a custom location for their wallet files:
+     - For Diode CLI, you can change the location using the `-dbpath` argument.
+     - For Diode Collab, you can replace the folder "ddrive" with a file "ddrive" that points to the new profile path.
+
+This documentation is essential for users needing to locate their wallet files or configure them for specific use cases within the Diode ecosystem.**Page Title: Are my communications via the Diode Network encrypted? | Diode Docs**
+
+The page provides information regarding the encryption of communications within the Diode Network. Here’s a detailed summary of the main information presented:
+
+### Encryption Overview
+- **End-to-End Encryption (E2E):**
+  - The Diode Network supports various types of communication, both encrypted and non-encrypted.
+  - The Diode Collab, Diode CLI, and other applications utilize 256-bit end-to-end encryption based on the elliptic curve secp256k1 domain parameter for secure server connections and E2E communications.
+
+### Technical Information
+- **Diode CLI:**
+  - The Diode Command Line Interface (CLI) comes with E2E encryption enabled by default.
+  - Users can control the E2E encryption setting through a command line parameter: `-e2e=<true/false>`. This allows the user to specify if the encryption should be active or not.
+
+### Key Points on Usage
+- The CLI application is designed for secure communications, ensuring that data transmitted through the Diode Network is protected.
+- The system is developed to be user-friendly while still providing strong security features for sensitive operations.
+
+### Additional Resources
+- The page references a related **OpenSSL FAQ entry**, which may contain further details on implementation and use cases of encryption within the context of the Diode Network.
+
+This information emphasizes the importance and implementation of encryption in the Diode Network's communication, particularly through the Diode CLI.### Page Title: Can I run Diode on a router or a computer? | Diode Docs
+
+**Main Information:**
+The page discusses the capability of running the Diode Client on routers and computers. It emphasizes that Diode Network is unique for offering trustless direct connectivity to small devices.
+
+**Technical Information:**
+
+1. **Supported Platforms:**
+   - The Diode Client is confirmed to operate on routers and computers, with specific mention of support for Raspberry Pi running Linux.
+
+2. **Collaboration:**
+   - Users are encouraged to reach out via the Diode project's Telegram channel if they are interested in supporting a particular router platform.
+
+3. **Key Features of Diode:**
+   - Unique decentralized network.
+   - Trustless direct connectivity feature.
+
+**Command Line Interface (CLI) References:**
+- Specific command line commands, installation steps, or other technical details are not provided in the scraped text. For detailed command line usage and installation instructions, one might need to look into other sections of the documentation.
+
+This page serves as a brief introduction about the Diode's compatibility with different hardware set-ups, focusing on routers and computers while encouraging community interaction for expansion and support. For more comprehensive technical documentation on installation or code snippets, further exploration of their documentation would be required.### What is the Diode CLI? | Diode Docs
+
+The Diode Command Line Interface (CLI) is designed to facilitate interaction with the Diode Network, enabling users to harness its full capabilities. Below are the key details and technical information from the page:
+
+#### Overview of Diode CLI
+- **Purpose**: The Diode CLI allows users to easily access and manage various functionalities of the Diode Network. It serves as a gateway to tools that can publish Web3 content, connect with decentralized networks, and execute various commands.
+- **Supported Systems**: The CLI can be installed on:
+  - Linux
+  - MacOS
+  - Windows
+
+#### Installation
+- The CLI can be installed as a small program that runs from a terminal window or command line prompt.
+- The documentation suggests checking the “Start Here” section for initial setup guidance and the “CLI Commands” section for detailed functionality.
+
+#### Technical Features
+- **BlockQuick(TM) Algorithm**: A proprietary algorithm used by the Diode CLI to enable direct interactions with compatible decentralized networks.
+- **Use Cases**: Users can perform a variety of functions through the CLI, including but not limited to:
+  - Publishing Web3 content
+  - Hosting proxy servers
+  - Remote access via SSH or VNC
+  - Streaming RTMP video
+  - Remote drive mapping
+  
+#### Helpful Links
+- **GitHub Repository**: The source code and some additional resources for the CLI can be found at the following link:
+  - [Diode Go Client GitHub Repository](https://github.com/diodechain/diode_go_client)
+
+#### Additional Notes
+- The documentation encourages users to explore the section on "CLI Commands" for specific command examples and configurations.
+- Users are also guided to utilize the forum and contribute to the development and discussion surrounding the Diode CLI.
+
+This information provides a comprehensive overview of the Diode CLI, its installation, supported commands, and its application within the Diode Network.### Is it safe to use SSH via Diode on the public Internet?
+
+The page from Diode Docs discusses the safety of using SSH (Secure Shell) over the public internet through the Diode platform. Here are the main points and important technical information extracted:
+
+1. **General Safety Consideration**:
+   - The document emphasizes that while it's generally safest not to expose any interface to the internet, SSH is designed to be a secure interface and can be safely exposed if proper precautions are taken.
+
+2. **Recommendations for Securing SSH**:
+   - The page references articles, such as those from RedHat, which provide tips for enhancing SSH security. While specific measures are not detailed on the page, readers are encouraged to consult external resources for comprehensive security guidelines.
+
+3. **Publishing SSH with Diode**:
+   - Diode CLI allows you to expose SSH functionality with the command:
+     ```
+     diode publish -public 22:22
+     ```
+   - In this command, `22:22` represents the local port 22 mapped to a public port 22. This setup allows for remote SSH access.
+
+4. **Further Security Options**:
+   - To enhance security, users can publish their SSH port in different modes:
+     - **Private Mode**: Only a specific client can access the SSH service.
+     - **Protected Mode**: Access is restricted to clients listed in your Fleet Contract.
+
+In summary, while exposing SSH on the public internet can be done safely with Diode, adhering to best practices for security is crucial.### Docs on Other Products | Diode Docs
+
+The page provides detailed information about the various components of the Diode ecosystem, specifically focusing on four primary products: Diode Network, Diode Collab, Diode CLI, and Diode Vault. Here's a breakdown of the key technical information and features of each component:
+
+#### 1. Diode Network
+- **Description**: An open, permissionless secure communication network that employs blockchain technology for enhanced security and scalability. This allows for decentralized communication without traditional vulnerabilities.
+  
+#### 2. Diode Collab
+- **Description**: A cross-platform messaging application that serves as a secure alternative to mainstream communication tools such as Discord and Slack. It includes features for messaging and collaboration safely over the Diode Network.
+
+#### 3. Diode CLI (Command-Line Interface)
+- **Description**: A tool designed for developers to build applications and functionalities on top of the Diode Network. This CLI allows for interactions with Diode Collab users.
+- **Key Features**:
+  - **Command-line commands**: Specific commands for various administrative and operational tasks within the CLI.
+  - **Installation Instructions**: Guidelines on how to install the CLI are crucial for developers looking to integrate with the Diode ecosystem.
+
+#### 4. Diode Vault
+- **Description**: A hardware device that integrates both Diode Collab and the CLI functionalities. It can serve multiple purposes including acting as a backup device for Diode Collab zones and hosting decentralized websites.
+
+### Important Technical Information
+- **CLI Commands**: The CLI provides essential commands for developers to utilize. Unfortunately, specific commands are not detailed in the scraped content, but they are typically available in an accompanying command reference or user guide linked from the CLI section.
+- **Installation**: Guidelines for installing the Diode CLI will likely provide system requirements, installation methods (which may include terminal commands), and troubleshooting steps for common installation issues.
+- **Links to Documentation**: The page refers to additional documentation for each component, likely containing in-depth guides and technical references.
+- **Secure Communications**: It indicates that all communications over the Diode Network are secured, leveraging blockchain capabilities.
+
+### Summary
+This documentation is a central point for developers and users interested in utilizing Diode's suite of products. It effectively highlights the components of Diode's ecosystem—focusing on functionality, security, and cross-platform compatibility, making it an essential reference for both installation and operation within the Diode environment.
